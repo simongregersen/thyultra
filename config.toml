@@ -2,7 +2,8 @@ baseURL = "https://thyultra.dk"
 title = "Cold Hawaii Ultra"
 enableRobotsTXT = true
 theme = "compose"
-# enableGitInfo = true
+enableGitInfo = true
+publishDir = "docs"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
