@@ -1,4 +1,4 @@
-baseURL = "https://thyultra.dk"
+baseURL = "/"
 title = "Cold Hawaii Ultra"
 enableRobotsTXT = true
 theme = "compose"
