@@ -136,36 +136,49 @@ Lyngby (11 km)
 
 ## Depoter og mad
 
-Der vil under Cold Hawaii Ultra være depoter spredt ud over hele ruten. Ved alle
-depoter vil der forefindes:
+Der vil under Cold Hawaii Ultra 2020 være depoter spredt ud over hele ruten, men
+grundet COVID-19 vil der kun være vand og energidrik (medbring egen kop/flaske)
+i alle depoter. Det vil dog helt ekstraordinært være muligt at få udbragt **én dropbag
+per depot** for alle løbere.
 
-- Bananer
-- Cola
-- Vand (medbring egen kop)
-- Energidrik
-- Gifler
-- Vingummi
-- Chips
+Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer,
+distance, navn og depotnummer.
 
-Det er endvidere muligt at få udbragt én dropbag til Klitmøller (50 miles og 100
-miles) og én dropbag til Bulbjerg (100 miles). Dropbags skal være tydeligt
-markeret med løbsnummer, distance og navn.
+Dropbags indleveres ved indskrivning og vil blive bragt til målområdet hurtigst
+muligt under eller efter løbet. Dropbags fragtes **ikke** mellem depoterne.
 
-Dropbags indleveres ved indskrivning og vil blive bragt til målområdet efter
-løbet.
+<!-- . Ved alle -\-> --> <!-- depoter vil der forefindes: -->
+
+<!-- Der vil under Cold Hawaii Ultra være depoter spredt ud over hele ruten. Ved alle -->
+<!-- depoter vil der forefindes: -->
+
+<!-- - Bananer -->
+<!-- - Cola -->
+<!-- - Vand (medbring egen kop) -->
+<!-- - Energidrik -->
+<!-- - Gifler -->
+<!-- - Vingummi -->
+<!-- - Chips -->
+
+<!-- Det er endvidere muligt at få udbragt én dropbag til Klitmøller (50 miles og 100 -->
+<!-- miles) og én dropbag til Bulbjerg (100 miles). Dropbags skal være tydeligt -->
+<!-- markeret med løbsnummer, distance og navn. -->
+
+<!-- Dropbags indleveres ved indskrivning og vil blive bragt til målområdet efter -->
+<!-- løbet. -->
 
 ### Depotoversigt
 
 - Tranum (100M: v/ca. 28 km)
 - Kollerup (100M: v/ca. 55 km)
 - Bulbjerg (100M: v/ca. 81 km)
-  + 100M: Dropbag 1
+  <!-- + 100M: Dropbag 1 -->
 - Vigsø (50M: v/ca. 23 km, 100M: v/ca. 105km)
 - Klitmøller (50M: v/ca. 42 km, 100M: v/ca. 122km)
-  + 100M: Dropbag 2
-  + 50M: Dropbag
+  <!-- + 100M: Dropbag 2 -->
+  <!-- + 50M: Dropbag -->
 - Vorupør (50M: v/ca. 57 km, 100M: v/ca. 137km)
-  + Foruden øvrigt depotindhold: suppe m/pasta
+  <!-- + Foruden øvrigt depotindhold: suppe m/pasta -->
 - MÅL: Vesterhavshytten
   + Menu fra Vesterhavshytten
 
@@ -237,6 +250,13 @@ Priserne for at deltage i Cold Hawaii Ultra er fastlagt som følger:
   + 1. marts til 20. september: kr. 300,-
 - 11 km:
   + 1. marts til 20. september: kr. 125,-
+
+## Arrangør
+
+Cold Hawaii Ultra arrangeres af
+
+- [Simon Grimstrup](https://www.facebook.com/danishmountainrunner/)
+- Simon Gregersen
 
 ## Tilmelding
 
