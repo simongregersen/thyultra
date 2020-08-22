@@ -40,9 +40,23 @@ benytte sig af Nordsøstien og
 {{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
-<!-- {{<columns>}} -->
-<!-- ![Forsiden1](/images/front19.jpg) -->
-<!-- <--\-> -->
-<!-- ![Forsiden2](/images/front19-2.jpg) -->
-<!-- {{</columns>}} -->
-<!-- {{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}} -->
+{{< hint danger >}}
+
+**COVID-19 opdatering**: Som situationen ser ud i øjeblikket, så er der ingen
+hindringer for afviklingen af Cold Hawaii Ultra 2020!
+
+Ikke desto mindre, så har vi valgt at tage en række ekstra forholdsregler for at
+mindske risikoen for smitte:
+
+1. Mundbind vil være påkrævet i alle busser til start for alle løbere og på alle
+   distancere; alle bedes medbringe dette.
+2. Ved alle depoter vil der være håndsprit, og genopfyldning af vand og energi
+   vil kun foretages af depotcrewet.
+3. Målzonen vil kun være tilgængelig for løbere. Vi appellerer familie, venner
+   og bekendte til at heppe fra sidelinjen ude på ruten i stedet.
+4. Løbere bedes forlade målzonen snarest muligt efter målgang: vi sørger for en
+   "to-go" forplejning, som man kan snuppe med i farten.
+
+{{< /hint >}}
+
+{{< figure src="/itra_member.png" width="150px" >}}

@@ -6,9 +6,9 @@ bookToc: true
 # Løbsinformation
 
 Et helt unikt A - B trailløb uden loops fra
-+ Løkken til Agger (100 miles),
-+ Bulbjerg til Agger (50 miles),
-+ Hanstholm til Agger (50 km),
++ Løkken til Agger (100 miles), {{< itra 5 "https://itra.run/race/26979-cold-hawaii-ultra-2020-100-miles&2020" >}}
++ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/race/8691-cold-hawaii-ultra-2020-50-miles&2020">}}
++ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/race/8689-cold-hawaii-ultra-2020-50-km&2020" >}}
 + Nr. Vorupør til Agger (25 km) eller
 + Lyngby til Agger (11 km)
 
@@ -21,7 +21,7 @@ ruten fra Bulbjerg til Agger og bemandede depoter med jævne mellemrum. Til alle
 løbere, der gennemfører Cold Hawaii Ultra, vil der være et lille trofæ/en
 medalje med et lokalt islæt.
 
-{{< hint danger >}}
+{{< hint info >}}
 
   **Bemærk**: den første halvdel af ruten (Løkken til Bulbjerg) for 100 miles er
   ikke mærket op og vil foregå med hjælp fra egen GPS-enhed og med enkelte
@@ -191,6 +191,19 @@ depot.
 
 ## Udstyr og sikkerhed
 
+{{< hint danger >}}
+
+**COVID-19 opdatering**: Da depoterne bliver sparsomme pga. Coronavirus og der
+derfor ikke bliver mulighed for længere ophold eller ly i depoterne er det
+obligatoriske udstyr blevet udvidet med med
+- 1 ekstra varm trøje (minimum 200 gram),
+- Regnslag, sort sæk eller regnjakke,
+- 1 stk. alutæppe,
+- Minimum 1000 kcal energi, når man forlader hvert depot,
+- **Hvis bustransport benyttes**: 1 stk. mundbind.
+
+{{< /hint >}}
+
 Da der er langt mellem depoterne, er det som deltager påkrævet som minimum at
 medbringe:
 
@@ -215,7 +228,7 @@ ca. kl. 19:30. Planlæg defor nøje efter dette!
 
 {{< /hint >}}
 
-{{< hint danger >}}
+{{< hint info >}}
 
 **Brug af GPS** vil være strengt nødvendigt for løbere på 100 miles, da de
 første 80 km af ruten (Løkken til Bulbjerg) *ikke* er markeret op. Dette kan
@@ -223,9 +236,9 @@ være en dedikeret GPS-enhed eller et GPS-løbeur. Vi vurdrer at man kan klare s
 uden baggrundskort, omend vi anbefaler at man har en enhed med (offline!)
 baggrundskort som backup, eksempelvis mobiltelefon.
 
-Vi kan anbefale appen *Topo GPS* der fås til både Android og iOS med mulighed
-for at importere en GPX-fil og offline topografiske kort over hele Danmark for
-kr. 29,-.
+Vi kan anbefale appen [Topo GPS](https://www.topo-gps.com/) der fås til både
+Android og iOS med mulighed for at importere en GPX-fil og offline topografiske
+kort over hele Danmark for kr. 29,-.
 
 GPX-fil med ruteforløbet fremsendes til alle løbere senest en uge før start.
 Det er deltagerens eget ansvar at medbringe funktionsdygtig GPS-enhed med

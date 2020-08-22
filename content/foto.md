@@ -19,4 +19,4 @@ såfremt fotografen krediteres.
 - [Thy Ultra Trail 2014](https://photos.app.goo.gl/UU4Vr36wsS9p2ZwQ8) (Søren Kragh)
 - [Thy Ultra Trail 2014](https://photos.app.goo.gl/u6LzHES9vqSQsYhE9) (Freddy Petersen)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/ESopHCo_8KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="ESopHCo_8KI" >}}

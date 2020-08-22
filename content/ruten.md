@@ -149,13 +149,14 @@ Krægpøtvej brat i en to meter skrænt, da Poseidon åbenbart også har haft ly
 til en bid af Krægpøtvej; vi fortsætter lidt ind i klitterne og ned på stranden.
 
 Vi følger stranden ca. 2 km for derefter at dreje op på en parkeringsplads i
-udkanten af Vigsø. Vi fortsætter vest ad Vigsø Sti, en letløbet
-gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen op og på
-højderyggen, der følges med en uimodståelig udsigt udover Vigsø Bugt ind mod
-**Depot 4**, der rammes efter ca. 23 km for løbere på 50 miles og ca. 105 km for
-løbere på 100 miles. Hvis man er heldig, så kan man også få lov til at sige hej
-til et par fredelige køer på vej ind mod depotet! Få tanket godt op og nyd
-udsigten!
+udkanten af Vigsø. På selve stranden vil der ingen markering være, omend det vil
+være tydeligt, hvor stranden skal forlades!  Vi fortsætter vest ad Vigsø Sti, en
+letløbet gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen
+op og på højderyggen, der følges med en uimodståelig udsigt udover Vigsø Bugt
+ind mod **Depot 4**, der rammes efter ca. 23 km for løbere på 50 miles og
+ca. 105 km for løbere på 100 miles. Hvis man er heldig, så kan man også få lov
+til at sige hej til et par fredelige køer på vej ind mod depotet! Få tanket godt
+op og nyd udsigten!
 
 Efter depotet løber vi mod Hanstholm langs højderyggen via fine stier med en
 smule kuperet terræn før vi krydser Kai Lindbergs Gade og bevæger os ind i
@@ -194,10 +195,11 @@ rundt i blandt de lavstammede rødgran og fyrretræer. De snørklede stier føre
 til det store og fredede sømærke ”Båken” som stammer helt tilbage
 fra 1884. Turen op til mærket er stejl og sandet---og ligeledes er nedløbet!
 Ruten fortsætter ned til Bøgsted rende, op over en klit og sydpå et par
-kilometer før vi rammer løbets strandetape. Efter ca. 3 km på stranden kommer
-man forbi landingspladsen ved Nr. Vorupør, hvor der stadig trækkes kuttere på
-land, og hvor **Depot 6** holder til, efter ca. 26 km for løbere på 50 km,
-ca. 57 km for løbere på 50 miles og ca. 137 km for løbere på 100 miles.
+kilometer før vi rammer løbets strandetape. Strandpassagen er ikke mærket
+op---følg blot stranden mod syd.  Efter ca. 3 km på stranden kommer man forbi
+landingspladsen ved Nr. Vorupør, hvor der stadig trækkes kuttere på land, og
+hvor **Depot 6** holder til, efter ca. 26 km for løbere på 50 km, ca. 57 km for
+løbere på 50 miles og ca. 137 km for løbere på 100 miles.
 
 ## Nr. Vorupør (start 25 km)
 
