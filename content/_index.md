@@ -59,4 +59,6 @@ mindske risikoen for smitte:
 
 {{< /hint >}}
 
+<center>
 {{< figure src="/itra_member.png" width="150px" >}}
+</center>

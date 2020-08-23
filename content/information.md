@@ -194,8 +194,8 @@ depot.
 {{< hint danger >}}
 
 **COVID-19 opdatering**: Da depoterne bliver sparsomme pga. Coronavirus og der
-derfor ikke bliver mulighed for længere ophold eller ly i depoterne er det
-obligatoriske udstyr blevet udvidet med med
+derfor ikke bliver mulighed for længere ophold eller ly er det obligatoriske
+udstyr udvidet med
 - 1 ekstra varm trøje (minimum 200 gram),
 - Regnslag, sort sæk eller regnjakke,
 - 1 stk. alutæppe,
@@ -209,12 +209,12 @@ medbringe:
 
 - 1 vindtæt jakke
 - 1 buff eller hue
-- Flasker/væskeblære til minimum 1,5 liter væske
+- Flasker/væskeblære til minimum 1,5 liter væske---der vil **ikke** være
+  engangskrus ved depoterne.
 - Ekstra energi
 - 1 mobiltelefon (der vil dog være områder uden dækning)
 - Førstehjælpsudstyr: som minimum kompresforbinding & sportstape
-- 1 kop (der vil **ikke** være engangskrus ved depoterne)
-- Kortmateriale (udleveres)
+<!-- - Kortmateriale (udleveres) -->
 - **100 miles**: GPS-enhed
 - **50 miles og 100 miles**: Pandelampe
 
@@ -231,7 +231,7 @@ ca. kl. 19:30. Planlæg defor nøje efter dette!
 {{< hint info >}}
 
 **Brug af GPS** vil være strengt nødvendigt for løbere på 100 miles, da de
-første 80 km af ruten (Løkken til Bulbjerg) *ikke* er markeret op. Dette kan
+første 80 km af ruten (Løkken til Bulbjerg) ikke er markeret op. Dette kan
 være en dedikeret GPS-enhed eller et GPS-løbeur. Vi vurdrer at man kan klare sig
 uden baggrundskort, omend vi anbefaler at man har en enhed med (offline!)
 baggrundskort som backup, eksempelvis mobiltelefon.
@@ -240,9 +240,9 @@ Vi kan anbefale appen [Topo GPS](https://www.topo-gps.com/) der fås til både
 Android og iOS med mulighed for at importere en GPX-fil og offline topografiske
 kort over hele Danmark for kr. 29,-.
 
-GPX-fil med ruteforløbet fremsendes til alle løbere senest en uge før start.
-Det er deltagerens eget ansvar at medbringe funktionsdygtig GPS-enhed med
-indlæst GPX-fil.
+GPX-fil med ruteforløbet kan findes under siden [Rutebeskrivelse]({{< relref
+"/ruten" >}}). Det er deltagerens eget ansvar at medbringe funktionsdygtig
+GPS-enhed med indlæst GPX-fil.
 
 {{< /hint >}}
 

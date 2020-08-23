@@ -26,6 +26,7 @@ markeringen. Til løbere der eksempelvis har et GPS-ur med navigationsfunktion
 kan man nedenfor downloade **vejledende** GPX-filer, omend vi understreger, at
 de ikke er nødvendige for at gennemføre løbet for løbere på disse distancer.
 
+- [100 miles, ruteforløb (GPX-fil)](/CHU-100miles.gpx)
 - [50 miles, ruteforløb (GPX-fil)](/CHU-50miles.gpx)
 - [50 km, ruteforløb (GPX-fil)](/CHU-50km.gpx)
 - [25 km, ruteforløb (GPX-fil)](/CHU-25km.gpx)
@@ -33,8 +34,8 @@ de ikke er nødvendige for at gennemføre løbet for løbere på disse distancer
 
 Strækningen fra Løkken til Bulbjerg er derimod **ikke** mærket op, hvorfor det
 af løbere på 100 miles kræves at have en GPS-enhed med navigationsfunktion til
-den første halvdel af løbet. GPX-fil udsendes senest en uge før løbsstart til
-disse løbere.
+den første halvdel af løbet. Det er deltagerens eget ansvar at medbringe
+funktionsdygtig GPS-enhed med indlæst GPX-fil.
 
 <!-- 12% på asfalt/vej --> <!-- 14% på grusveje/kørespor --> <!-- 59% på
 vandrestier - sandede og våde --> <!-- 15% på strand -->
@@ -108,7 +109,7 @@ en god vestenvind, vil løberne nok finde andre navne til dette stykke...
 
 Klim Bjerg passeres, men ruten holder sig nedenfor med kurs stik vest. Ruten går
 over i et dejligt grønt smalt singletrail langs en smuk parabelklit. Der løbes
-langs etpigtrådshegn ---så pas på. Der er et par låger, der skal passeres, og
+langs et pigtrådshegn, så pas på. Der er et par låger, der skal passeres, og
 når markerne slutter, skal der løbes mod højre (nordpå)--- Nordsøstien deler sig
 nemlig her! Det går af fine lige stier med blødt underlag mod Thorup Strand. Ved
 Thorup Strand skal GPS følges, så man lige kommer ned og runder, hvor kutterne
@@ -215,7 +216,7 @@ tid af året heldigvis næsten altid helt tør!
 Vi følger den gamle Redningsvej forbi et par enkelte idylliske (men særdeles
 øde!) sommerhuse, før der drejes til venstre ind mod Lyngby af Astavej, der er
 en god grusvej. Ved Lyngbyvej, som er asfalteret, drejes til højre. Ved Lyngby
-Redningshus drejer vi til venstre og er tilbage med sydgående kurs.
+Redningshus drejer vi til venstre og er tilbage med sydgående kurs ad grusvej.
 
 ## Lyngby (start 11 km)
 
