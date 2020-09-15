@@ -60,5 +60,7 @@ mindske risikoen for smitte:
 {{< /hint >}}
 
 <center>
-{{< figure src="/itra_member.png" width="150px" >}}
+<a href="https://www.scott-sports.com" target="_blank"><img src="/scott-logo.png" height="175px" /></a>
+<a href="https://i-tra.org/race/8691-2020 target="_blank"><img src="/itra_member.png" height="175px" /></a>
+<a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" height="175px" /></a>
 </center>

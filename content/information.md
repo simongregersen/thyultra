@@ -137,9 +137,10 @@ Lyngby (11 km)
 ## Depoter og mad
 
 Der vil under Cold Hawaii Ultra 2020 være depoter spredt ud over hele ruten, men
-grundet COVID-19 vil der kun være vand og energidrik (medbring egen kop/flaske)
-i alle depoter. Det vil dog helt ekstraordinært være muligt at få udbragt **én dropbag
-per depot** for alle løbere.
+grundet COVID-19 vil der kun være vand, energidrik (medbring egen kop/flaske)
+**og individuelt pakkede müslibarer fra Nordthy** i alle depoter. Det vil dog
+helt ekstraordinært være muligt at få udbragt **én dropbag per depot** for alle
+løbere.
 
 Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer,
 distance, navn og depotnummer.
