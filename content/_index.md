@@ -61,7 +61,11 @@ benytte sig af Nordsøstien og
 
 <center>
 <a href="https://www.scott-sports.com" target="_blank"><img src="/scott-logo.png" height="175px" /></a>
-<a href="https://i-tra.org/race/8691-2020 target="_blank"><img src="/itra_member.png" height="175px" /></a>
-<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/logo_utmb_2020.png" height="175px" /></a>
 <a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" height="175px" /></a>
+<a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" height="175px" /></a>
+<a href="https://www.bn.dk/" target="_blank"><img src="/logo_bjarne_2.png" height="175px" /></a>
+<a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
+<br>
+<a href="https://i-tra.org/race/8691-2020 target="_blank"><img src="/itra_member.png" height="125px" /></a>
+<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/logo_utmb_2020.png" height="125px" /></a>
 </center>
