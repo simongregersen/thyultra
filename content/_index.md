@@ -40,6 +40,10 @@ benytte sig af Nordsøstien og
 {{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
+{{< hint info >}}
+<a href="./2020_deltagerbrev.pdf" target="_blank">Deltagerbrev for Cold Hawaii Ultra 2020 kan downloads her.</a>
+{{< /hint >}}
+
 <!-- {{< hint danger >}} -->
 
 <!-- **COVID-19 opdatering**: Som situationen ser ud i øjeblikket, så er der ingen -->
