@@ -9,6 +9,13 @@ bookToc: false
 
 ![Forsiden1](/images/front19.jpg)
 
+{{< hint info >}}
+<a href="./2020_deltagerbrev.pdf" target="_blank">Deltagerbrev for Cold Hawaii Ultra 2020 kan downloads her.</a>
+{{< /hint >}}
+{{< hint info >}}
+<a href="https://my.raceresult.com/145353/results?lang=dk" target="_blank">Løbende resultater fra CHU 2020 tilgås via dette link.</a>
+{{< /hint >}}
+
 Cold Hawaii Ultra fremviser noget af den smukkeste og mest unikke natur i
 Danmark. Løbet afvikles
 
@@ -37,12 +44,11 @@ Deltagere på 100 miles starter tæt ved Løkken og vil foruden Vestkyststien
 benytte sig af Nordsøstien og
 [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål i Agger.
 
-{{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}}
+<!-- {{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
-{{< hint info >}}
-<a href="./2020_deltagerbrev.pdf" target="_blank">Deltagerbrev for Cold Hawaii Ultra 2020 kan downloads her.</a>
-{{< /hint >}}
+
+
 
 <!-- {{< hint danger >}} -->
 

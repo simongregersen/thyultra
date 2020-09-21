@@ -8,7 +8,7 @@ headless: true
 - [Regler]({{< relref "/regler" >}})
 - [Resultater]({{< relref "/resultater" >}})
 - [Billeder og video]({{< relref "/foto" >}})
-- [**LIVE RESULTATER 2020**](https://my.raceresult.com/145353/results?lang=dk)
+- [**RESULTATER 2020**](https://my.raceresult.com/145353/results?lang=dk)
 - [Startliste](https://my.raceresult.com/145353/participants?lang=dk)
 <!-- - [**Example Site**]({{< relref "/docs/example" >}}) -->
 <!-- - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}}) -->
