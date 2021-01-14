@@ -4,12 +4,12 @@ title: Rutebeskrivelse
 
 # Rutebeskrivelse
 
-Den samlede rute til Cold Hawaii Ultra strækker sig fra Løkken i nord til Agger
-i syd og benytter sig blandt andet af Vestkyststien, den gamle Redningsvej,
-Nordsøstien, og Hærvejsvandreruten. Underlaget er for alle distancer et mix
+Den samlede rute til Cold Hawaii Ultra strækker sig fra Bulbjerg i nord til Agger
+i syd og benytter sig blandt andet af Vestkyststien, den gamle Redningsvej og
+Nordsøstien<!-- , og Hærvejsvandreruten -->. Underlaget er for alle distancer et mix
 mellem sand, strand, småstier, hjulspor, faste grusveje og lidt asfalt ind
 imellem gennem nogle af landsbyerne.  Løbere på den længste distance starter i
-Løkken og de resterende distancer tilgår undervejs og alle med mål i Agger.
+Bulbjerg og de resterende distancer tilgår undervejs og alle med mål i Agger.
 
 Af nedenstående interaktive kortudsnit ses den samlede rutes forløb; røde
 markering angiver startsteder og orange markeringer depoter
@@ -17,25 +17,26 @@ jf. [Depotoversigt]({{< relref "information#depotoversigt" >}}). Benyt
 "cylinder"-ikonet til at slå de forskellige distancer til og fra og
 "boks"-ikonet for fuldskærmsvisning.
 
+<!-- <iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/untitled-map_481980?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe> -->
 
-<iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/untitled-map_481980?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
+<iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 Strækningen fra Bulbjerg til Agger vil være mærket op med minestrimmel og orange
 flag. Løbere på 50 miles, 50 km, 25 km og 11 km kan klare sig ved at følge
 markeringen. Til løbere der eksempelvis har et GPS-ur med navigationsfunktion
 kan man nedenfor downloade **vejledende** GPX-filer, omend vi understreger, at
-de ikke er nødvendige for at gennemføre løbet for løbere på disse distancer.
+de ikke er nødvendige for at gennemføre løbet. <!-- for løbere på disse distancer. -->
 
-- [100 miles, ruteforløb (GPX-fil)](/CHU-100miles.gpx)
+<!-- - [100 miles, ruteforløb (GPX-fil)](/CHU-100miles.gpx) -->
 - [50 miles, ruteforløb (GPX-fil)](/CHU-50miles.gpx)
 - [50 km, ruteforløb (GPX-fil)](/CHU-50km.gpx)
 - [25 km, ruteforløb (GPX-fil)](/CHU-25km.gpx)
 - [11 km, ruteforløb (GPX-fil)](/CHU-11km.gpx)
 
-Strækningen fra Løkken til Bulbjerg er derimod **ikke** mærket op, hvorfor det
-af løbere på 100 miles kræves at have en GPS-enhed med navigationsfunktion til
-den første halvdel af løbet. Det er deltagerens eget ansvar at medbringe
-funktionsdygtig GPS-enhed med indlæst GPX-fil.
+<!-- Strækningen fra Løkken til Bulbjerg er derimod **ikke** mærket op, hvorfor det -->
+<!-- af løbere på 100 miles kræves at have en GPS-enhed med navigationsfunktion til -->
+<!-- den første halvdel af løbet. Det er deltagerens eget ansvar at medbringe -->
+<!-- funktionsdygtig GPS-enhed med indlæst GPX-fil. -->
 
 <!-- 12% på asfalt/vej --> <!-- 14% på grusveje/kørespor --> <!-- 59% på
 vandrestier - sandede og våde --> <!-- 15% på strand -->
@@ -45,87 +46,87 @@ forsmag på de trailperler og naturoplevelser, der venter på jer ude i
 terænnet. Benyt menuen til højre for at gå direkte til det sted i beskrivelsen,
 hvor din distance starter.
 
-## Løkken (start 100 miles)
+<!-- ## Løkken (start 100 miles) -->
 
-<!-- Thy Ultra 100 miles starter på stranden ved Gåsestien nord for Løkken.  Vi går -->
-<!-- samlet ned på stranden, hvor løbet skydes i gang. Der er ingen faciliteter – så -->
-<!-- kom beredt. (Bussen stopper dog ved toilet kort inden starten).  Stranden følges -->
-<!-- sydpå til Løkken og allerede her kommer de første udfordringer for -->
-<!-- løberne. Klostergrøften skal krydses – og det bliver svært uden et par våde -->
-<!-- sokker! Længere nede skal også Nybæk krydses, Munkens Kanal og Ilbæk krydses! -->
-<!-- Tilgengæld er sandet fast og der kan gives god gas på stranden, hvor der som et -->
-<!-- af de eneste steder i DK også er tilladt at køre med bil! -->
-<!-- Efter 8 km på stranden drejer vi op i landet ved Grønhøj.  -->
+<!-- <\!-- Thy Ultra 100 miles starter på stranden ved Gåsestien nord for Løkken.  Vi går -\-> -->
+<!-- <\!-- samlet ned på stranden, hvor løbet skydes i gang. Der er ingen faciliteter – så -\-> -->
+<!-- <\!-- kom beredt. (Bussen stopper dog ved toilet kort inden starten).  Stranden følges -\-> -->
+<!-- <\!-- sydpå til Løkken og allerede her kommer de første udfordringer for -\-> -->
+<!-- <\!-- løberne. Klostergrøften skal krydses – og det bliver svært uden et par våde -\-> -->
+<!-- <\!-- sokker! Længere nede skal også Nybæk krydses, Munkens Kanal og Ilbæk krydses! -\-> -->
+<!-- <\!-- Tilgengæld er sandet fast og der kan gives god gas på stranden, hvor der som et -\-> -->
+<!-- <\!-- af de eneste steder i DK også er tilladt at køre med bil! -\-> -->
+<!-- <\!-- Efter 8 km på stranden drejer vi op i landet ved Grønhøj.  -\-> -->
 
-Løbere på 100 miles starter ved Grønhøj Strand syd for Løkken.  Her følges
-Nordsøstien, der er rigtig godt markeret. Ruten tager dog en fantastisk lille
-stejl afstikker ned af Sti14 ved Kettrup Bjerge, så her skal man være vågen på
-GPSen og sikre sig alle højdemeter og singletracks! Snart er ruten tilbage på
-Nordsøstien og Sti100, som via skønne singletracks smyger sig udenom
-sommerhusområderne---og der er en grund til at området kaldes ”Lille Norge!”.
+<!-- Løbere på 100 miles starter ved Grønhøj Strand syd for Løkken.  Her følges -->
+<!-- Nordsøstien, der er rigtig godt markeret. Ruten tager dog en fantastisk lille -->
+<!-- stejl afstikker ned af Sti14 ved Kettrup Bjerge, så her skal man være vågen på -->
+<!-- GPSen og sikre sig alle højdemeter og singletracks! Snart er ruten tilbage på -->
+<!-- Nordsøstien og Sti100, som via skønne singletracks smyger sig udenom -->
+<!-- sommerhusområderne---og der er en grund til at området kaldes ”Lille Norge!”. -->
 
-Nordsøstien og Sti100 følges hele vejen til Blokhus, hvor de slår følgeskab med
-hærvejen til Gateway Blokhus.  Det er et skønt stykke med masser af singletrack
-og let kupering.
+<!-- Nordsøstien og Sti100 følges hele vejen til Blokhus, hvor de slår følgeskab med -->
+<!-- hærvejen til Gateway Blokhus.  Det er et skønt stykke med masser af singletrack -->
+<!-- og let kupering. -->
 
-<!-- **Depot 1** er placeret efter ca 21 km ved -->
-<!-- *Gatewayblokhus*, hvor ruten krydser Ålborgvej, lige øst for Blokhus Camping. -->
+<!-- <\!-- **Depot 1** er placeret efter ca 21 km ved -\-> -->
+<!-- <\!-- *Gatewayblokhus*, hvor ruten krydser Ålborgvej, lige øst for Blokhus Camping. -\-> -->
 
-Vi forlader Nordsøstien for et stykke tid og følger Hærvejen gennem
-Blokhusplantage og videre gennem Rødhus og videre til Tranum. Sporet føres ud i
-klitheden på snørklede singeltrails, lidt uendelige grusveje og så igen single
-trails. Særligt lækkert er stykket ind forbi Overklitten Sø.  Efter ca 28 km
-rammes **Depot 1** ved Tranum Klitplantage. Det er godt at få tanket godt op, da
-ruten herefter rammer en god kuperet del med masser af singletrails,
-rødder---danske spor, når de er bedst!  Ruten går lige på kanten af bakkerne ved
-Langdalen og ned igennem Fosdalen. Fosdalvej krydses og det går stejlt op til
-Uglehøj, hvor stien er mindre og det er meget kuperet! Ruten er nem at finde og
-går på teknisk singletrail op og ned igennem stejle erosionsslugter! Nyd det,
-selvom benene nok er lidt trætte allerede nu!
+<!-- Vi forlader Nordsøstien for et stykke tid og følger Hærvejen gennem -->
+<!-- Blokhusplantage og videre gennem Rødhus og videre til Tranum. Sporet føres ud i -->
+<!-- klitheden på snørklede singeltrails, lidt uendelige grusveje og så igen single -->
+<!-- trails. Særligt lækkert er stykket ind forbi Overklitten Sø.  Efter ca 28 km -->
+<!-- rammes **Depot 1** ved Tranum Klitplantage. Det er godt at få tanket godt op, da -->
+<!-- ruten herefter rammer en god kuperet del med masser af singletrails, -->
+<!-- rødder---danske spor, når de er bedst!  Ruten går lige på kanten af bakkerne ved -->
+<!-- Langdalen og ned igennem Fosdalen. Fosdalvej krydses og det går stejlt op til -->
+<!-- Uglehøj, hvor stien er mindre og det er meget kuperet! Ruten er nem at finde og -->
+<!-- går på teknisk singletrail op og ned igennem stejle erosionsslugter! Nyd det, -->
+<!-- selvom benene nok er lidt trætte allerede nu! -->
 
-Vel ude af bakkerne kan der slappes lidt af på stien mod Slettestrand, hvor der
-dog lige er et skred fra de stejle skrænter, der skal passeres ligesom, der også
-er et par indhegninger.  Slettestrandvej passeres efter og herefter følges
-Hærvejen gennem Svinkløv på virkeligt lækre og tekniske stier. Pas på, når der
-løbes stejlt ned mod Sletteåvej. Stien er tilgroet og skjuler en bro over en
-lille bæk! Følg hærvejen parallelt med Sletteåvej og snart ankommer du til det
-berømte og genopbyggede Svinkløv Hotel efter ca 50 km.  Hærvejen følges på det
-smukke singletrail, der går op og følger kanten af skrænten hele vejen til
-Svinklovene, hvorfra der er fin udsigt mod Bulbjerg længere fremme på ruten.
-Der løbes nedad de fint anlagte trapper ad grusvej og stier langs Telefondalen.
-Efter ca. 55 km rammes **Depot 2**: Hærvejen rammer Grønnestrandvej og en lille
-stejl asfaltbakke fører op til depotet, hvorefter man igen forlader asfalten og
-rammer en af rutens smukkeste små singletrails gennem klitheden! Wauw!
+<!-- Vel ude af bakkerne kan der slappes lidt af på stien mod Slettestrand, hvor der -->
+<!-- dog lige er et skred fra de stejle skrænter, der skal passeres ligesom, der også -->
+<!-- er et par indhegninger.  Slettestrandvej passeres efter og herefter følges -->
+<!-- Hærvejen gennem Svinkløv på virkeligt lækre og tekniske stier. Pas på, når der -->
+<!-- løbes stejlt ned mod Sletteåvej. Stien er tilgroet og skjuler en bro over en -->
+<!-- lille bæk! Følg hærvejen parallelt med Sletteåvej og snart ankommer du til det -->
+<!-- berømte og genopbyggede Svinkløv Hotel efter ca 50 km.  Hærvejen følges på det -->
+<!-- smukke singletrail, der går op og følger kanten af skrænten hele vejen til -->
+<!-- Svinklovene, hvorfra der er fin udsigt mod Bulbjerg længere fremme på ruten. -->
+<!-- Der løbes nedad de fint anlagte trapper ad grusvej og stier langs Telefondalen. -->
+<!-- Efter ca. 55 km rammes **Depot 2**: Hærvejen rammer Grønnestrandvej og en lille -->
+<!-- stejl asfaltbakke fører op til depotet, hvorefter man igen forlader asfalten og -->
+<!-- rammer en af rutens smukkeste små singletrails gennem klitheden! Wauw! -->
 
-Efter den fede sti rammes Kollerup Plantage, hvor udsigtspunktet "Toppen" skal
-bestiges. Ellers går ruten i Kollerup primært på større grusveje, indtil
-labyrinten af sommerhuse, hvor små singletrails følges. Vigtigt, at følge
-Hærvejens skilte og GPS her, da det virkelig kan være en labyrint! Efter
-sommerhusene rammer vi et asfaltstykke, og der følger nu et letløbet stykke mod
-Klim Bjerge. Efter sommerhusområdet ved Kollerup følges Nordsøstien igen. Først
-3 km asfalt og herefter 4 km god grusvej gennem smukke Klim Plantage. Med den
-rigtige vindretning lever vejen op til sit navn: Kongevejen! Men med
-en god vestenvind, vil løberne nok finde andre navne til dette stykke...
+<!-- Efter den fede sti rammes Kollerup Plantage, hvor udsigtspunktet "Toppen" skal -->
+<!-- bestiges. Ellers går ruten i Kollerup primært på større grusveje, indtil -->
+<!-- labyrinten af sommerhuse, hvor små singletrails følges. Vigtigt, at følge -->
+<!-- Hærvejens skilte og GPS her, da det virkelig kan være en labyrint! Efter -->
+<!-- sommerhusene rammer vi et asfaltstykke, og der følger nu et letløbet stykke mod -->
+<!-- Klim Bjerge. Efter sommerhusområdet ved Kollerup følges Nordsøstien igen. Først -->
+<!-- 3 km asfalt og herefter 4 km god grusvej gennem smukke Klim Plantage. Med den -->
+<!-- rigtige vindretning lever vejen op til sit navn: Kongevejen! Men med -->
+<!-- en god vestenvind, vil løberne nok finde andre navne til dette stykke... -->
 
-Klim Bjerg passeres, men ruten holder sig nedenfor med kurs stik vest. Ruten går
-over i et dejligt grønt smalt singletrail langs en smuk parabelklit. Der løbes
-langs et pigtrådshegn, så pas på. Der er et par låger, der skal passeres, og
-når markerne slutter, skal der løbes mod højre (nordpå)--- Nordsøstien deler sig
-nemlig her! Det går af fine lige stier med blødt underlag mod Thorup Strand. Ved
-Thorup Strand skal GPS følges, så man lige kommer ned og runder, hvor kutterne
-sikkert ligger trukket op på stranden. Smukt syn!
+<!-- Klim Bjerg passeres, men ruten holder sig nedenfor med kurs stik vest. Ruten går -->
+<!-- over i et dejligt grønt smalt singletrail langs en smuk parabelklit. Der løbes -->
+<!-- langs et pigtrådshegn, så pas på. Der er et par låger, der skal passeres, og -->
+<!-- når markerne slutter, skal der løbes mod højre (nordpå)--- Nordsøstien deler sig -->
+<!-- nemlig her! Det går af fine lige stier med blødt underlag mod Thorup Strand. Ved -->
+<!-- Thorup Strand skal GPS følges, så man lige kommer ned og runder, hvor kutterne -->
+<!-- sikkert ligger trukket op på stranden. Smukt syn! -->
 
-Thorup Strand rammes efter ca. 72 km. Inden vi rammer Bulbjerg løbes der gennem
-Vester Thorup---og der er der virkelig kælet for 100 miles løberne her, men der
-skal god fokus på GPSen. Grusvejen følges mod vest ud af Thorup Strand og her
-skal der pludselig drejes til venstre efter et P-plads område af en lille
-umarkeret singletrail. Det fører ruten ind i selve Vester Thorup og her følges
-den blåmarkerede vandresti (Mærksruten), som fører løberne ind på det sprødeste
-singletrack i kongeriget! Det går lidt op og ned inden det ender på grus, som
-følges 800 meter før man drejer ned af en ny lækker sti nordpå og ud i
-Klitheden. Det er en gulmarkeret sti omkring Valbjerg---og efter en fin lille
-stigning i klitheden forlades stien, og der løbes stejlt ned, hvor Nordsøstien
-igen fanges og følges indtil stigningen ved Bulbjerg, hvor **Depot 3** rammes.
+<!-- Thorup Strand rammes efter ca. 72 km. Inden vi rammer Bulbjerg løbes der gennem -->
+<!-- Vester Thorup---og der er der virkelig kælet for 100 miles løberne her, men der -->
+<!-- skal god fokus på GPSen. Grusvejen følges mod vest ud af Thorup Strand og her -->
+<!-- skal der pludselig drejes til venstre efter et P-plads område af en lille -->
+<!-- umarkeret singletrail. Det fører ruten ind i selve Vester Thorup og her følges -->
+<!-- den blåmarkerede vandresti (Mærksruten), som fører løberne ind på det sprødeste -->
+<!-- singletrack i kongeriget! Det går lidt op og ned inden det ender på grus, som -->
+<!-- følges 800 meter før man drejer ned af en ny lækker sti nordpå og ud i -->
+<!-- Klitheden. Det er en gulmarkeret sti omkring Valbjerg---og efter en fin lille -->
+<!-- stigning i klitheden forlades stien, og der løbes stejlt ned, hvor Nordsøstien -->
+<!-- igen fanges og følges indtil stigningen ved Bulbjerg, hvor **Depot 3** rammes. -->
 
 ## Bulbjerg (start 50 miles)
 

@@ -9,24 +9,24 @@ bookToc: false
 
 ![Forsiden1](/images/front19.jpg)
 
-{{< hint info >}}
-<a href="./2020_deltagerbrev.pdf" target="_blank">Deltagerbrev for Cold Hawaii Ultra 2020 kan downloads her.</a>
-{{< /hint >}}
-{{< hint info >}}
-<a href="https://my.raceresult.com/145353/results?lang=dk" target="_blank">Løbende resultater fra CHU 2020 tilgås via dette link.</a>
-{{< /hint >}}
+<!-- {{< hint info >}} -->
+<!-- <a href="./2020_deltagerbrev.pdf" target="_blank">Deltagerbrev for Cold Hawaii Ultra 2020 kan downloads her.</a> -->
+<!-- {{< /hint >}} -->
+<!-- {{< hint info >}} -->
+<!-- <a href="https://my.raceresult.com/145353/results?lang=dk" target="_blank">Løbende resultater fra CHU 2020 tilgås via dette link.</a> -->
+<!-- {{< /hint >}} -->
 
 Cold Hawaii Ultra fremviser noget af den smukkeste og mest unikke natur i
 Danmark. Løbet afvikles
 
-**25 - 26. september 2020.**
+**25. september 2021**
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/). Her kan man opleve klitheden, som kun findes
 ganske få andre steder i verden, og komme tæt på den kulturhistorie, der knytter
 sig til livet langs vestkysten.
 
-Løb **11 km**, **25 km**, **50 km**, **50 miles** eller **100 miles** gennem
+Løb **11 km**, **25 km**, **50 km**, eller **50 miles** gennem
 store nationale og internationale natur- og landskabsværdier karakteriseret ved
 kyst, klitter, uberørte heder, store rene søer og klitplantagernes
 stilhed. Ruten bringer jer ind på småstier i klitterne, ned på stranden, ind i
@@ -35,14 +35,13 @@ stadig trækkes op på stranden.
 
 **Alle distancer afvikles som løb fra A til B uden sløjfer.**
 
-Ruten strækker sig fra Løkken til Agger langs den jyske nordvestkyst. Deltagere
-på 11 km, 25 km, 50 km og 50 miles vil primært bevæge sig ad
+Ruten strækker sig fra Bulbjerg til Agger langs den jyske nordvestkyst.
+Deltagere på 11 km, 25 km, 50 km og 50 miles vil primært bevæge sig ad
 [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/)
-og den gamle Redningsvej, der strækker sig fra Bulbjerg til Agger.
-
-Deltagere på 100 miles starter tæt ved Løkken og vil foruden Vestkyststien
-benytte sig af Nordsøstien og
-[Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål i Agger.
+og den gamle Redningsvej, der strækker sig fra Bulbjerg til Agger. Alle
+distancer har mål i Agger. <!-- Deltagere på 100 miles starter tæt ved Løkken og
+vil foruden Vestkyststien --> <!-- benytte sig af Nordsøstien og --> <!--
+[Hærvejsvandreruten](https://www.haervej.dk/). -->
 
 <!-- {{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
