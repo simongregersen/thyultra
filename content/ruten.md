@@ -135,13 +135,13 @@ ved bommen på den anden side af P-pladsen lige nedenfor Bulbjerg, hvor en bred
 græssti bringer løberne ud i Lild Klit. Ruten følger den gamle Redningsvej
 (markeret med en lille hvid redningsbåd på grønmalede skilte) det næste lange
 stykke. Sporet fortsætter ca. 4 km før vi rammer Lild Strand: vi fortsætter lige
-igennem fiskerlandsbyen af på asfalt et par hundrede meter og tilbage ud i
+igennem fiskerlandsbyen på asfalt et par hundrede meter og tilbage ud i
 terrænnet.
 
 Langs Lild Klitplantage og Madsbøl Plantage fortsætter vi ca. 10 km af det gamle
 hjulspor, og her kan man virkeligt mærke, at vi er i Danmarks ødemark med udsyn
 til smukke klitter og fantastisk klitplantage. Holder man øje kan man få et
-glimt af Det Nationale Testcenter for Store Vindmøller i Horisonten. Terrænnet
+glimt af Det Nationale Testcenter for Store Vindmøller i horisonten. Terrænnet
 er en lille smule kuperet, men ellers forholdvist letløbet. Der er ikke så meget
 at være i tvivl om: vi skal lige ud!
 
@@ -155,8 +155,8 @@ udkanten af Vigsø. På selve stranden vil der ingen markering være, omend det 
 være tydeligt, hvor stranden skal forlades!  Vi fortsætter vest ad Vigsø Sti, en
 letløbet gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen
 op og på højderyggen, der følges med en uimodståelig udsigt udover Vigsø Bugt
-ind mod **Depot 4**, der rammes efter ca. 23 km for løbere på 50 miles og
-ca. 105 km for løbere på 100 miles. Hvis man er heldig, så kan man også få lov
+ind mod **Depot 1 (Vigsø)**, der rammes efter ca. 23 km for løbere på 50 miles <!-- og -->
+<!-- ca. 105 km for løbere på 100 miles -->. Hvis man er heldig, så kan man også få lov
 til at sige hej til et par fredelige køer på vej ind mod depotet! Få tanket godt
 op og nyd udsigten!
 
@@ -178,8 +178,8 @@ morgen. Vi fortsætter ned ad skrænten med stisystemet og rammer Kystvejen, hvo
 rutens seriøse asfaltstykke starter: ca. 8,5 km gennem reservatet via cykelstien
 til vi rammer Klitmøller---vi fortsætter ind gennem byen.
 
-Ved SPAR i Klitmøller venter **Depot 5** efter ca. 11 km for løbere på 50 km,
-ca. 42 km for løbere på 50 miles og ca. 123 km for løbere på 100 miles. Ruten
+Ved SPAR i Klitmøller venter **Depot 2 (Klitmøller)** efter ca. 11 km for løbere på 50 km og
+ca. 42 km for løbere på 50 miles <!-- og ca. 123 km for løbere på 100 miles -->. Ruten
 fortsætter forbi depotet ad Vangsåvej og ud af byen, hvor vi fortsætter af
 Trøjborg Sti, en cykelsti med fast grus. Vi løber ganske kort på Kystvejen for
 dernæst at dreje af ned af Skjærbakken og ind gennem Vangså.
@@ -200,8 +200,8 @@ Ruten fortsætter ned til Bøgsted rende, op over en klit og sydpå et par
 kilometer før vi rammer løbets strandetape. Strandpassagen er ikke mærket
 op---følg blot stranden mod syd.  Efter ca. 3 km på stranden kommer man forbi
 landingspladsen ved Nr. Vorupør, hvor der stadig trækkes kuttere på land, og
-hvor **Depot 6** holder til, efter ca. 26 km for løbere på 50 km, ca. 57 km for
-løbere på 50 miles og ca. 137 km for løbere på 100 miles.
+hvor **Depot 3** holder til, efter ca. 26 km for løbere på 50 km og ca. 57 km for
+løbere på 50 miles. <!-- og ca. 137 km for løbere på 100 miles. -->
 
 ## Nr. Vorupør (start 25 km)
 
