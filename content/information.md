@@ -139,10 +139,9 @@ Der vil under Cold Hawaii Ultra 2021 være depoter spredt ud over ruten. <!-- , 
 <!-- **og individuelt pakkede müslibarer fra Nordthy** i alle depoter. Det vil dog -->
 <!-- helt ekstraordinært være muligt at få udbragt **én dropbag per depot** for alle -->
 <!-- løbere. -->
-Det vil for løbere på 50 miles være muligt at få udbragt *én dropbag* til depotet i Klitmøller (ca. halvvejs).
+Det vil for løbere på 50 miles være muligt at få udbragt **én dropbag** til depotet i Klitmøller (ca. halvvejs).
 
-Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer,
-distance og navn.
+Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer og navn.
 
 Dropbags indleveres ved indskrivning og vil blive bragt til målområdet hurtigst
 muligt under eller efter løbet. Dropbags fragtes **ikke** mellem depoterne.
