@@ -81,16 +81,16 @@ Lørdag 25. september 2021.
 | -        | 10:00          | Indskrivning (25 km) åbner i Nørre Vorupør         |
 | -        | 10:50          | De sidste løbsinformationer gives                  |
 | -        | **11:00**      | **Start på Cold Hawaii Ultra 25 km** i Nr. Vorupør |
-| 27/09/20 | 01:00          | Målet lukker, Agger                                |
+| -        | 01:00          | Målet lukker, Agger                                |
 
 ### 11 km
 | Dato     | Tidspunkt      | Begivenhed                                    |
 | ---      | -------------: | -------------                                 |
-| 26/09/20 | 11:30          | Afgang bus, Agger til Lyngby                  |
+| 25/09/21 | 11:30          | Afgang bus, Agger til Lyngby                  |
 | -        | 11:30          | Indskrivning (11 km) åbner i Lyngby           |
 | -        | 11:50          | De sidste løbsinformationer gives             |
 | -        | **12:00**      | **Start på Cold Hawaii Ultra 11 km** i Lyngby |
-| 27/09/20 | 01:00          | Målet lukker, Agger                           |
+| -        | 01:00          | Målet lukker, Agger                           |
 
 {{< hint info >}}
 **Bustranport** er inkluderet i startgebyret, men er ikke obligatorisk.

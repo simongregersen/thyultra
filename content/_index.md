@@ -78,4 +78,6 @@ vil foruden Vestkyststien --> <!-- benytte sig af Nordsøstien og --> <!--
 <br>
 <a href="https://i-tra.org/race/8691-2020" target="_blank"><img src="/itra_member.png" height="125px" /></a>
 <a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/logo_utmb_2020.png" height="125px" /></a>
+<a href="http://d-u-v.org" target="_blank"><img src="/duv.gif" height="60px" /></a>
 </center>
+
