@@ -7,19 +7,18 @@ bookToc: true
 
 Et helt unikt A - B trailløb uden loops fra
 <!-- + Løkken til Agger (100 miles), {{< itra 5 "https://itra.run/race/26979-cold-hawaii-ultra-2020-100-miles&2020" >}} -->
-+ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/race/8691-cold-hawaii-ultra-2020-50-miles&2020">}}
-+ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/race/8689-cold-hawaii-ultra-2020-50-km&2020" >}}
++ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/race/8691-cold-hawaii-ultra-2021-50-miles&2021">}}
++ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/race/8691-cold-hawaii-ultra-2021-50-km&2021" >}}
 + Nr. Vorupør til Agger (25 km) eller
 + Lyngby til Agger (11 km)
 
 ad Vestkyststien.<!-- , Nordsøstien og Hærvejsvandreruten. -->
 
 Løbet er et low-key (ultra)trailløb uden så mange dikkedarer udover den helt
-eminente natur og enestående spor i og omkring Nationalpark Thy og
-Jammerbugten. Der vil være tydelig markering med flag og minestrimmel på hele
-ruten fra Bulbjerg til Agger og bemandede depoter med jævne mellemrum. Til alle
-løbere, der gennemfører Cold Hawaii Ultra, vil der være et lille trofæ/en
-medalje med et lokalt islæt.
+eminente natur og enestående spor i og omkring Nationalpark Thy. Der vil være
+tydelig markering med flag og minestrimmel på hele ruten fra Bulbjerg til Agger
+og bemandede depoter med jævne mellemrum. Til alle løbere, der gennemfører Cold
+Hawaii Ultra, vil der være et lille trofæ/en medalje med et lokalt islæt.
 
 <!-- {{< hint info >}} -->
 
