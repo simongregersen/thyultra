@@ -92,7 +92,27 @@ Lørdag 25. september 2021.
 | -        | 01:00          | Målet lukker, Agger                           |
 
 {{< hint info >}}
-**Bustranport** er inkluderet i startgebyret, men er ikke obligatorisk.
+
+**Bustranport** er inkluderet i startgebyret, men er ikke obligatorisk. Ved
+tilmelding er det muligt tilkendegive, om man ønsker at benytte sig af tilbuddet.
+
+{{< /hint >}}
+
+## Udlevering af startnummer
+
+Hvis man ved tilmelding tilkendegiver, at man ønsker transpot fra Agger til
+startområdet vil startnummer blive udleveret, når man stiger på bussen. Hvis man
+ikke har tilmeldt sig bustransport vil startnummer udleveres af løbsledelsen i
+startområdet.
+
+{{< hint info >}}
+
+Beslutter man i sidste øjeblik **ikke** at benytte sig af bustransporten, selvom
+man er tilmeldt, så frygt ej: startnummeret vil alligevel finde sin vej til
+startområdet sammen med bussen. For at undgå at bussen kører forgæves ser vi dog
+helst, at man ikke tilmelder sig bustransporten, hvis man ikke har i sinde at
+benytte sig af den.
+
 {{< /hint >}}
 
 ## Start- og målområde
@@ -244,6 +264,7 @@ Planlæg defor nøje efter dette!
 
 <!-- {{< /hint >}} -->
 
+
 ## Priser
 
 Priserne for at deltage i Cold Hawaii Ultra er fastlagt som følger:
@@ -260,7 +281,7 @@ Priserne for at deltage i Cold Hawaii Ultra er fastlagt som følger:
 - 25 km:
   + 1. marts til 20. september: kr. 300,-
 - 11 km:
-  + 1. marts til 20. september: kr. 125,-
+  + 1. marts til 20. september: kr. 150,-
 
 ## Arrangør
 

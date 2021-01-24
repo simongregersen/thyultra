@@ -155,10 +155,10 @@ udkanten af Vigsø. På selve stranden vil der ingen markering være, omend det 
 være tydeligt, hvor stranden skal forlades!  Vi fortsætter vest ad Vigsø Sti, en
 letløbet gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen
 op og på højderyggen, der følges med en uimodståelig udsigt udover Vigsø Bugt
-ind mod **Depot 1 (Vigsø)**, der rammes efter ca. 23 km for løbere på 50 miles <!-- og -->
-<!-- ca. 105 km for løbere på 100 miles -->. Hvis man er heldig, så kan man også få lov
-til at sige hej til et par fredelige køer på vej ind mod depotet! Få tanket godt
-op og nyd udsigten!
+ind mod **Depot 1 (Vigsø)**, der rammes efter ca. 23 km for løbere på 50
+miles. Hvis man er heldig, så kan man også få lov til at sige hej til et par
+fredelige køer på vej ind mod depotet! Få tanket godt op og nyd udsigten!
+<!-- og ca. 105 km for løbere på 100 miles -->.
 
 Efter depotet løber vi mod Hanstholm langs højderyggen via fine stier med en
 smule kuperet terræn før vi krydser Kai Lindbergs Gade og bevæger os ind i
