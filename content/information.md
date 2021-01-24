@@ -94,13 +94,16 @@ Lørdag 25. september 2021.
 {{< hint info >}}
 
 **Bustranport** er inkluderet i startgebyret, men er ikke obligatorisk. Ved
-tilmelding er det muligt tilkendegive, om man ønsker at benytte sig af tilbuddet.
+tilmelding er det muligt tilkendegive, om man ønsker at benytte sig af
+tilbuddet.  For at undgå at bussen kører forgæves ser vi dog helst, at man ikke
+tilmelder sig bustransporten, hvis man ikke har i sinde at benytte sig af
+den. Din tilmelding kan ændres op til en uge før løbsstart.
 
 {{< /hint >}}
 
 ## Udlevering af startnummer
 
-Hvis man ved tilmelding tilkendegiver, at man ønsker transpot fra Agger til
+Hvis man ved tilmelding tilkendegiver, at man ønsker transport fra Agger til
 startområdet vil startnummer blive udleveret, når man stiger på bussen. Hvis man
 ikke har tilmeldt sig bustransport vil startnummer udleveres af løbsledelsen i
 startområdet.
@@ -108,10 +111,8 @@ startområdet.
 {{< hint info >}}
 
 Beslutter man i sidste øjeblik **ikke** at benytte sig af bustransporten, selvom
-man er tilmeldt, så frygt ej: startnummeret vil alligevel finde sin vej til
-startområdet sammen med bussen. For at undgå at bussen kører forgæves ser vi dog
-helst, at man ikke tilmelder sig bustransporten, hvis man ikke har i sinde at
-benytte sig af den.
+man er tilmeldt, så frygt ej: dit startnummer vil alligevel finde sin vej til
+startområdet sammen med bussen. 
 
 {{< /hint >}}
 
