@@ -12,7 +12,7 @@ Et helt unikt A - B trailløb uden loops fra
 + Nr. Vorupør til Agger (25 km) eller
 + Lyngby til Agger (11 km)
 
-ad Vestkyststien.<!-- , Nordsøstien og Hærvejsvandreruten. -->
+ad den gamle Redningsvej og Vestkyststien.<!-- , Nordsøstien og Hærvejsvandreruten. -->
 
 Løbet er et low-key (ultra)trailløb uden så mange dikkedarer udover den helt
 eminente natur og enestående spor i og omkring Nationalpark Thy. Der vil være
@@ -95,9 +95,8 @@ Lørdag 25. september 2021.
 
 **Bustranport** er inkluderet i startgebyret, men er ikke obligatorisk. Ved
 tilmelding er det muligt tilkendegive, om man ønsker at benytte sig af
-tilbuddet.  For at undgå at bussen kører forgæves ser vi dog helst, at man ikke
-tilmelder sig bustransporten, hvis man ikke har i sinde at benytte sig af
-den. Din tilmelding kan ændres op til en uge før løbsstart.
+tilbuddet. Din tilmelding kan ændres op til en uge før løbsstart---afmeld meget
+gerne, hvis du ikke får brug for den alligevel.
 
 {{< /hint >}}
 
@@ -111,8 +110,8 @@ startområdet.
 {{< hint info >}}
 
 Beslutter man i sidste øjeblik **ikke** at benytte sig af bustransporten, selvom
-man er tilmeldt, så frygt ej: dit startnummer vil alligevel finde sin vej til
-startområdet sammen med bussen. 
+man er tilmeldt, så frygt ej: dit startnummer vil alligevel finde vej til
+startområdet sammen med bussen.
 
 {{< /hint >}}
 
@@ -154,37 +153,21 @@ Kollerup: lørdag kl. 04.00 (100 miles) --> <!-- + Bulbjerg: lørdag kl. 08.30
 
 ## Depoter og mad
 
-Der vil under Cold Hawaii Ultra 2021 være depoter spredt ud over ruten. <!-- , men -->
-<!-- grundet COVID-19 vil der kun være vand, energidrik (medbring egen kop/flaske) -->
-<!-- **og individuelt pakkede müslibarer fra Nordthy** i alle depoter. Det vil dog -->
-<!-- helt ekstraordinært være muligt at få udbragt **én dropbag per depot** for alle -->
-<!-- løbere. -->
-Det vil for løbere på 50 miles være muligt at få udbragt **én dropbag** til depotet i Klitmøller (ca. halvvejs).
+Der vil under løbet være depoter spredt ud over ruten. Ved alle depoter
+forefindes:
 
-Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer og navn.
+- Bananer
+- Cola
+- Vand (medbring egen kop---ingen engangskrus)
+- Energidrik
+- Gifler
+- Vingummi
+- Chips
 
-Dropbags indleveres ved indskrivning og vil blive bragt til målområdet hurtigst
-muligt under eller efter løbet. Dropbags fragtes **ikke** mellem depoterne.
-
-<!-- . Ved alle -\-> --> <!-- depoter vil der forefindes: -->
-
-<!-- Der vil under Cold Hawaii Ultra være depoter spredt ud over hele ruten. Ved alle -->
-<!-- depoter vil der forefindes: -->
-
-<!-- - Bananer -->
-<!-- - Cola -->
-<!-- - Vand (medbring egen kop) -->
-<!-- - Energidrik -->
-<!-- - Gifler -->
-<!-- - Vingummi -->
-<!-- - Chips -->
-
-<!-- Det er endvidere muligt at få udbragt én dropbag til Klitmøller (50 miles og 100 -->
-<!-- miles) og én dropbag til Bulbjerg (100 miles). Dropbags skal være tydeligt -->
-<!-- markeret med løbsnummer, distance og navn. -->
-
-<!-- Dropbags indleveres ved indskrivning og vil blive bragt til målområdet efter -->
-<!-- løbet. -->
+Det vil for løbere på 50 miles være muligt at få udbragt **én dropbag** til
+depotet i Klitmøller (ca. halvvejs). Dropbags skal være forsvarligt pakket og
+tydeligt markeret med løbsnummer og navn. Dropbags indleveres i startområdet og
+vil blive bragt til målområdet hurtigst muligt under eller efter løbet.
 
 ### Depotoversigt
 

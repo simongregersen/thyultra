@@ -9,10 +9,11 @@ bookToc: false
 
 - Den angivne rute skal **altid** følges. På Strækningen fra Bulbjerg til Agger
   følges som udgangspunkt vandrestien Vestkyststien & den gamle redningsvej
-  markeret med en redningsbåd, dog med enkelte variationer. 100 miles vil
-  endvidere benytte sig af Nordsøstien og Hærvejsvandreruten. Bemærk at
-  strækningen fra Løkken til Bulbjerg **ikke** er markeret op foregår via. en
-  GPS-enhed (100 miles).
+  markeret med en redningsbåd, dog med enkelte variationer. 
+  <!-- 100 miles vil -->
+  <!-- endvidere benytte sig af Nordsøstien og Hærvejsvandreruten. Bemærk at -->
+  <!-- strækningen fra Løkken til Bulbjerg **ikke** er markeret op foregår via. en -->
+  <!-- GPS-enhed (100 miles). -->
 - Forlader man ved en fejltagelse ruten, **skal** man hurtigst muligt finde
   tilbage.
 - Det er deltagernes eget ansvar at følge ruten.
