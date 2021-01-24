@@ -9,7 +9,9 @@ headless: true
 - [Resultater]({{< relref "/resultater" >}})
 - [Billeder og video]({{< relref "/foto" >}})
 <!-- - [**RESULTATER 2020**](https://my.raceresult.com/145353/results?lang=dk) -->
-<!-- - [Startliste](https://my.raceresult.com/145353/participants?lang=dk) -->
+- [Tilmelding](https://my.raceresult.com/164716/registration?lang=dk)
+- [Startliste](https://my.raceresult.com/164716/participants?lang=dk)
+
 <!-- - [**Example Site**]({{< relref "/docs/example" >}}) -->
 <!-- - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}}) -->
 <!--   - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}}) -->

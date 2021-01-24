@@ -43,7 +43,7 @@ distancer har mål i Agger. <!-- Deltagere på 100 miles starter tæt ved Løkke
 vil foruden Vestkyststien --> <!-- benytte sig af Nordsøstien og --> <!--
 [Hærvejsvandreruten](https://www.haervej.dk/). -->
 
-<!-- {{< button href="https://my.raceresult.com/145353/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
+{{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
 

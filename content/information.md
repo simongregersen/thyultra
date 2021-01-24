@@ -271,4 +271,8 @@ Cold Hawaii Ultra arrangeres af
 
 ## Tilmelding
 
-Tilmeldingen til Cold Hawaii Ultra 2021 foregår åbner 1. februar kl. 18.00 og vil kunne tilgås her på siden.
+Tilmeldingen til Cold Hawaii Ultra 2021 foregår åbner 1. februar kl. 18.00.
+
+{{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}}
+
+
