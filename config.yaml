@@ -1,7 +1,7 @@
 baseURL: "/"
 title: "Cold Hawaii Ultra"
 theme: book
-publishDir: "docs"
+publishDir: "public"
 
 # Book configuration
 disablePathToLower: true
