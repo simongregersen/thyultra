@@ -80,7 +80,7 @@ Lørdag 25. september 2021.
 | -        | 10:00          | Indskrivning (25 km) åbner i Nørre Vorupør         |
 | -        | 10:50          | De sidste løbsinformationer gives                  |
 | -        | **11:00**      | **Start på Cold Hawaii Ultra 25 km** i Nr. Vorupør |
-| -        | 01:00          | Målet lukker, Agger                                |
+| -        | 20:00          | Målet lukker, Agger                                |
 
 ### 11 km
 | Dato     | Tidspunkt      | Begivenhed                                    |
@@ -89,7 +89,7 @@ Lørdag 25. september 2021.
 | -        | 11:30          | Indskrivning (11 km) åbner i Lyngby           |
 | -        | 11:50          | De sidste løbsinformationer gives             |
 | -        | **12:00**      | **Start på Cold Hawaii Ultra 11 km** i Lyngby |
-| -        | 01:00          | Målet lukker, Agger                           |
+| -        | 20:00          | Målet lukker, Agger                           |
 
 {{< hint info >}}
 
@@ -158,9 +158,8 @@ forefindes:
 
 - Bananer
 - Cola
-- Vand (medbring egen kop---ingen engangskrus)
+- Vand (medbring egen kop---ingen engangskrus!)
 - Energidrik
-- Gifler
 - Vingummi
 - Chips
 
@@ -179,8 +178,9 @@ vil blive bragt til målområdet hurtigst muligt under eller efter løbet.
 - Klitmøller (50K: v/ca. 11 km, 50M: v/ca. 42 km<!-- , 100M: v/ca. 122km -->)
   <!-- + 100M: Dropbag 2 -->
   <!-- + 50M: Dropbag -->
-- Vorupør (50K: v/ ca. 26 km, 50M: v/ca. 57 km<!-- , 100M: v/ca. 137km -->)
+- Vorupør (50K: v/ca. 26 km, 50M: v/ca. 57 km<!-- , 100M: v/ca. 137km -->)
   <!-- + Foruden øvrigt depotindhold: suppe m/pasta -->
+- Lyngby (25 km, v/ca. 13 km, 50K: v/ca. 38 km, 50M: v/ca. 70 km)
 - MÅL: Vesterhavshytten
   + Menu fra Vesterhavshytten
 
@@ -211,8 +211,10 @@ medbringe:
 
 - 1 vindtæt jakke
 - 1 buff eller hue
-- Flasker/væskeblære til minimum 1,5 liter væske---der vil **ikke** være
-  engangskrus ved depoterne.
+- **50 miles og 50 km**: Flasker/væskeblære til minimum 1,5 liter væske---der
+  vil **ikke** være engangskrus ved depoterne.
+- **25 km**: Flasker/væskeblære til minimum 0,5 liter væske---der vil **ikke**
+  være engangskrus ved depoterne.
 - Ekstra energi
 - 1 mobiltelefon (der vil dog være områder uden dækning)
 - Førstehjælpsudstyr: som minimum kompresforbinding & sportstape
