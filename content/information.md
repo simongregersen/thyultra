@@ -162,7 +162,6 @@ forefindes:
 - Energidrik
 - Vingummi
 - Mini müsli bar fra Nordthy
-- Chips
 
 Det vil for løbere på 50 miles være muligt at få udbragt **én dropbag** til
 depotet i Klitmøller (ca. halvvejs). Dropbags skal være forsvarligt pakket og
