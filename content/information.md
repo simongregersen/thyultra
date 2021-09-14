@@ -161,6 +161,7 @@ forefindes:
 - Vand (medbring egen kop---ingen engangskrus!)
 - Energidrik
 - Vingummi
+- Mini müsli bar fra Nordthy
 - Chips
 
 Det vil for løbere på 50 miles være muligt at få udbragt **én dropbag** til
