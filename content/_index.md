@@ -70,10 +70,12 @@ vil foruden Vestkyststien --> <!-- benytte sig af Nordsøstien og --> <!--
 
 <center>
 <a href="https://www.scott-sports.com" target="_blank"><img src="/scott-logo.png" height="175px" /></a>
+<a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" height="175px" /></a>
 <a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" height="175px" /></a>
 <a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
-<a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" height="175px" /></a>
-<a href="https://www.bn.dk/" target="_blank"><img src="/logo_bjarne_2.png" height="175px" /></a>
+<br>
+<a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a>
+<br>
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" height="150px" /></a>
 <br>
 <a href="https://i-tra.org/race/8691-2020" target="_blank"><img src="/itra_member.png" height="125px" /></a>
