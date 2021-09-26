@@ -6,11 +6,12 @@ bookToc: false
 # Billeder og video
 
 Nedenfor findes billeder og video fra Thy Ultra Trail og Cold Hawaii Ultra
-gennem årene.
+gennem årene. Se også vores
+[Facebookside](https://www.facebook.com/ColdHawaiiUltra/) for mange flere
+billeder og video.
 
 Det er tilladt at benytte sig af billeder og video ved ikke-kommerciel brug
 såfremt fotografen krediteres.
-
 
 - [Cold Hawaii Ultra 2019](https://photos.app.goo.gl/ctYp9k4CPmamDTub9) (Jeanette Eggers)
 
