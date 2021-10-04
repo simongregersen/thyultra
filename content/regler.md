@@ -7,22 +7,17 @@ bookToc: false
 
 ## Rute
 
-- Den angivne rute skal **altid** følges. På Strækningen fra Bulbjerg til Agger
+- Den angivne rute skal **altid** følges. På strækningen fra Bulbjerg til Agger
   følges som udgangspunkt vandrestien Vestkyststien & den gamle redningsvej
-  markeret med en redningsbåd, dog med enkelte variationer. 
-  <!-- 100 miles vil -->
-  <!-- endvidere benytte sig af Nordsøstien og Hærvejsvandreruten. Bemærk at -->
-  <!-- strækningen fra Løkken til Bulbjerg **ikke** er markeret op foregår via. en -->
-  <!-- GPS-enhed (100 miles). -->
+  markeret med en redningsbåd, dog med enkelte variationer. Dette stræk er fuldt
+  mærket op. 100 miles vil endvidere benytte sig af Nordsøstien og
+  Hærvejsvandreruten; bemærk at strækningen fra Løkken til Bulbjerg **ikke** er
+  markeret op og foregår ved hjælp af egen GPS-enhed (100 miles).
 - Forlader man ved en fejltagelse ruten, **skal** man hurtigst muligt finde
   tilbage.
 - Det er deltagernes eget ansvar at følge ruten.
 - Tidsstraf gives om nødvendigt, hvis det vurderes, at en omvej/genvej har
   sparet tid for løberen. Dette afgøres suverænt af løbsledelsen.
-<!-- - De sidste 80 km af den samlede rute (Bulbjerg til Agger) vil være ekstra -->
-<!--   tydelig markeret med minestrimmel, hvis der kan opstå tvivl i sving, kryds og -->
-<!--   lignende. Der udleveres kortmateriale til alle deltagere, som skal medbringes -->
-<!--   undervejs. -->
 
 ## Depoter & support
 
@@ -32,11 +27,9 @@ bookToc: false
 - Dropbag/kasse må max indeholde en kapacitet af 30 liter.
 - Der må gerne handles i butikker undervejs, samt om nødvendigt spørges efter
   vand hos lokale, dvs. hjælp som alle i princippet har adgang til.
-- Ved alle depotter **skal** deltageren skrive under ud for sit navn på den
-  anviste liste---glemmes dette, vil deltageren diskvalificeres.
-<!-- -  Der kan afleveres én dropbag pr. løber. -->
-<!--         Dropbag 1: Bulbjerg (100 miles) -->
-<!--         Dropbag 2: Klitmøller (50 miles og 100 miles) -->
+- Der kan afleveres én dropbag pr. løber.
+   + Dropbag 1: Bulbjerg (100 miles)
+   + Dropbag 2: Klitmøller (50 miles og 100 miles)
 
 ## Startnummer & udstyr
 - Obligatorisk udstyr skal medbringes under hele løbet, se [Udstyr og
