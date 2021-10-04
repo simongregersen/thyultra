@@ -143,15 +143,17 @@ Lyngby (12 km)
 
 ## Gennemførsel og cut-offs
 
-Målet lukker for alle distancer i Agger lørdag kl. 20.00. Løbsledelsen
-forbeholder sig retten til at indføre cut-offs, hvis det ikke vurderes muligt
-for løberen at nå i mål inden målet lukker. <!-- - Nedenstående cutoffs
-håndhæves for 50 miles og 100 miles, da vi vurderer, at --> <!-- løbere, der
-ikke når de angivne cut-offs, vil kunne nå til mål i Agger før --> <!--
-målområdet lukker. --> <!-- + Tranum: fredag kl. 23.00 (100 miles) --> <!-- +
-Kollerup: lørdag kl. 04.00 (100 miles) --> <!-- + Bulbjerg: lørdag kl. 08.30
-(100 miles) --> <!-- + Vigsø: lørdag kl. 13.00 --> <!-- + Klitmøller: lørdag kl.
-16.00 --> <!-- + Nr. Vorupør: lørdag kl. 21.30 -->
+Målet lukker for alle distancer i Agger lørdag kl. 23.59.
+
+Nedenstående cutoffs håndhæves for 50 miles og 100 miles, da vi vurderer, at
+løbere, der ikke når de angivne cut-offs, ikke vil kunne nå til mål i Agger før
+målområdet lukker.
+- Tranum: fredag kl. 23.00 (100 miles)
+- Kollerup: lørdag kl. 04.00 (100 miles)
+- Bulbjerg: lørdag kl. 08.30 (100 miles)
+- Vigsø: lørdag kl. 13.00
+- Klitmøller: lørdag kl. 16.00
+- Nr. Vorupør: lørdag kl. 21.00
 
 ## Depoter og mad
 
@@ -167,11 +169,11 @@ forefindes:
 
 Det vil for løbere på 50 miles være muligt at få udbragt **1 dropbag** til
 depotet i Klitmøller. Det vil for løbere på 100 være muligt at få udbragt **2
-dropbags** til depoterne i Bulbjerg og Klitmøller.
+dropbags** til hhv. depotetet i Bulbjerg og Klitmøller.
 
-Dropbags skal være forsvarligt pakket og
-tydeligt markeret med løbsnummer og navn. Dropbags indleveres i startområdet og
-vil blive bragt til målområdet hurtigst muligt under eller efter løbet.
+Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer og
+navn. Dropbags indleveres i startområdet og vil blive bragt til målområdet
+hurtigst muligt under eller efter løbet.
 
 ### Depotoversigt
 
@@ -272,5 +274,3 @@ Cold Hawaii Ultra arrangeres af
 Tilmeldingen til Cold Hawaii Ultra 2022 åbner 15. oktober 2021 kl. 18.00.
 
 <!-- {{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
-
-
