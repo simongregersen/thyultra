@@ -247,18 +247,18 @@ GPX-fil.
 Priserne for at deltage i Cold Hawaii Ultra er fastlagt som følger:
 
 - 100 miles:
-  + 1. oktober til 15. august: kr. 800,-
+  + 15. oktober til 15. august: kr. 800,-
   + 15. august til 20. september: kr. 1000,-
 - 50 miles:
-  + 1. oktober til 15. august: kr. 600,-
+  + 15. oktober til 15. august: kr. 600,-
   + 15. august til 20. september: kr. 800,-
 - 50 km:
-  + 1. oktober til 15. august: kr. 450,-
+  + 15. oktober til 15. august: kr. 450,-
   + 15. august til 20. september: kr. 600,-
 - 25 km:
-  + 1. oktober til 20. september: kr. 350,-
+  + 15. oktober til 20. september: kr. 350,-
 - 12 km:
-  + 1. oktober til 20. september: kr. 250,-
+  + 15. oktober til 20. september: kr. 250,-
 
 ## Arrangør
 
@@ -269,7 +269,7 @@ Cold Hawaii Ultra arrangeres af
 
 ## Tilmelding
 
-Tilmeldingen til Cold Hawaii Ultra 2022 åbner 1. oktober 2021 kl. 18.00.
+Tilmeldingen til Cold Hawaii Ultra 2022 åbner 15. oktober 2021 kl. 18.00.
 
 <!-- {{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
 
