@@ -4,12 +4,13 @@ title: Rutebeskrivelse
 
 # Rutebeskrivelse
 
-Den samlede rute til Cold Hawaii Ultra strækker sig fra Bulbjerg i nord til Agger
-i syd og benytter sig blandt andet af Vestkyststien, den gamle Redningsvej og
-Nordsøstien, og Hærvejsvandreruten. Underlaget er for alle distancer et mix
-mellem sand, strand, småstier, hjulspor, faste grusveje og lidt asfalt ind
-imellem gennem nogle af landsbyerne.  Løbere på den længste distance starter i
-Bulbjerg og de resterende distancer tilgår undervejs og alle med mål i Agger.
+Den samlede rute til Cold Hawaii Ultra strækker sig fra Grønhøj Strand syd for
+Løkken til Agger og benytter sig blandt andet af Vestkyststien, den gamle
+Redningsvej og Nordsøstien, og Hærvejsvandreruten. Underlaget er for alle
+distancer et mix mellem sand, strand, småstier, hjulspor, faste grusveje og lidt
+asfalt ind imellem gennem nogle af landsbyerne.  Løbere på den længste distance
+starter ved Grønhøj Strand og de resterende distancer tilgår undervejs og alle
+med mål i Agger.
 
 Af nedenstående interaktive kortudsnit ses den samlede rutes forløb; røde
 markering angiver startsteder og orange markeringer depoter

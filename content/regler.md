@@ -27,9 +27,6 @@ bookToc: false
 - Dropbag/kasse må max indeholde en kapacitet af 30 liter.
 - Der må gerne handles i butikker undervejs, samt om nødvendigt spørges efter
   vand hos lokale, dvs. hjælp som alle i princippet har adgang til.
-- Der kan afleveres én dropbag pr. løber.
-   + Dropbag 1: Bulbjerg (100 miles)
-   + Dropbag 2: Klitmøller (50 miles og 100 miles)
 
 ## Startnummer & udstyr
 - Obligatorisk udstyr skal medbringes under hele løbet, se [Udstyr og
@@ -40,7 +37,7 @@ bookToc: false
 
 - Det er strengt forbudt at efterlade andet end fodspor i naturen -
   naturligvis. Overholdes dette ikke forringes mulighederne for afholdelse af
-  alle løb i Thy.
+  alle løb i området.
 
 ## Udgåelse
 

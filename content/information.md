@@ -5,8 +5,6 @@ bookToc: true
 
 # Løbsinformation
 
-![Forsiden1](/images/front19.jpg)
-
 Et helt unikt A - B trailløb uden loops fra
 + Løkken/Grønhøj Strand til Agger (100 miles), <!-- {{< itra 5 "https://itra.run/race/26979-cold-hawaii-ultra-2020-100-miles&2020" >}} -->
 + Bulbjerg til Agger (50 miles), <!-- {{< itra 3 "https://itra.run/race/8691-cold-hawaii-ultra-2021-50-miles&2021">}} -->
@@ -143,7 +141,7 @@ Lyngby (12 km)
 
 ## Gennemførsel og cut-offs
 
-Målet lukker for alle distancer i Agger lørdag kl. 23.59.
+Målet lukker for alle distancer i Agger lørdag kl. 23.59.59.
 
 Nedenstående cutoffs håndhæves for 50 miles og 100 miles, da vi vurderer, at
 løbere, der ikke når de angivne cut-offs, ikke vil kunne nå til mål i Agger før
@@ -165,15 +163,16 @@ forefindes:
 - Vand (medbring egen kop---ingen engangskrus!)
 - Energidrik
 - Vingummi
-- Mini müsli bar fra Nordthy
+- Kartoffelchips
+- Mini müslibar fra Nordthy
 
 Det vil for løbere på 50 miles være muligt at få udbragt **1 dropbag** til
 depotet i Klitmøller. Det vil for løbere på 100 være muligt at få udbragt **2
 dropbags** til hhv. depotetet i Bulbjerg og Klitmøller.
 
-Dropbags skal være forsvarligt pakket og tydeligt markeret med løbsnummer og
-navn. Dropbags indleveres i startområdet og vil blive bragt til målområdet
-hurtigst muligt under eller efter løbet.
+Dropbags skal være forsvarligt pakket og tydeligt markeret med startnummer, navn
+og depotnummer. Dropbags indleveres i startområdet til løbsledelsen og vil blive
+bragt til målområdet hurtigst muligt under løbet.
 
 ### Depotoversigt
 

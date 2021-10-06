@@ -1,0 +1,5 @@
+<a class="" href="{{ cond (not .Site.Home.File) .Sites.First.Home.RelPermalink .Site.Home.RelPermalink }}">
+  {{- with .Site.Params.BookLogo -}}
+  <img src="{{ . | relURL }}" alt="Cold Hawaii Ultra" />
+  {{- end -}}
+</a>
