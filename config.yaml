@@ -38,7 +38,7 @@ menu:
   # before: []
   after:
     - name: "Kontakt"
-      url: "mailto:simon@thyrace.dk"
+      url: "mailto:gregersen@thyultra.dk"
       weight: 10
     - name: "Facebookside"
       url: "https://www.facebook.com/ColdHawaiiUltra/"
