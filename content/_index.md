@@ -34,7 +34,7 @@ Vestkyststien benytte sig af Nordsøstien og
 [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved
 Vesterhavshytten i Agger.
 
-<!-- {{< button href="https://my.raceresult.com/164716/registration?lang=dk" >}}Gå til tilmelding{{< /button >}} -->
+{{< button href="https://my.raceresult.com/183137/registration" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
 
