@@ -67,7 +67,7 @@ Fredag og lørdag d. 23. og 24. september 2022.
 ### 50 km
 | Dato     | Tidspunkt      | Begivenhed                                                |
 | ---      | -------------: | -------------                                             |
-| 25/09/20 | 07:45          | Afgang bus, Agger til Hanstholm Madbar                    |
+| 24/09/22 | 07:45          | Afgang bus, Agger til Hanstholm Madbar                    |
 | -        | 08:00          | Indskrivning (50 km) åbner ved Hanstholm Madbar           |
 | -        | 08:50          | De sidste løbsinformationer gives                         |
 | -        | **09:00**      | **Start på Cold Hawaii Ultra 50 km** ved Hanstholm Madbar |
