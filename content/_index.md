@@ -47,9 +47,9 @@ Vesterhavshytten i Agger.
 <a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a>
 <br>
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="250px" /></a>
+<a href="https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra/3895/2022/0" target="_blank"><img src="/itra_member.png" width="150px" /></a>
 <br>
-<a href="https://i-tra.org/race/8691-2020" target="_blank"><img src="/itra_member.png" width="150px" /></a>
-<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/logo_utmb_2020.png" width="150px" /></a>
+<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/utmb.png" width="200px" /></a>
 <a href="http://d-u-v.org" target="_blank"><img src="/duv.gif" height="60px" /></a>
 </center>
 
