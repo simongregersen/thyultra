@@ -18,9 +18,7 @@ jf. [Depotoversigt]({{< relref "information#depotoversigt" >}}). Benyt
 "cylinder"-ikonet til at slå de forskellige distancer til og fra og
 "boks"-ikonet for fuldskærmsvisning.
 
-<iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/untitled-map_481980?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false"></iframe>
-
-<!-- <iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe> -->
+<iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 Strækningen fra Bulbjerg til Agger vil være mærket op med minestrimmel og orange
 flag. Løbere på 50 miles, 50 km, 25 km og 12 km kan klare sig ved at følge
