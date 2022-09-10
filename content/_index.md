@@ -45,11 +45,10 @@ Vesterhavshytten i Agger.
 <a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
 <br>
 <a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a>
-<br>
-<a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="250px" /></a>
-<a href="https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra/3895/2022/0" target="_blank"><img src="/itra_member.png" width="150px" /></a>
-<br>
-<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/utmb.png" width="200px" /></a>
 <a href="http://d-u-v.org" target="_blank"><img src="/duv.gif" height="60px" /></a>
+<br>
+<a href="https://signalmasten-agger.dk/" target="_blank"><img src="/signalmasten.png" width="200px" style="margin: 20px"/></a>
+<a href="https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra/3895/2022/0" target="_blank"><img src="/itra_member.png" width="150px" /></a>
+
 </center>
 

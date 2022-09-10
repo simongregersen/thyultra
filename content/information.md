@@ -20,10 +20,6 @@ tydelig markering med flag og minestrimmel på hele ruten fra Bulbjerg til Agger
 og bemandede depoter med jævne mellemrum. Til alle løbere, der gennemfører Cold
 Hawaii Ultra, vil der være et lille trofæ/en medalje med et lokalt islæt.
 
-<center>
-<a href="http://www.utmbmontblanc.com/" target="_blank"><img src="/utmb.png" width="200px" /></a>
-</center>
-
 {{< hint info >}}
 
   **Bemærk**: den første halvdel af ruten (Løkken til Bulbjerg) for 100 miles er
