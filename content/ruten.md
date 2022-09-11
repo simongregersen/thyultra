@@ -141,7 +141,7 @@ udkanten af Vigsø. På selve stranden vil der ingen markering være, omend det 
 være tydeligt, hvor stranden skal forlades!  Vi fortsætter vest ad Vigsø Sti, en
 letløbet gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen
 op og på højderyggen, der følges med en uimodståelig udsigt udover Vigsø Bugt
-ind mod **Depot 1 (Vigsø)**, der rammes efter ca. 23 km for løbere på 50 miles
+ind mod **Depot 4 (Vigsø)**, der rammes efter ca. 23 km for løbere på 50 miles
 og ca. 105 km for løbere på 100 miles. Hvis man er heldig, så kan man også få
 lov til at sige hej til et par fredelige køer på vej ind mod depotet! Få tanket
 godt op og nyd udsigten!
@@ -164,7 +164,7 @@ morgen. Vi fortsætter ned ad skrænten med stisystemet og rammer Kystvejen, hvo
 rutens seriøse asfaltstykke starter: ca. 8,5 km gennem reservatet via cykelstien
 til vi rammer Klitmøller---vi fortsætter ind gennem byen.
 
-Ved SPAR i Klitmøller venter **Depot 2 (Klitmøller)** efter ca. 12 km for løbere
+Ved SPAR i Klitmøller venter **Depot 5 (Klitmøller)** efter ca. 12 km for løbere
 på 50 km og ca. 42 km for løbere på 50 miles og ca. 123 km for løbere på 100
 miles. Ruten fortsætter forbi depotet ad Vangsåvej og ud af byen, hvor vi
 fortsætter af Trøjborg Sti, en cykelsti med fast grus. Vi løber ganske kort på
@@ -186,7 +186,7 @@ Ruten fortsætter ned til Bøgsted rende, op over en klit og sydpå et par
 kilometer før vi rammer løbets strandetape. Strandpassagen er ikke mærket
 op---følg blot stranden mod syd.  Efter ca. 3 km på stranden kommer man forbi
 landingspladsen ved Nr. Vorupør, hvor der stadig trækkes kuttere på land, og
-hvor **Depot 3** holder til, efter ca. 26 km for løbere på 50 km, ca. 57 km for
+hvor **Depot 6** holder til, efter ca. 26 km for løbere på 50 km, ca. 57 km for
 løbere på 50 miles og ca. 137 km for løbere på 100 miles.
 
 ## Nr. Vorupør (start 25 km)
@@ -203,8 +203,8 @@ tid af året heldigvis næsten altid helt tør!
 Vi følger den gamle Redningsvej forbi et par enkelte idylliske (men særdeles
 øde!) sommerhuse, før der drejes til venstre ind mod Lyngby af Astavej, der er
 en god grusvej. Ved Lyngbyvej, som er asfalteret, drejes til højre. Ved Lyngby
-Redningshus er løbets sidste depot (ca. 12 km til mål). Her drejer vi til
-venstre og er tilbage med sydgående kurs ad grusvej.
+Redningshus er løbets sidste depot (**Depot 7**, ca. 12 km til mål). Her drejer
+vi til venstre og er tilbage med sydgående kurs ad grusvej.
 
 ## Lyngby (start 12 km)
 
