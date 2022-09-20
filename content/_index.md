@@ -10,6 +10,12 @@ bookToc: false
 
 &nbsp;&nbsp;&nbsp;&nbsp; **23. og 24. september 2022**.
 
+{{< hint warning >}}
+
+<a href="/2022_deltagerbrev.pdf">Deltagerbrev for Cold Hawaii Ultra 2022 kan hentes her.</a>
+
+{{< /hint >}}
+
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/) og Jammerbugten. Her kan man opleve klitheden,
 som kun findes ganske få andre steder i verden, og komme tæt på den
@@ -33,6 +39,8 @@ på 100 miles starter syd for Løkken ved Grønhøj Strand og vil foruden
 Vestkyststien benytte sig af Nordsøstien og
 [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved
 Vesterhavshytten i Agger.
+
+
 
 {{< button href="https://my.raceresult.com/183137/registration" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
