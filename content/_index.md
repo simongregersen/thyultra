@@ -10,9 +10,9 @@ bookToc: false
 
 &nbsp;&nbsp;&nbsp;&nbsp; **23. og 24. september 2022**.
 
-{{< hint warning >}}
+{{< hint info >}}
 
-<a href="/2022_deltagerbrev.pdf">Deltagerbrev for Cold Hawaii Ultra 2022 kan hentes her.</a>
+Deltagerbrev for Cold Hawaii Ultra 2022 er udsendt men kan også hentes og læses <a href="/2022_deltagerbrev.pdf">via dette link</a>.
 
 {{< /hint >}}
 
