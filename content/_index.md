@@ -10,11 +10,11 @@ bookToc: false
 
 &nbsp;&nbsp;&nbsp;&nbsp; **23. og 24. september 2022**.
 
-{{< hint info >}}
+<!-- {{< hint info >}} -->
 
-Deltagerbrev for Cold Hawaii Ultra 2022 er udsendt men kan også hentes og læses <a href="/2022_deltagerbrev.pdf">via dette link</a>.
+<!-- Deltagerbrev for Cold Hawaii Ultra 2022 er udsendt men kan også hentes og læses <a href="/2022_deltagerbrev.pdf">via dette link</a>. -->
 
-{{< /hint >}}
+<!-- {{< /hint >}} -->
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/) og Jammerbugten. Her kan man opleve klitheden,
