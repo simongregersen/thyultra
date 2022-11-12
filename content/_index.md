@@ -8,7 +8,7 @@ bookToc: false
 
 **Cold Hawaii Ultra** er drømmen om den ultimative danske trailoplevelse gennem noget af Danmarks barskeste og ikke mindst smukkeste natur. Løbet afvikles
 
-&nbsp;&nbsp;&nbsp;&nbsp; **23. og 24. september 2022**.
+&nbsp;&nbsp;&nbsp;&nbsp; **16. september 2023**.
 
 <!-- {{< hint info >}} -->
 
@@ -17,32 +17,32 @@ bookToc: false
 <!-- {{< /hint >}} -->
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
-Thy](https://nationalparkthy.dk/) og Jammerbugten. Her kan man opleve klitheden,
+Thy](https://nationalparkthy.dk/) <!-- og Jammerbugten -->. Her kan man opleve klitheden,
 som kun findes ganske få andre steder i verden, og komme tæt på den
 kulturhistorie, der knytter sig til livet langs vestkysten.
 
-Løb **12 km**, **25 km**, **50 km**, **50 miles** eller **100 miles** gennem
-store nationale og internationale natur- og landskabsværdier karakteriseret ved
-kyst, klitter, uberørte heder, store rene søer og klitplantagernes
-stilhed. Ruten bringer jer ind på småstier i klitterne, ned på stranden, ind i
-plantagernes bjergfyr og gennem nogle af de små fiskersamfund, hvor kutterne
-stadig trækkes op på stranden.
+Løb **12 km**, **25 km**, **50 km** eller **50 miles (ca. 81 km)** <!-- eller **100 miles**
+--> gennem store nationale og internationale natur- og landskabsværdier
+karakteriseret ved kyst, klitter, uberørte heder, store rene søer og
+klitplantagernes stilhed. Ruten bringer jer ind på småstier i klitterne, ned på
+stranden, ind i plantagernes bjergfyr og gennem nogle af de små fiskersamfund,
+hvor kutterne stadig trækkes op på stranden.
 
 **Alle distancer afvikles som løb fra A til B uden sløjfer.**
 
-Den samlede rute strækker sig fra Løkken i nord til Agger i syd langs den jyske
-nordvestkyst. Deltagere på 12 km, 25 km, 50 km og 50 miles vil primært bevæge
+Den samlede rute strækker sig fra Bulbjergg i nord til Agger i syd langs den jyske
+nordvestkyst. Deltagerene <!-- på 12 km, 25 km, 50 km og 50 miles --> vil primært bevæge
 sig ad
 [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/)
-og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger. Deltagere
-på 100 miles starter syd for Løkken ved Grønhøj Strand og vil foruden
-Vestkyststien benytte sig af Nordsøstien og
-[Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved
-Vesterhavshytten i Agger.
+og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger. <!-- Deltagere -->
+<!-- på 100 miles starter syd for Løkken ved Grønhøj Strand og vil foruden -->
+<!-- Vestkyststien benytte sig af Nordsøstien og -->
+<!-- [Hærvejsvandreruten](https://www.haervej.dk/).  -->
+Alle distancer har mål ved Vesterhavshytten og Signalmasten i Agger.
 
 
 
-{{< button href="https://my.raceresult.com/183137/registration" >}}Gå til tilmelding{{< /button >}}
+<!-- {{< button href="https://my.raceresult.com/183137/registration" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
 
@@ -56,6 +56,7 @@ Vesterhavshytten i Agger.
 <a href="http://d-u-v.org" target="_blank"><img src="/duv.gif" height="60px" /></a>
 <br>
 <a href="https://signalmasten-agger.dk/" target="_blank"><img src="/signalmasten.png" width="200px" style="margin: 20px"/></a>
+<a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="200px" style="margin: 20px"/></a>
 <a href="https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra/3895/2022/0" target="_blank"><img src="/itra_member.png" width="150px" /></a>
 
 </center>
