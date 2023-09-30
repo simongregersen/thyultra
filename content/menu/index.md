@@ -9,4 +9,4 @@ headless: true
 - [Resultater]({{< relref "/resultater" >}})
 - [Billeder og video]({{< relref "/foto" >}})
 <!-- - [**Startliste 2022**](https://my.raceresult.com/183137/participants) -->
-- [**Tilmelding 2023**](https://my.raceresult.com/226333/info)
+<!-- - [**Tilmelding 2023**](https://my.raceresult.com/226333/info) -->
