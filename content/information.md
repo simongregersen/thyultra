@@ -214,7 +214,7 @@ medbringe:
 - Ekstra energi
 - 1 mobiltelefon (der vil dog være områder uden dækning)
 - Førstehjælpsudstyr: som minimum kompresforbinding & sportstape
-- **50 miles**: Pandelampe
+- **50 miles** og **100 miles**: Pandelampe
 - **100 miles**: GPS-enhed
 
 Det er endvidere en selvfølge, at man hjælper nødstedte løbere på ruten.
@@ -255,18 +255,18 @@ GPX-fil.
 Priserne for at deltage i Cold Hawaii Ultra er fastlagt som følger:
 
 - 100 miles:
-  + 15. oktober til 15. august: kr. 800,-
+  + inden 15. august: kr. 800,-
   + 15. august til 20. september: kr. 1000,-
 - 50 miles:
-  + 15. oktober til 15. august: kr. 600,-
+  + inden 15. august: kr. 600,-
   + 15. august til 20. september: kr. 800,-
 - 50 km:
-  + 15. oktober til 15. august: kr. 450,-
+  + inden 15. august: kr. 450,-
   + 15. august til 20. september: kr. 600,-
 - 25 km:
-  + 15. oktober til 20. september: kr. 375,-
+  + inden 20. september: kr. 375,-
 - 12 km:
-  + 15. oktober til 20. september: kr. 275,-
+  + inden 20. september: kr. 275,-
 
 ## Arrangør
 
