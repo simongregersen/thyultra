@@ -4,9 +4,9 @@ type: docs
 bookToc: false
 ---
 
-![Forsiden1](/images/front19.jpg)
+![Forsiden1](/images/front23.jpg)
 
-**Cold Hawaii Ultra** er drømmen om den ultimative danske trailoplevelse gennem noget af Danmarks barskeste og ikke mindst smukkeste natur. Løbet afvikles
+**Cold Hawaii Ultra** er drømmen om den ultimative danske trailløbsoplevelse gennem noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
 
 &nbsp;&nbsp;&nbsp;&nbsp; **20. og 21. september 2024**.
 

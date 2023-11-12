@@ -16,16 +16,16 @@ ad den gamle Redningsvej, Vestkyststien, Nordsøstien og Hærvejsvandreruten.
 
 Løbet er et low-key (ultra)trailløb uden så mange dikkedarer udover den helt
 eminente natur og enestående spor i og omkring Nationalpark Thy. Der vil være
-tydelig markering med flag og minestrimmel på hele ruten fra Bulbjerg til Agger
-og bemandede depoter med jævne mellemrum. Til alle løbere, der gennemfører Cold
-Hawaii Ultra, vil der være et lille trofæ/en medalje med et lokalt islæt.
+tydelig markering med flag på strækningen fra Bulbjerg til Agger og bemandede
+depoter med jævne mellemrum. Til alle løbere, der gennemfører Cold Hawaii Ultra,
+vil der være et lille trofæ/en medalje med et lokalt islæt.
 
 {{< hint info >}}
 
   **Bemærk**: den første halvdel af ruten (Løkken til Bulbjerg) for 100 miles er
   ikke mærket op og vil foregå med hjælp fra egen GPS-enhed. Den sidste halvdel
-  (Bulbjerg til Agger) vil være tydeligt opmærket og GPS-enhed bør derfor
-  **ikke** være nødvendig på denne strækning.
+  (Bulbjerg til Agger) vil være tydeligt opmærket med orange flag og GPS-enhed
+  er derfor **ikke** nødvendig på distancerne 50 miles, 50 km, 25 km og 12 km.
 
 {{< /hint >}}
 
@@ -38,32 +38,33 @@ Fredag og lørdag d. 20. og 21. september 2024.
 ## Program
 
 ### 100 miles
-| Dato     | Tidspunkt      | Begivenhed                                                  |
-| ---      | -------------: | -------------                                               |
-| 20/09/24 | 15:30          | Afgang bus, Agger til Grønhøj Strand                        |
-| -        | 17:00          | Indskrivning (100 miles) åbner ved Grønhøj Strand           |
-| -        | 17:50          | De sidste løbsinformationer gives                           |
-| -        | **18:00**      | **Start på Cold Hawaii Ultra 100 miles** ved Grønhøj Strand |
-| -        | 23:00          | Cut-off Tranum (Depot 1)                                    |
-| 21/09/24 | 04:00          | Cut-off Kollerup (Depot 2)                                  |
-| -        | 08:30          | Cut-off Bulbjerg (Depot 3)                                  |
-| -        | 13:00          | Cut-off Vigsø (Depot 4)                                     |
-| -        | 16:00          | Cut-off Klitmøller (Depot 5)                                |
-| -        | 21:00          | Cut-off Nr. Vorupør (Depot 6)                               |
-| 21/09/24 | 23:59          | Målet lukker, Agger                                         |
+| Dato     | Tidspunkt | Begivenhed                                                  |
+|----------|----------:|-------------------------------------------------------------|
+| 20/09/24 |     15:30 | Afgang bus, Agger til Grønhøj Strand                        |
+| -        |     17:00 | Indskrivning (100 miles) åbner ved Grønhøj Strand           |
+| -        |     17:50 | De sidste løbsinformationer gives                           |
+| -        | **18:00** | **Start på Cold Hawaii Ultra 100 miles** ved Grønhøj Strand |
+| -        |     23:00 | Cut-off Tranum (Depot 1)                                    |
+| 21/09/24 |     04:00 | Cut-off Kollerup (Depot 2)                                  |
+| -        |     08:30 | Cut-off Bulbjerg (Depot 3)                                  |
+| -        |     13:00 | Cut-off Vigsø (Depot 4)                                     |
+| -        |     16:00 | Cut-off Klitmøller (Depot 5)                                |
+| -        |     20:00 | Cut-off Nr. Vorupør (Depot 6)                               |
+| -        |     22:00 | Cut-off Lyngby (Depot 7)                                    |
+| 21/09/24 |     23:59 | Målet lukker, Agger                                         |
 
 ### 50 miles
-| Dato     | Tidspunkt      | Begivenhed                                          |
-| ---      | -------------: | -------------                                       |
-| 21/09/24 | 04:30          | Afgang bus, Agger til Bulbjerg                      |
-| -        | 05:00          | Indskrivning (50 miles) åbner på Bulbjerg           |
-| -        | 05:50          | De sidste løbsinformationer gives                   |
-| -        | **06:00**      | **Start på Cold Hawaii Ultra 50 miles** fra Bulbjerg |
-| -        | 10:00          | Cut-off Vigsø  (Depot 1)                            |
-| -        | 13:30          | Cut-off Klitmøller  (Depot 2)                       |
-| -        | 16:00          | Cut-off Nr. Vorupør (Depot 3)                       |
-| -        | 18:00          | Cut-off Lyngby (Depot 4)                            |
-| -        | 20:00          | Målet lukker, Agger                                 |
+| Dato     | Tidspunkt | Begivenhed                                           |
+|----------|----------:|------------------------------------------------------|
+| 21/09/24 |     04:30 | Afgang bus, Agger til Bulbjerg                       |
+| -        |     05:00 | Indskrivning (50 miles) åbner på Bulbjerg            |
+| -        |     05:50 | De sidste løbsinformationer gives                    |
+| -        | **06:00** | **Start på Cold Hawaii Ultra 50 miles** fra Bulbjerg |
+| -        |     13:00 | Cut-off Vigsø (Depot 4)                              |
+| -        |     16:00 | Cut-off Klitmøller  (Depot 5)                        |
+| -        |     20:00 | Cut-off Nr. Vorupør (Depot 6)                        |
+| -        |     22:00 | Cut-off Lyngby (Depot 7)                             |
+| -        |     23:59 | Målet lukker, Agger                                  |
 
 
 ### 50 km
@@ -73,25 +74,25 @@ Fredag og lørdag d. 20. og 21. september 2024.
 | -        | 08:00          | Indskrivning (50 km) åbner ved Hanstholm Madbar           |
 | -        | 08:50          | De sidste løbsinformationer gives                         |
 | -        | **09:00**      | **Start på Cold Hawaii Ultra 50 km** ved Hanstholm Madbar |
-| -        | 20:00          | Målet lukker, Agger                                       |
+| -        | 23:59          | Målet lukker, Agger                                       |
 
 ### 25 km
-| Dato     | Tidspunkt      | Begivenhed                                         |
-| ---      | -------------: | -------------                                      |
-| 21/09/24 | 10:00          | Afgang bus, Agger til Nr. Vorupør                  |
-| -        | 10:00          | Indskrivning (25 km) åbner i Nørre Vorupør         |
-| -        | 10:50          | De sidste løbsinformationer gives                  |
-| -        | **11:00**      | **Start på Cold Hawaii Ultra 25 km** i Nr. Vorupør |
-| -        | 20:00          | Målet lukker, Agger                                |
+| Dato     | Tidspunkt | Begivenhed                                         |
+|----------|----------:|----------------------------------------------------|
+| 21/09/24 |     10:00 | Afgang bus, Agger til Nr. Vorupør                  |
+| -        |     10:00 | Indskrivning (25 km) åbner i Nørre Vorupør         |
+| -        |     10:50 | De sidste løbsinformationer gives                  |
+| -        | **11:00** | **Start på Cold Hawaii Ultra 25 km** i Nr. Vorupør |
+| -        |     23:59 | Målet lukker, Agger                                |
 
 ### 12 km
-| Dato     | Tidspunkt      | Begivenhed                                    |
-| ---      | -------------: | -------------                                 |
-| 21/09/24 | 11:30          | Afgang bus, Agger til Lyngby                  |
-| -        | 11:30          | Indskrivning (12 km) åbner i Lyngby           |
-| -        | 11:50          | De sidste løbsinformationer gives             |
-| -        | **12:00**      | **Start på Cold Hawaii Ultra 12 km** i Lyngby |
-| -        | 20:00          | Målet lukker, Agger                           |
+| Dato     | Tidspunkt | Begivenhed                                    |
+|----------|----------:|-----------------------------------------------|
+| 21/09/24 |     11:30 | Afgang bus, Agger til Lyngby                  |
+| -        |     11:30 | Indskrivning (12 km) åbner i Lyngby           |
+| -        |     11:50 | De sidste løbsinformationer gives             |
+| -        | **12:00** | **Start på Cold Hawaii Ultra 12 km** i Lyngby |
+| -        |     23:59 | Målet lukker, Agger                           |
 
 {{< hint info >}}
 
