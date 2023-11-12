@@ -30,9 +30,9 @@ fiskersamfund, hvor kutterne stadig trækkes op på stranden.
 
 **Alle distancer afvikles som løb fra A til B uden sløjfer.**
 
-Den samlede rute strækker sig fra Bulbjergg i nord til Agger i syd langs den
-jyske nordvestkyst. Deltagerene på 12 km, 25 km, 50 km og 50 miles vil primært
-bevæge sig ad
+Den samlede rute strækker sig fra Løkken i nord til Agger i syd langs den jyske
+nordvestkyst. Deltagerene på 12 km, 25 km, 50 km og 50 miles vil primært bevæge
+sig ad
 [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/)
 og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger.  Deltagere
 på 100 miles starter syd for Løkken ved Grønhøj Strand og vil foruden
