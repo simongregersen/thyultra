@@ -8,5 +8,4 @@ headless: true
 - [Regler]({{< relref "/regler" >}})
 - [Resultater]({{< relref "/resultater" >}})
 - [Billeder og video]({{< relref "/foto" >}})
-<!-- - [**Startliste 2022**](https://my.raceresult.com/183137/participants) -->
-<!-- - [**Tilmelding 2023**](https://my.raceresult.com/226333/info) -->
+- [**Tilmelding 2024**](https://my.raceresult.com/269740/info)

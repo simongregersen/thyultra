@@ -42,7 +42,7 @@ Vesterhavshytten og Signalmasten i Agger.
 
 
 
-<!-- {{< button href="https://my.raceresult.com/183137/registration" >}}Gå til tilmelding{{< /button >}} -->
+{{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}}
 {{< button relref="/information" >}}Læs mere{{< /button >}}
 
 
