@@ -6,10 +6,10 @@ bookToc: true
 # Løbsinformation
 
 Et helt unikt A - B trailløb uden loops fra
-+ Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.Cold.Hawaii.Ultra.100.miles/2022/76213" >}}
-+ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2023/80109">}}
-+ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2023/80108" >}}
-+ Nr. Vorupør til Agger (25 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2023/80110" >}} eller 
++ Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
++ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
++ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
++ Nr. Vorupør til Agger (25 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}} eller 
 + Lyngby til Agger (12 km)
 
 ad den gamle Redningsvej, Vestkyststien, Nordsøstien og Hærvejsvandreruten.
