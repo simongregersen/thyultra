@@ -7,18 +7,15 @@ bookToc: false
 
 ## Rute
 
-- Den angivne rute skal **altid** følges og er mærket op med små orangeg
-  flag. På strækningen fra Bulbjerg til Agger følges. Som udgangspunkt følges
-  vandrestien Vestkyststien & den gamle redningsvej markeret med en redningsbåd,
-  dog med enkelte variationer. Dette stræk er fuldt mærket op. 100 miles vil
-  endvidere benytte sig af Nordsøstien og Hærvejsvandreruten; bemærk at
-  strækningen fra Løkken til Bulbjerg **ikke** er markeret op og foregår ved
-  hjælp af egen GPS-enhed (100 miles).
-- Forlader man ved en fejltagelse ruten, **skal** man hurtigst muligt finde
-  tilbage.
+- Den angivne rute skal **altid** følges og er mærket op med små orangeg flag. På strækningen fra
+  Bulbjerg til Agger følges som udgangspunkt vandrestien Vestkyststien & den gamle redningsvej
+  markeret med en redningsbåd, dog med enkelte variationer. Dette stræk er fuldt mærket op. 100
+  miles vil endvidere benytte sig af Nordsøstien og Hærvejsvandreruten; bemærk at strækningen fra
+  Løkken til Bulbjerg **ikke** er markeret op og foregår ved hjælp af egen GPS-enhed (100 miles).
+- Forlader man ved en fejltagelse ruten, **skal** man hurtigst muligt finde tilbage.
 - Det er deltagernes eget ansvar at følge ruten.
-- Tidsstraf gives om nødvendigt, hvis det vurderes, at en omvej/genvej har
-  sparet tid for løberen. Dette afgøres suverænt af løbsledelsen.
+- Tidsstraf gives om nødvendigt, hvis det vurderes, at en omvej/genvej har sparet tid for
+  løberen. Dette afgøres suverænt af løbsledelsen.
 
 ## Depoter & support
 
