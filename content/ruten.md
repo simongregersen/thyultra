@@ -29,11 +29,13 @@ navigationsfunktion kan man nedenfor downloade **vejledende** GPX-filer, omend
 vi understreger, at de ikke er nødvendige for at gennemføre løbet for løbere på
 disse distancer.
 
-- [100 miles, ruteforløb (GPX-fil)](/CHU-100miles.gpx)
-- [50 miles, ruteforløb (GPX-fil)](/CHU-50miles.gpx)
-- [50 km, ruteforløb (GPX-fil)](/CHU-50km.gpx)
-- [25 km, ruteforløb (GPX-fil)](/CHU-25km.gpx)
-- [12 km, ruteforløb (GPX-fil)](/CHU-12km.gpx)
+<div style="color:red; font-weight: bold">OBS 2024-09-15: opdaterede GPX-filer nedenfor - kortudsnit ovenfor er ikke opdateret.</div>
+
+- [100 miles, ruteforløb 2024 (GPX-fil)](/CHU-100miles-2024.gpx)
+- [50 miles, ruteforløb 2024 (GPX-fil)](/CHU-50miles-2024.gpx)
+- [50 km, ruteforløb 2024 (GPX-fil)](/CHU-50km-2024.gpx)
+- [25 km, ruteforløb 2024 (GPX-fil)](/CHU-25km-2024.gpx)
+- [12 km, ruteforløb 2024 (GPX-fil)](/CHU-12km.gpx)
 
 Strækningen fra Løkken til Bulbjerg er derimod **ikke** mærket op, hvorfor det
 af løbere på 100 miles kræves at have en GPS-enhed med navigationsfunktion til
