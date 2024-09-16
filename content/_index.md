@@ -21,6 +21,7 @@ Thy](https://nationalparkthy.dk/) <!-- og Jammerbugten -->. Her kan man opleve k
 som kun findes ganske få andre steder i verden, og komme tæt på den
 kulturhistorie, der knytter sig til livet langs vestkysten.
 
+
 Løb **12 km**, **25 km**, **50 km**, **50 miles (ca. 81 km)** eller **100
 miles (ca. 162 km)** gennem store nationale og internationale natur- og
 landskabsværdier karakteriseret ved kyst, klitter, uberørte heder, store rene
@@ -41,9 +42,20 @@ Vestkyststien benytte sig af Nordsøstien og
 Vesterhavshytten og Signalmasten i Agger.
 
 
-
-{{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}}
+<!-- {{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
+
+<hr>
+
+<div style="color:red; font-weight: bold">Følg løberne på 100 miles live via GPS-tracking fra fredag d. 20. september kl. 18.00.
+Tracking kan tilgås via telefon gennem <a href="https://racemap.com/app/time2time">Time2Time Racemap</a> app eller online <a href="https://racemap.com/player/cold-hawaii-ultra-2024_2024-09-20/">her</a>.
+</div>
+<br>
+<div style="color:red; font-weight: bold">
+Deltagerbrev, Cold Hawaii Ultra 2024 kan tilgås via <a href="./2024_deltagerbrev.pdf">dette link</a>.
+</div>
+
+<br>
 
 
 <center>
