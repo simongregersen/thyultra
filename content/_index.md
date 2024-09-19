@@ -6,6 +6,10 @@ bookToc: false
 
 ![Forsiden1](/images/front23.jpg)
 
+<div style="color:red; font-weight: bold">
+Deltagerbrev 2024 kan tilgås via <a href="./2024_deltagerbrev.pdf">dette link</a>.
+</div>
+
 **Cold Hawaii Ultra** er drømmen om den ultimative danske trailløbsoplevelse gennem noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
 
 &nbsp;&nbsp;&nbsp;&nbsp; **20. og 21. september 2024**.
@@ -44,16 +48,6 @@ Vesterhavshytten og Signalmasten i Agger.
 
 <!-- {{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
-
-<hr>
-
-<div style="color:red; font-weight: bold">Følg løberne på 100 miles live via GPS-tracking fra fredag d. 20. september kl. 18.00.
-Tracking kan tilgås via telefon gennem <a href="https://racemap.com/app/time2time">Time2Time Racemap</a> app eller online <a href="https://racemap.com/player/cold-hawaii-ultra-2024_2024-09-20/">her</a>.
-</div>
-<br>
-<div style="color:red; font-weight: bold">
-Deltagerbrev, Cold Hawaii Ultra 2024 kan tilgås via <a href="./2024_deltagerbrev.pdf">dette link</a>.
-</div>
 
 <br>
 
