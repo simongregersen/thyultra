@@ -7,7 +7,8 @@ bookToc: false
 ![Forsiden1](/images/front23.jpg)
 
 <div style="color:red; font-weight: bold">
-Deltagerbrev 2024 kan tilgås via <a href="./2024_deltagerbrev.pdf">dette link</a>.
+Cold Hawaii Ultra 2025 afholdes 20. september 2025 med distancer på 100 km, 50 miles, 50 km, 24 km og 12 km. 
+<br> Hjemmesiden opdateres snarest.
 </div>
 
 **Cold Hawaii Ultra** er drømmen om den ultimative danske trailløbsoplevelse gennem noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
@@ -53,17 +54,17 @@ Vesterhavshytten og Signalmasten i Agger.
 
 
 <center>
+<!-- <a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a> -->
 <a href="https://www.scott-sports.com" target="_blank"><img src="/scott-logo.png" width="175px" /></a>
 <a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" width="175px" /></a>
 <a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" width="175px" /></a>
 <a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
 <br>
-<a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a>
-<a href="http://d-u-v.org" target="_blank"><img src="/duv.gif" height="60px" /></a>
-<br>
 <a href="https://signalmasten-agger.dk/" target="_blank"><img src="/signalmasten.png" width="200px" style="margin: 20px"/></a>
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="200px" style="margin: 20px"/></a>
-<a href="https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra/3895/2022/0" target="_blank"><img src="/itra_member.png" width="150px" /></a>
+<a href="https://itra.run/Races/RaceDetails/89627" target="_blank"><img src="/itra_member.png" width="150px" /></a>
+<br>
+<a href="http://d-u-v.org" target="_blank"><img src="/duv.png" height="60px" /></a>
 
 </center>
 
