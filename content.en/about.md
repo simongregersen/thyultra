@@ -291,11 +291,11 @@ participants doing 50 km, 50 miles, or 100 km to bring:
 - **50 miles** and **100 km**: headlamp
 - **100 km**: GPS unit or watch
 
-For participants doing **24 km** it is mandatory bring a bottle or drinking system with a capacity
-of minimum 0.5 L.  No single-use cups are offered at the aid station.  For participants doing **12
-km** no mandatory gear requirements are in place. However, we strongly advice dressing according to
-the weather---the race area is remote and vehicle access is limited, so you may have to wait a while
-for help to reach you.
+For participants on the **24 km** course it is mandatory bring a bottle or drinking system with a
+capacity of minimum 0.5 L.  No single-use cups are offered at the aid station.  For participants
+doing the **12 km** course no mandatory gear requirements are in place. However, we strongly advice dressing
+according to the weather---the race area is remote and vehicle access is limited, so you may have to
+wait a while for help to reach you.
 
 {{< hint info >}}
 
@@ -305,10 +305,9 @@ for help to reach you.
 
 {{< hint info >}}
 
-It is strictly necessary to **use a GPS unit** for participants doing 100 km as the first 20 km will
-not be marked. Both dedicated GPS units or GPS watches are permitted. A unit without a
-background map is sufficient, but we recommend bringing a backup unit with a background map, e.g., a
-cellphone.
+It is strictly necessary to **use a GPS unit** when doing the 100 km course as the first 20 km are
+ not marked. Both dedicated GPS units or GPS watches are permitted. A unit without a background map
+ is sufficient, but we recommend bringing a backup unit with a background map, e.g., a cellphone.
 
 For this purpose, we recommend the app [Topo GPS](https://www.topo-gps.com/) which is available for
 both Android and iOS. The app allows you to import a GPX file and offers offline topographic maps
