@@ -7,13 +7,13 @@ bookToc: false
 
 # Rules
 
-## Route
+## Course
 
-- The race route must be followed at all times. The route is marked with small orange flags.  For
+- The race course must be followed at all times. The course is marked with small orange flags.  For
   runners doing 100 km, the first 20 km will **not** be marked and must be navigated using a GPS
   unit.
-- If you by mistake leave the route, you just as soon as possible find your way back.
-- It is your own responsibility to follow the route. 
+- If you by mistake leave the course, you just as soon as possible find your way back.
+- It is your own responsibility to follow the course.
 - A penalty might be given if a detour or a shortcut is taken. This is at the full discretion of the race organizers.
 
 ## Aid stations and support
