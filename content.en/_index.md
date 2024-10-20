@@ -19,16 +19,16 @@ dune heath. From Agger Tange in the south, where tens of thousands of migratory 
 rest, to Hanstholm Wildlife Reserve in the north, with its roaring red deer, Cold Hawaii Ultra takes
 you through it all.
 
-Run either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** through
-grand scenery characterized by the windy coasts and dune systems, meadows, and grand plantations.
-The route will take you from small single-tracks in the dunes down to the beach and through
-coniferous plantations and small fishing villages, where boats are still landed every day.
+Run either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** through grand
+scenery characterized by the windy coasts and dune systems, meadows, and grand plantations.  The
+course will take you from small single-tracks in the dunes down to the beach and through coniferous
+plantations and small fishing villages, where boats are still landed every day.
 
-The longest courses start in Bulbjerg and finishes in Agger and takes you down the northwest coast
-of Jutland.  Participants will primarily follow [The West Coast
+The longest courses start in Bulbjerg and finish in the village of Agger and take you down the
+northwest coast of Jutland. Courses primarily follow the [The West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
-the old lifeboat road. In 2025 it is also possible to run 100 km. The 100 km course sets out from
-Bulbjerg and takes you through Vester Thorup Plantation before heading south to Agger.
+the old lifeboat road. In 2025 a 100 km course is also offered. The 100 km course sets out from
+Bulbjerg and takes you through the Vester Thorup Plantation before heading south to Agger.
 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
 
