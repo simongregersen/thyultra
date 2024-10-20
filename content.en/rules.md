@@ -9,17 +9,17 @@ bookToc: false
 
 ## Course
 
-- The race course must be followed at all times. The course is marked with small orange flags.  For
-  runners doing 100 km, the first 20 km will **not** be marked and must be navigated using a GPS
+- The race course must be followed at all times. The course is marked with small orange flags. The
+  first 20 km of the 100 km course is **not** be marked and participants must navigate using a GPS
   unit.
-- If you by mistake leave the course, you just as soon as possible find your way back.
+- If you leave the course by mistake, you must return immediately.
 - It is your own responsibility to follow the course.
-- A penalty might be given if a detour or a shortcut is taken. This is at the full discretion of the race organizers.
+- A penalty might be given if an advantageous detour or shortcut is taken. This is at the discretion of the race organizers.
 
 ## Aid stations and support
 
 - Private supporters may only assists by the official aid stations.
-- Runners can have company 1 km before and after all aid stations.
+- Runners may have company 1 km before and after the aid stations.
 - Pacers not participating in the race are not allowed outside of the aid station zones.
 - Participants must bring and mark dropbags themselves.
 - Dropbags should maximally contain 30 L.
