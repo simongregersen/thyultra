@@ -23,26 +23,33 @@ DefaultContentLanguage: da
 languages:
   da:
     languageName: Dansk
-    contentDir: content
+    contentDir: content.da
     weight: 1
-  # ru:
-  #   languageName: Russian
-  #   contentDir: content.ru
+  # en:
+  #   contentDir: content/en
+  #   disabled: false
+  #   languageCode: en-US
+  #   languageDirection: ltr
+  #   languageName: English
+  #   params:
+  #     subtitle: Reference, Tutorials, and Explanations
+  #   title: Project Documentation
   #   weight: 2
-  # zh:
-  #   languageName: Chinese
-  #   contentDir: content.zh
-  #   weight: 3
 
-menu:
+  en:
+    languageName: English
+    contentDir: content.en
+    weight: 2
+
+# menu:
   # before: []
-  after:
-    - name: "Kontakt"
-      url: "mailto:gregersen@thyultra.dk"
-      weight: 10
-    - name: "Facebookside"
-      url: "https://www.facebook.com/ColdHawaiiUltra/"
-      weight: 20
+  # after:
+  #   - name: "Kontakt"
+  #     url: "mailto:gregersen@thyultra.dk"
+  #     weight: 10
+  #   - name: "Facebookside"
+  #     url: "https://www.facebook.com/ColdHawaiiUltra/"
+  #     weight: 20
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
