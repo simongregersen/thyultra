@@ -18,7 +18,7 @@ bookToc: false
 
 ## Aid stations and support
 
-- Private supporters may only assists by the official aid stations.
+- Private supporters may only assist by the official aid stations.
 - Runners may have company 1 km before and after the aid stations.
 - Pacers not participating in the race are not allowed outside of the aid station zones.
 - Participants must bring and mark dropbags themselves.
