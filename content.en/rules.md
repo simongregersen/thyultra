@@ -23,21 +23,20 @@ bookToc: false
 - Pacers not participating in the race are not allowed outside of the aid station zones.
 - Participants must bring and mark dropbags themselves.
 - Dropbags should maximally contain 30 L.
-- It is allowed to shop in the limited stores passed underway and, if necessary, ask for water from locals.
 
 ## Race bib and equipment
 - Participants must carry the mandatory equipment at all times, see [Equipment and safety]({{<
   relref "about#equipment-and-safety" >}})
-- Race bibs have to be visible at all times.
+- Race bibs have to be kept visible at all times.
 
 ## Trash
 
-- It is strictly forbidden to leave anything but footsteps. Trash must be disposed of in a trash bin.
+- It is strictly forbidden to leave anything but footsteps. Trash must be disposed of at the aid stations or in a public trash bin.
 
 ## DNF
 
 Should you decide not to finish the race, e.g., due to an injury, the race organizers must be
-contacted as soon as possible:
+contacted immediately.
 
 - Simon Gregersen: (+45) 21405661
 - Simon Grimstrup: (+45) 53592859
