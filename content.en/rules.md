@@ -20,13 +20,12 @@ bookToc: false
 
 - Private supporters may only assist by the official aid stations.
 - Runners may have company 1 km before and after the aid stations.
-- Pacers not participating in the race are not allowed outside of the aid station zones.
+- Pacers not racing themselves are not allowed outside of the aid station zones.
 - Participants must bring and mark dropbags themselves.
-- Dropbags should maximally contain 30 L.
+- Maximum capacity for dropbags is 30 L.
 
 ## Race bib and equipment
-- Participants must carry the mandatory equipment at all times, see [Equipment and safety]({{<
-  relref "about#equipment-and-safety" >}})
+- Participants must carry the mandatory equipment at all times, see [Equipment and safety]({{< relref "about#equipment-and-safety" >}})
 - Race bibs have to be kept visible at all times.
 
 ## Trash

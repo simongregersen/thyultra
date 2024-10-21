@@ -7,7 +7,7 @@ bookToc: false
 ![banner](/images/banner3.jpg)
 
 **Cold Hawaii Ultra** is the dream of the ultimate Danish ultra and trail running experience through
- Denmark's wildest, roughest, and most astonishing nature. The race takes place
+ some of Denmark's wildest, roughest, and most astonishing nature. The race takes place
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; **20th September 2025**
@@ -19,12 +19,12 @@ Atlantic dune heath. From Hanstholm Wildlife Reserve in the north, with its roar
 Agger Tange in the south, where tens of thousands of migratory birds stop off to rest, Cold Hawaii
 Ultra takes you through it all.
 
-Run either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** through grand
-scenery characterized by the windy coastal dunes, meadows, and grand plantations. The course will
-take you onto small single-tracks in the dunes down to the beach and through coniferous plantations
-and small fishing villages, where boats are still landed every day.
+Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** on foot through
+grand scenery characterized by the windy coastal dunes and grand plantations. The course will take
+you onto small single tracks in the dunes, down to the beach, and through coniferous plantations and
+small coastal fishing villages where fishing cutters are still beached every day.
 
-The longest courses start in Bulbjerg and finish in the village of Agger, down the northwest coast
+The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest coast
 of Jutland. Courses primarily follow the [The West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
 the old lifeboat road. In 2025 a 100 km course is also offered. The 100 km course sets out from

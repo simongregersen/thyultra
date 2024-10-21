@@ -6,6 +6,6 @@ bookToc: false
 
 # Results
 
-Results from all previous races can be found below.
+Results from previous iterations of Cold Hawaii Ultra can be found below.
 
 {{<section>}}
