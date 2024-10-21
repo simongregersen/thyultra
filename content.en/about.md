@@ -1,6 +1,6 @@
 ---
 title: About the race
-bookToc: false
+bookToc: true
 ---
 
 ![banner](/images/banner2.jpg)
