@@ -20,7 +20,7 @@ Cold Hawaii Ultra takes you through it all. Nowhere else will you find such larg
 of the rare and spectacular Atlantic dune heath.
 
 Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** on foot through
-grand scenery characterized by the windy coastal dunes and atmospheric plantations. The course will
+grand scenery characterized by the coastal dunes, heathlands, and dune plantations. The course will
 take you onto small single tracks in-between the dunes, down to the beach, and through coniferous
 plantations and small coastal fishing villages where fishing cutters are still beached every day.
 
