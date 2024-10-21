@@ -1,4 +1,4 @@
-'use strict';(function(){const searchDataURL='/en.search-data.min.be1248c690da1b64c03c1f21cc3f2050a5494ce13c2fd1bf4f80f6c699afbb6b.json';const indexConfig=Object.assign({cache:true},{doc:{id:'id',field:['title','content'],store:['title','href','section']}});const input=document.querySelector('#book-search-input');const results=document.querySelector('#book-search-results');if(!input){return}
+'use strict';(function(){const searchDataURL='/en.search-data.min.a798e5157103470c87a6900ab77b7981a6ab52e3f3ea87fe5d3f08b1e4e6872e.json';const indexConfig=Object.assign({cache:true},{doc:{id:'id',field:['title','content'],store:['title','href','section']}});const input=document.querySelector('#book-search-input');const results=document.querySelector('#book-search-results');if(!input){return}
 input.addEventListener('focus',init);input.addEventListener('keyup',search);document.addEventListener('keypress',focusSearchFieldOnKeyPress);function focusSearchFieldOnKeyPress(event){if(event.target.value!==undefined){return;}
 if(input===document.activeElement){return;}
 const characterPressed=String.fromCharCode(event.charCode);if(!isHotkey(characterPressed)){return;}
