@@ -14,14 +14,14 @@ bookToc: false
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, where the
 expanses are greater and nature is wilder, you find [Thy National
-Park](https://nationalparkthy.dk/). Nowhere else are there such large continuous areas of the rare
-Atlantic dune heath. From Hanstholm Wildlife Reserve in the north, with its roaring red deer, to
-Agger Tange in the south, where tens of thousands of migratory birds stop off to rest, Cold Hawaii
-Ultra takes you through it all.
+Park](https://nationalparkthy.dk/). From Hanstholm Wildlife Reserve in the north, with its roaring
+red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off to rest,
+Cold Hawaii Ultra takes you through it all. Nowhere else will you find such large continuous areas
+of the rare and spectacular Atlantic dune heath.
 
 Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** on foot through
 grand scenery characterized by the windy coastal dunes and grand plantations. The course will take
-you onto small single tracks in the dunes, down to the beach, and through coniferous plantations and
+you onto small single tracks in-between the dunes, down to the beach, and through coniferous plantations and
 small coastal fishing villages where fishing cutters are still beached every day.
 
 The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest coast

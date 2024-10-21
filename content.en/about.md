@@ -7,7 +7,7 @@ bookToc: false
 
 # About the race
 
-Cold Hawaii Ultra is a unique trail running race taking you from
+Cold Hawaii Ultra is a unique trail running race from
 <!-- + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}} -->
 + Bulbjerg via Vester Thorup to Agger (100 km),
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
@@ -276,8 +276,8 @@ capacity of minimum 0.5 L.  No single-use cups are offered at the aid station.
 For participants doing the **12 km** course there are no mandatory equipment requirements. 
 
 We strongly advice all participants to check the weather forecast and dress accordingly. The race
-area is fairly remote and vehicle access is limited in places. You should prepare for having to wait
-a while for help to reach you.
+area is remote and vehicle access is limited. You should prepare for having to wait a while for help
+to reach you should the need arise.
 
 {{< hint info >}}
 
