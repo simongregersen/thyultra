@@ -24,8 +24,8 @@ grand scenery characterized by the windy coastal dunes and atmospheric plantatio
 take you onto small single tracks in-between the dunes, down to the beach, and through coniferous
 plantations and small coastal fishing villages where fishing cutters are still beached every day.
 
-The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest coast
-of Jutland. Courses primarily follow the [The West Coast
+The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest
+coast of Jutland. Courses primarily follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
 the old lifeboat road. In 2025 a 100 km course is also offered. The 100 km course sets out from
 Bulbjerg and takes you through the Vester Thorup Plantation before heading south.
