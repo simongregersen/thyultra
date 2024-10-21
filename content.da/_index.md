@@ -53,9 +53,8 @@ Vesterhavshytten og Signalmasten i Agger.
 <!-- [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved -->
 <!-- Vesterhavshytten og Signalmasten i Agger. -->
 
-
-<!-- {{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/information" >}}Læs mere{{< /button >}}
+{{< button href="https://my.raceresult.com/311431/registration" >}}Gå til tilmelding{{< /button >}}
 
 <br>
 

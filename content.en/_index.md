@@ -45,6 +45,7 @@ All participants finish by Vesterhavshytten and Signalmasten in Agger.
 
 <!-- {{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/about" >}}Read more{{< /button >}}
+{{< button href="https://my.raceresult.com/311431/registration" >}}Go to registration{{< /button >}}
 
 <br>
 
