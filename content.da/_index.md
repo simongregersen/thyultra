@@ -29,9 +29,9 @@ heder, store rene søer og klitplantagernes stilhed. Ruten bringer jer ind på s
 ned på stranden, ind i plantagernes bjergfyr og gennem små fiskersamfund, hvor kutterne stadig
 trækkes op på stranden.
 
-**Alle distancer afvikles som løb fra A til B uden sløjer.**
+<!-- **Alle distancer afvikles som løb fra A til B uden sløjer.** -->
 
-Den samlede rute strækker sig fra Bulbjerg i nord til Agger i syd langs den jyske
+Den samlede rute strækker sig fra Bulbjerg og Vester Thorup Klitplantage i nord til Agger i syd langs den jyske
 nordvestkyst. Deltagerene vil primært bevæge sig ad
 [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) og den gamle
 Redningsvej, der går hele vejen fra Bulbjerg til Agger. Som et nyt tiltag i 2025 er det muligt at
