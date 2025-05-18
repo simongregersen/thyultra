@@ -9,11 +9,25 @@ bookToc: true
 
 Et helt unikt trailløb fra
 <!-- + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}} -->
+
+{{% columns ratio="1:2" %}} <!-- begin columns block -->
+
+## Distance
 + Bulbjerg via Vester Thorup til Agger (100 km),
-+ Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
-+ Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
-+ Nr. Vorupør til Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}} eller 
++ Bulbjerg til Agger (50 miles), 
++ Hanstholm til Agger (50 km), 
++ Nr. Vorupør til Agger (24 km) eller 
 + Lyngby til Agger (12 km)
+
+<---> <!-- magic separator, between columns -->
+
+## ITRA
+(på vej)
+{{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2025/105120">}}
+{{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2025/105119" >}}
+{{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2025/105121" >}}
+
+{{% /columns %}}
 
 ad den gamle Redningsvej og Vestkyststien.
 <!-- ad den gamle Redningsvej, Vestkyststien, Nordsøstien og Hærvejsvandreruten. -->
