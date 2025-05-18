@@ -12,19 +12,19 @@ Et helt unikt trailløb på følgende distancer:
 
 {{% columns ratio="1:1" %}} <!-- begin columns block -->
 ### Distance
-100 km
-50 miles
-50 km
-24 km
-12 km
+100 km  
+50 miles  
+50 km  
+24 km  
+12 km  
 <---> <!-- magic separator, between columns -->
 
 ### 
-Bulbjerg til Agger
-Bulbjerg til Agger
-Hanstholm til Agger
-Nr. Vorupør til Agger 
-Lyngby til Agger
+Bulbjerg til Agger  
+Bulbjerg til Agger  
+Hanstholm til Agger  
+Nr. Vorupør til Agger   
+Lyngby til Agger  
 
 <---> <!-- magic separator, between columns -->
 
