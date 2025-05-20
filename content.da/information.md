@@ -9,7 +9,7 @@ bookToc: true
 
 Et helt unikt trailløb fra
 <!-- + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}} -->
-+ Bulbjerg via Vester Thorup til Agger (100 km),
++ Bulbjerg via Vester Thorup til Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}}
 + Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2025/105120">}}
 + Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2025/105119" >}}
 + Nr. Vorupør til Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2025/105121" >}} eller 
