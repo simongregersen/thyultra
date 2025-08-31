@@ -45,9 +45,9 @@ understreger, at de ikke er nødvendige for at gennemføre løbet for løbere p�
 løbet. Det er --> <!-- deltagerens eget ansvar at medbringe funktionsdygtig GPS-enhed med indlæst
 GPX-fil. --> 
 
-De første 20 km for løbere på 100 km er derimod **ikke** mærket op, hvorfor det for løbere på 100 km
-kræves at have en GPS-enhed med navigationsfunktion til den første halvdel af løbet. Det er
-deltagerens eget ansvar at medbringe funktionsdygtig GPS-enhed med indlæst GPX-fil.
+De første 20 km for løbere på 100 km er derimod **ikke** mærket op, hvorfor det kræves at have en
+GPS-enhed med navigationsfunktion til denne del af løbet. Det er deltagerens eget ansvar at
+medbringe funktionsdygtig GPS-enhed med indlæst GPX-fil.
 
 
 <!-- 12% på asfalt/vej --> <!-- 14% på grusveje/kørespor --> <!-- 59% på
