@@ -14,8 +14,7 @@ villages and on the bike path between Hanstholm and Klitmøller. Participants on
 courses start in Bulbjerg and the remaining courses join further along on the way to Agger.
 
 The interactive map found below shows the race area. The red pins indicate the location of the start
-areas and the orange pins indicate the location of the aid stations. The first 20 km leg of the 100
-km course has not been published yet.
+areas and the orange pins indicate the location of the aid stations.
 
 <!-- <iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe> -->
 
