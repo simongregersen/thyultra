@@ -22,7 +22,7 @@ distancer tilgår undervejs og alle med mål i Agger.
 Af nedenstående interaktive kortudsnit ses den samlede rutes forløb; røde markering angiver
 startsteder og orange markeringer depoter jf. [Depotoversigt]({{< relref "information#depotoversigt"
 >}}). Benyt "cylinder"-ikonet til at slå de forskellige distancer til og fra og "boks"-ikonet for
-fuldskærmsvisning. De første 20 km af ruten på 100 km er endnu ikke offentliggjort.
+fuldskærmsvisning. 
 
 <!-- <iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe> -->
 
@@ -34,10 +34,10 @@ har et GPS-ur med navigationsfunktion, kan man nedenfor downloade vejledende GPX
 understreger, at de ikke er nødvendige for at gennemføre løbet for løbere på disse distancer.
 
 <!-- - [100 miles, ruteforløb 2024 (GPX-fil)](/CHU-100miles-2024.gpx) -->
-- 100 km (GPX-fil) - offentliggøres senere
+- [100 km (GPX-fil)](/CHU-100km.gpx)
 - [50 miles (GPX-fil)](/CHU-50miles.gpx)
 - [50 km (GPX-fil)](/CHU-50km.gpx)
-- [24 km (GPX-fil)](/CHU-25km.gpx)
+- [24 km (GPX-fil)](/CHU-24km.gpx)
 - [12 km (GPX-fil)](/CHU-12km.gpx)
 
 <!-- Strækningen fra Løkken til Bulbjerg er derimod **ikke** mærket op, hvorfor det af løbere på 100
@@ -127,9 +127,12 @@ direkte til det sted i beskrivelsen, hvor din distance starter.
 <!-- igen fanges og følges indtil stigningen ved Bulbjerg, hvor **Depot 3** rammes. -->
 
 ## Bulbjerg (start 100 km)
-På toppen af Bulbjerg går starten for løberne på 100 km sammen med løberne på 50 miles. Ruten går
- gennem gennem Vester Thorup Klitplantage før den støder til den resterende rute mod Agger. Denne
- strækning foregår via GPS og er endnu ikke offentliggjort.
+På toppen af Bulbjerg går starten for løberne på 100 km ud i Vester Thorup Klitplantage. Navigation
+foregår ved hjælp af egen GPS-enhed. Denne etape byder på en god gedigen appetitvækker på af alt det
+gode, der venter forude: klithede, plantage, singletracks, hjulspor, lidt grusvej, og de helt
+eminente åbne vidder. Ruten følger delvist partier af Mærksruten og Nordsøstien, men med mange
+afstikkere gennem nogle af de bedste spor, som du kan finde her på egnen. Efter ca. 20 km bestiges
+Bulbjerg og **Depot 0 (Bulbjerg)** nås. Der fortsættes via den markerede rute mod Agger.
 
 ## Bulbjerg (start 50 miles)
 
@@ -154,7 +157,7 @@ selve stranden vil der ingen markering være, omend der vil være tydelig marker
 beachflag, hvor stranden skal forlades!  Vi fortsætter vest ad Vigsø Sti, en letløbet
 gruscykelsti. Efter ca. 3 km drejer vi af og løber ind i indhegningen op og på højderyggen, der
 følges med en uimodståelig udsigt udover Vigsø Bugt ind mod **Depot 1 (Vigsø)**, der rammes efter
-ca. 23 km for løbere på 50 miles og ca. 43 km for løbere på 100 km Hvis man er heldig, så kan man
+ca. 23 km for løbere på 50 miles og ca. 47 km for løbere på 100 km Hvis man er heldig, så kan man
 også få lov til at sige hej til et par fredelige køer på vej ind mod depotet! Få tanket godt op og
 nyd udsigten!
 
@@ -193,7 +196,7 @@ sandet---og ligeledes er nedløbet!  Ruten fortsætter ned til Bøgsted rende, o
 et par kilometer før vi rammer løbets strandetape. Strandpassagen er ikke mærket op---følg blot
 stranden mod syd.  Efter ca. 3 km på stranden kommer man forbi landingspladsen ved Nr. Vorupør, hvor
 der stadig trækkes kuttere på land, og hvor **Depot 3** holder til, efter ca. 26 km for løbere på 50
-km, ca. 57 km for løbere på 50 miles og ca. 77 km for løbere på 100 km.
+km, ca. 57 km for løbere på 50 miles og ca. 78 km for løbere på 100 km.
 
 ## Nr. Vorupør (start 24 km)
 

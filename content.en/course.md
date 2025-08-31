@@ -28,8 +28,8 @@ responsibility to bring a GPS unit and load the provided GPX file.
 
 GPX files can be downloaded using the links below. 
 
-- 100 km (GPX) - will be announced later
+- [100 km (GPX)](/CHU-100km.gpx)
 - [50 miles (GPX)](/CHU-50miles.gpx)
 - [50 km (GPX)](/CHU-50km.gpx)
-- [24 km (GPX)](/CHU-25km.gpx)
+- [24 km (GPX)](/CHU-24km.gpx)
 - [12 km (GPX)](/CHU-12km.gpx)
