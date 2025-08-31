@@ -5,10 +5,10 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
   <metadata>
-    <name>Cold Hawaii Ultra 50 km 2024</name>
+    <name>Cold Hawaii Ultra 50 km</name>
   </metadata>
   <trk>
-    <name>Cold Hawaii Ultra 50 km 2024</name>
+    <name>Cold Hawaii Ultra 50 km</name>
     <trkseg>
       <trkpt lat="57.11671845987439" lon="8.594930078834295">
       </trkpt>
