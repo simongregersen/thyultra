@@ -9,8 +9,13 @@ bookToc: false
 **Cold Hawaii Ultra** is the dream of the ultimate Danish ultra and trail running experience through
  some of Denmark's wildest, roughest, and most astonishing nature. The race takes place
 
-
 &nbsp;&nbsp;&nbsp;&nbsp; **20th September 2025**
+
+{{< hint info >}}
+
+A letter for all participants of Cold Hawaii Ultra 2025 can be accessed  <a href="/2025_deltagerbrev.pdf">at this link (in Danish)</a>.
+
+{{< /hint >}}
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, where the
 expanses are greater and nature is wilder, you find [Thy National

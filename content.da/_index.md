@@ -11,11 +11,11 @@ vildmarken og noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste na
 
 &nbsp;&nbsp;&nbsp;&nbsp; **20. september 2025**
 
-<!-- {{< hint info >}} -->
+{{< hint info >}}
 
-<!-- Deltagerbrev for Cold Hawaii Ultra 2022 er udsendt men kan også hentes og læses <a href="/2022_deltagerbrev.pdf">via dette link</a>. -->
+Deltagerbrev for Cold Hawaii Ultra 2025 kan tilgås <a href="/2025_deltagerbrev.pdf">via dette link</a>.
 
-<!-- {{< /hint >}} -->
+{{< /hint >}}
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/) <!-- og Jammerbugten -->. Her kan man opleve klitheden, som kun
