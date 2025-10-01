@@ -11,11 +11,11 @@ bookToc: false
 
 &nbsp;&nbsp;&nbsp;&nbsp; **20th September 2025**
 
-{{< hint info >}}
+<!-- {{< hint info >}} -->
 
-A letter for all participants of Cold Hawaii Ultra 2025 can be accessed  <a href="/2025_deltagerbrev.pdf">at this link (in Danish)</a>.
+<!-- A letter for all participants of Cold Hawaii Ultra 2025 can be accessed  <a href="/2025_deltagerbrev.pdf">at this link (in Danish)</a>. -->
 
-{{< /hint >}}
+<!-- {{< /hint >}} -->
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, where the
 expanses are greater and nature is wilder, you find [Thy National
