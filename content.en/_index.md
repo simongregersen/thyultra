@@ -29,11 +29,10 @@ plantations. The course will take you onto small single tracks in-between the du
 beach, and through coniferous plantations and small coastal fishing villages where fishing cutters
 are still landed and beached every day.
 
-The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest
-coast of Jutland. Courses primarily follow the [West Coast
+The race area stretches spans from Løkken in the north to the fishing village Agger in the south.
+With deviations, all courses follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
-the old lifeboat road. In 2026, we also offer a 100 miles course that sets out from Grønhøj Strand
-near Løkken.
+the old lifeboat road. 
 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
 
