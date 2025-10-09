@@ -10,7 +10,7 @@ bookToc: false
 ## Course
 
 - The race course must be followed at all times. The course is marked with small orange flags. The
-  first 20 km of the 100 km course is **not** be marked and participants must navigate using a GPS
+  first half of the 100 miles course is **not** be marked and participants must navigate using a GPS
   unit.
 - If you leave the course by mistake, you must return immediately.
 - It is your own responsibility to follow the course.
@@ -20,9 +20,9 @@ bookToc: false
 
 - Private supporters may only assist by the official aid stations.
 - Runners may have company 1 km before and after the aid stations.
-- Pacers not racing themselves are not allowed outside of the aid station zones.
+- Pacers not racing themselves are not allowed outside of the 1 km aid station zones.
 - Participants must bring and mark dropbags themselves.
-- Maximum capacity for dropbags is 30 L.
+- Maximum capacity for dropbags is 20 L.
 
 ## Race bib and equipment
 - Participants must carry the mandatory equipment at all times, see [Equipment and safety]({{< relref "about#equipment-and-safety" >}})

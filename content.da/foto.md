@@ -13,6 +13,8 @@ billeder og video.
 Det er tilladt at benytte sig af billeder og video ved ikke-kommerciel brug
 såfremt fotografen krediteres.
 
+- [Cold Hawaii Ultra 2025](https://www.facebook.com/media/set/?set=a.1289637136507629&type=3) (Bjørn Sørensen/Trail Bear Films)
+
 - [Cold Hawaii Ultra 2024](https://www.facebook.com/media/set/?set=a.993041699500509&type=3) (Mads Holm Andersen/SportExposures)
 
 - [Cold Hawaii Ultra 2023](https://www.facebook.com/media/set/?set=a.745435990927749&type=3) (Mads Holm Andersen/SportExposures)

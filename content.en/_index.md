@@ -9,7 +9,7 @@ bookToc: false
 **Cold Hawaii Ultra** is the dream of the ultimate Danish ultra and trail running experience through
  some of Denmark's wildest, roughest, and most astonishing nature. The race takes place
 
-&nbsp;&nbsp;&nbsp;&nbsp; **20th September 2025**
+&nbsp;&nbsp;&nbsp;&nbsp; **18-19 September 2026**
 
 <!-- {{< hint info >}} -->
 
@@ -23,7 +23,7 @@ Park](https://nationalparkthy.dk/). From Hanstholm Wildlife Reserve in the north
 red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off to rest,
 Cold Hawaii Ultra takes you through it all.
 
-Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** on foot through
+Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 miles** on foot through
 grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and peaceful dune
 plantations. The course will take you onto small single tracks in-between the dunes, down to the
 beach, and through coniferous plantations and small coastal fishing villages where fishing cutters
@@ -32,25 +32,14 @@ are still landed and beached every day.
 The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest
 coast of Jutland. Courses primarily follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
-the old lifeboat road. In 2025 a 100 km course is also offered. The 100 km course sets out from
-Bulbjerg and takes you through the Vester Thorup Plantation before heading south.
+the old lifeboat road. In 2025 a 100 miles course is also offered. The 100 miles course sets out from
+Grønhøj Strand near Løkken and takes you through some astonishin trail along Jammerbugten.
 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
 
-<!-- Den samlede rute strækker sig fra Løkken i nord til Agger i syd langs den jyske -->
-<!-- nordvestkyst. Deltagerene på 12 km, 25 km, 50 km og 50 miles vil primært bevæge -->
-<!-- sig ad -->
-<!-- [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) -->
-<!-- og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger.  Deltagere -->
-<!-- på 100 miles starter syd for Løkken ved Grønhøj Strand og vil foruden -->
-<!-- Vestkyststien benytte sig af Nordsøstien og -->
-<!-- [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved -->
-<!-- Vesterhavshytten og Signalmasten i Agger. -->
 
-
-<!-- {{< button href="https://my.raceresult.com/269740/info" >}}Gå til tilmelding{{< /button >}} -->
 {{< button relref="/about" >}}Read more{{< /button >}}
-{{< button href="https://my.raceresult.com/311431/registration" >}}Go to registration{{< /button >}}
+<!-- {{< button href="https://my.raceresult.com/311431/registration" >}}Go to registration{{< /button >}} -->
 
 <br>
 

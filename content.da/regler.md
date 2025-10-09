@@ -26,13 +26,12 @@ bookToc: false
 - Løberen må have selskab på strækningen én km før depot til én km efter depot.
 - Pacere, der ikke deltager i løbet, er ikke tilladt udenfor depotzonerne.
 - Deltagerne er selv ansvarlige for mærkning af dropbag.
-- Dropbag/kasse må max indeholde 30 liter.
+- Dropbag/kasse må max indeholde 20 liter.
 - Der må handles i butikker undervejs, samt om nødvendigt spørges efter vand hos lokale.<!-- , dvs. hjælp -->
   <!-- som alle i princippet har adgang til. -->
 
 ## Startnummer & udstyr
-- Obligatorisk udstyr skal medbringes under hele løbet, se [Udstyr og Sikkerhed]({{< relref
-  "information#udstyr-og-sikkerhed" >}}).
+- Obligatorisk udstyr skal medbringes under hele løbet, se [Udstyr og Sikkerhed]({{< relref "information#udstyr-og-sikkerhed" >}}).
 - Startnummer skal under hele løbet bæres synligt.
 
 ## Affald
