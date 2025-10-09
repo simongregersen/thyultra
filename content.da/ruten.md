@@ -34,8 +34,9 @@ km og 12 km kan klare sig udelukkende ved at følge markeringen. Til løbere, de
 GPS-ur med navigationsfunktion, kan man nedenfor downloade vejledende GPX-filer, omend vi
 understreger, at de ikke er nødvendige for at gennemføre løbet for løbere på disse distancer.
 
-- [100 miles, ruteforløb (GPX-fil)](/CHU-100miles-2024.gpx)
 <!-- - [100 km (GPX-fil)](/CHU-100km.gpx) -->
+
+- [100 miles (GPX-fil)](/CHU-100miles-2024.gpx)
 - [50 miles (GPX-fil)](/CHU-50miles.gpx)
 - [50 km (GPX-fil)](/CHU-50km.gpx)
 - [24 km (GPX-fil)](/CHU-24km.gpx)

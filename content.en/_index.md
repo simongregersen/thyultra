@@ -32,11 +32,10 @@ are still landed and beached every day.
 The longest courses start in Bulbjerg and finish in the village of Agger, following the northwest
 coast of Jutland. Courses primarily follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
-the old lifeboat road. In 2025 a 100 miles course is also offered. The 100 miles course sets out from
-Grønhøj Strand near Løkken and takes you through some astonishin trail along Jammerbugten.
+the old lifeboat road. In 2026, we also offer a 100 miles course that sets out from Grønhøj Strand
+near Løkken.
 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
-
 
 {{< button relref="/about" >}}Read more{{< /button >}}
 <!-- {{< button href="https://my.raceresult.com/311431/registration" >}}Go to registration{{< /button >}} -->

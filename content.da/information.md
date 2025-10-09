@@ -8,8 +8,9 @@ bookToc: true
 # Løbsinformation
 
 Et helt unikt trailløb fra
-+ Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
 <!-- + Bulbjerg via Vester Thorup til Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}} -->
+
++ Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
 + Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2025/105120">}}
 + Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2025/105119" >}}
 + Nr. Vorupør til Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2025/105121" >}} eller 
@@ -36,8 +37,9 @@ Til alle løbere, der gennemfører Cold Hawaii Ultra, vil der være et lille tro
 
   **Bemærk**: den første halvdel af ruten (Løkken til Bulbjerg) for 100 miles er ikke mærket op og
   vil foregå med hjælp fra egen GPS-enhed. Den sidste halvdel (Bulbjerg til Agger) vil være tydeligt
-  opmærket med orange flag og GPS-enhed er derfor **ikke** nødvendig på distancerne 50 miles, 50 km,
-  24 km og 12 km.
+  opmærket med orange flag.
+  
+  GPS-enhed er **ikke** nødvendig på distancerne 50 miles, 50 km, 24 km og 12 km.
 
 {{< /hint >}}
 
@@ -337,12 +339,13 @@ GPX-fil.
 
 ## Priser
 
-- 100 miles:
-  + inden 16. august: kr. 800,-
-  + 16. august til 20. september: kr. 1000,-
 <!-- - **100 km** -->
 <!--   + inden 16. august: kr. 650,- -->
 <!--   + efter 16. august: kr. 850,- -->
+
+- **100 miles**:
+  + inden 16. august: kr. 800,-
+  + 16. august til 20. september: kr. 1000,-
 - **50 miles**
   + inden 16. august: kr. 600,-
   + efter 16. august: kr. 800,-
@@ -376,6 +379,6 @@ Cold Hawaii Ultra arrangeres af
 
 ## Tilmelding
 
-Tilmeldingen til Cold Hawaii Ultra 2026 åbner 1. november 2024 kl. 18.00.
+Tilmeldingen til Cold Hawaii Ultra 2026 åbner 1. november 2025 kl. 18.00.
 
 <!-- {{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->

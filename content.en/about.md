@@ -7,28 +7,30 @@ bookToc: true
 
 # About the race
 
+<!-- + Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}} -->
+
 Cold Hawaii Ultra is a unique trail running race from
 + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
-<!-- + Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}} -->
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
 + Hanstholm to Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
 + Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}} or
 + Lyngby to Agger (12 km)
 
-by the old lifeboat road and the West Coast Trail on the northwest coast of Denmark.
+by the old lifeboat road and the West Coast Trail on the northwest coast of Jutland, Denmark.
 
-The race is a low-key trail running race without all the fuss. The focus is on the incredible
-landscape and the trails in and around Thy National Park. Courses are clearly marked with small
-orange flags and five aid stations along the route are available. Cold Hawaii Ultra finishers
-receive a small and unique trophy at the end.
+The race is a low-key trail running race without any fuss. The focus is on the incredible landscape
+and finding the best trails in the area. Courses are clearly marked with small orange flags and
+several aid stations are available along the course. Cold Hawaii Ultra finishers receive a small and
+unique trophy at the end.
 
 
 {{< hint info >}}
 
   **Note that the first half of the 100 miles course is unmarked.** Participants will have to
     navigate this part of the course using a GPS unit or a GPS running watch. The remaining course
-    is marked. GPS navigation is not necessary to finish the courses on 50 miles, 50 km, 24 km, or
-    12 km.
+    is marked. 
+    
+    GPS navigation is not necessary for participants on 50 miles, 50 km, 24 km, or 12 km.
 
 {{< /hint >}}
 
@@ -306,13 +308,13 @@ As a backup unit we recommend the app [Topo GPS](https://www.topo-gps.com/) whic
 both Android and iOS. The app allows you to import a GPX file and offers offline topographic maps of
 Denmark for DKK 29.
 
-GPX files for all courses are found  on the [Course]({{< relref"/course" >}}) page.
+GPX files for all courses can be found  on the [Course]({{< relref"/course" >}}) page.
 
 {{< /hint >}}
 
 ## Course closure and cutoffs
 
-All courses close at 23:59. Participants arriving after this time will be disqualified. 
+All courses close at 23:59. Participants arriving at the finish after this time will be disqualified. 
 
 The following cutoffs are enforced for all participants.
 
@@ -325,20 +327,21 @@ The following cutoffs are enforced for all participants.
 - **Aid station 1, Tranum**: Friday at 23.00 (100 miles)
 - **Aid station 2, Kollerup**: Saturday at 04.00 (100 miles)
 - **Aid station 3, Bulbjerg**: Saturday at 08.30 (100 miles)
-- **Aid station 4, Vigsø**: 13.00
-- **Aid station 5, Klitmøller**: 16.00
-- **Aid station 6, Nr. Vorupør**: lørdag kl. 20.00
-- **Aid station 7, Lyngby**: 22.00
+- **Aid station 4, Vigsø**: Saturday at 13.00
+- **Aid station 5, Klitmøller**: Saturday at 16.00
+- **Aid station 6, Nr. Vorupør**: Saturday at kl. 20.00
+- **Aid station 7, Lyngby**: Saturday at 22.00
 
 
 ## Registration fees
 
-- **100 miles**
-  + before 16 August: DKK 800,-
-  + after 16 August: DKK 1000,-
 <!-- - **100 km** -->
 <!--   + before 16 August: DKK 650,- -->
 <!--   + after 16 August: DKK 850,- -->
+
+- **100 miles**
+  + before 16 August: DKK 800,-
+  + after 16 August: DKK 1000,-
 - **50 miles**
   + before 16 August: DKK 600,-
   + after 16 August: DKK 800,-

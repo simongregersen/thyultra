@@ -6,12 +6,12 @@ bookToc: false
 
 # The Course
 
-The course spans all of Thy National Park and beyond, from Bulbjerg and Vester Thorup in the north
-to Agger in the south. The course primarily follow the West Coast trail and the old lifeboat road
-but with deviations throughout. The running surface is a mix of sandy beaches, small paths, single
-tracks, wheel tracks, gravel roads, compact dirt roads, and a few paved roads through some of the
-villages and on the bike path between Hanstholm and Klitmøller. Participants on the two longest
-courses start in Bulbjerg and the remaining courses join further along on the way to Agger.
+The course spans all of Thy National Park and beyond, from Løkken in the north to Agger in the
+south. The course primarily follow the West Coast trail and the old lifeboat road but with
+deviations throughout. The running surface is a mix of sandy beaches, small paths, single tracks,
+wheel tracks, gravel roads, compact dirt roads, and a few paved roads through some of the villages
+and on the bike path between Hanstholm and Klitmøller. Participants on the two longest courses start
+in Bulbjerg and the remaining courses join further along on the way to Agger.
 
 The interactive map found below shows the race area. The red pins indicate the location of the start
 areas and the orange pins indicate the location of the aid stations.
@@ -27,8 +27,9 @@ responsibility to bring a GPS unit and load the provided GPX file.
 
 GPX files can be downloaded using the links below. 
 
-- [100 miles (GPX)](/CHU-100miles.gpx)
 <!-- - [100 km (GPX)](/CHU-100km.gpx) -->
+
+- [100 miles (GPX)](/CHU-100miles.gpx)
 - [50 miles (GPX)](/CHU-50miles.gpx)
 - [50 km (GPX)](/CHU-50km.gpx)
 - [24 km (GPX)](/CHU-24km.gpx)

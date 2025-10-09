@@ -11,10 +11,9 @@ bookToc: false
 
 - Den angivne rute skal **altid** følges. På strækningen fra Bulbjerg til Agger følges som
   udgangspunkt vandrestien Vestkyststien & den gamle redningsvej markeret med en redningsbåd, dog
-  med enkelte variationer. Dette stræk er fuldt mærket op med orange flag. <!-- 100 miles vil endvidere benytte sig af -->
-  <!-- Nordsøstien og Hærvejsvandreruten; bemærk at strækningen fra Løkken til Bulbjerg **ikke** er -->
-  <!-- markeret op og foregår ved hjælp af egen GPS-enhed (100 miles). -->
-  De første 20 km af ruten for 100 km er ikke markeret og gennemføres ved hjælp af egen GPS-enhed.
+  med enkelte variationer. Dette stræk er fuldt mærket op med orange flag. 100 miles vil endvidere
+  benytte sig af Nordsøstien og Hærvejsvandreruten; bemærk at strækningen fra Løkken til Bulbjerg
+  **ikke** er markeret op og foregår ved hjælp af egen GPS-enhed (100 miles).
 - Forlader man ved en fejltagelse ruten, **skal** man hurtigst muligt finde tilbage.
 - Det er deltagernes eget ansvar at følge ruten.
 - Tidsstraf gives om nødvendigt, hvis det vurderes, at en omvej/genvej har sparet tid for
@@ -27,8 +26,7 @@ bookToc: false
 - Pacere, der ikke deltager i løbet, er ikke tilladt udenfor depotzonerne.
 - Deltagerne er selv ansvarlige for mærkning af dropbag.
 - Dropbag/kasse må max indeholde 20 liter.
-- Der må handles i butikker undervejs, samt om nødvendigt spørges efter vand hos lokale.<!-- , dvs. hjælp -->
-  <!-- som alle i princippet har adgang til. -->
+- Der må handles i butikker undervejs, samt om nødvendigt spørges efter vand hos lokale.
 
 ## Startnummer & udstyr
 - Obligatorisk udstyr skal medbringes under hele løbet, se [Udstyr og Sikkerhed]({{< relref "information#udstyr-og-sikkerhed" >}}).
