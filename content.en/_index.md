@@ -32,7 +32,7 @@ are still landed and beached every day.
 The race area spans from Løkken in the north to the fishing village Agger in the south. With
 deviations, all courses follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
-the old lifeboat road. The 100 miles course will also make use of the North Sea Trail.
+the old lifeboat road. The 100 miles course will also make use of the North Sea Trail and Hærvejen.
 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
 

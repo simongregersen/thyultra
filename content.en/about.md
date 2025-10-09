@@ -13,7 +13,7 @@ Cold Hawaii Ultra is a unique trail running race from
 + Løkken/Grønhøj Strand to Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
 + Hanstholm to Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
-+ Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}} or
++ Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}}
 + Lyngby to Agger (12 km)
 
 by the old lifeboat road and the West Coast Trail on the northwest coast of Jutland, Denmark.
@@ -350,7 +350,7 @@ The following cutoffs are enforced for all participants.
 - **24 km**
   + before 16 August: DKK 375,-
   + after 16 august: DKK 450,-
-- **12 km**: DKK 275,-
+- **12 km**
   + before 16 August: DKK 275,-
   + after 16 August: DKK 325,-
 
