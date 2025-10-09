@@ -29,7 +29,6 @@ unique trophy at the end.
   **Note that the first half of the 100 miles course is unmarked.** Participants will have to
     navigate this part of the course using a GPS unit or a GPS running watch. The remaining course
     is marked. 
-    
     GPS navigation is not necessary for participants on 50 miles, 50 km, 24 km, or 12 km.
 
 {{< /hint >}}
