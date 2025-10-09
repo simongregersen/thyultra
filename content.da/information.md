@@ -345,7 +345,7 @@ GPX-fil.
 
 - **100 miles**:
   + inden 16. august: kr. 800,-
-  + 16. august til 20. september: kr. 1000,-
+  + efter 16. august: kr. 1000,-
 - **50 miles**
   + inden 16. august: kr. 600,-
   + efter 16. august: kr. 800,-
