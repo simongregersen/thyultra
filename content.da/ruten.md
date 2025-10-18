@@ -36,7 +36,7 @@ understreger, at de ikke er nødvendige for at gennemføre løbet for løbere p�
 
 <!-- - [100 km (GPX-fil)](/CHU-100km.gpx) -->
 
-- [100 miles (GPX-fil)](/CHU-100miles-2024.gpx)
+- [100 miles (GPX-fil)](/CHU-100miles.gpx)
 - [50 miles (GPX-fil)](/CHU-50miles.gpx)
 - [50 km (GPX-fil)](/CHU-50km.gpx)
 - [24 km (GPX-fil)](/CHU-24km.gpx)
