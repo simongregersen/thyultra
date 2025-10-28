@@ -9,27 +9,24 @@ bookToc: true
 
 <!-- + Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}} -->
 
-Cold Hawaii Ultra is a unique trail running race from
+Cold Hawaii Ultra is a trail running race from
 + Løkken/Grønhøj Strand to Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
 + Hanstholm to Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
 + Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}}
 + Lyngby to Agger (12 km)
 
-by the old lifeboat road and the West Coast Trail on the northwest coast of Jutland, Denmark.
+following the old lifeboat road and the West Coast Trail on the northwest coast of Jutland, Denmark.
 
-The race is a low-key trail running race without any fuss. The focus is on the incredible landscape
-and finding the best trails in the area. Courses are clearly marked with small orange flags and
-several aid stations are available along the course. Cold Hawaii Ultra finishers receive a small and
-unique trophy at the end.
-
+The race is a low-key trail running race without any fuss. We focus on the incredible landscape and
+finding the best trails in the area. Courses are marked with small orange flags and aid stations are
+available along the course. All finishers receive a unique trophy at the finish line.
 
 {{< hint info >}}
 
   **Note that the first half of the 100 miles course is unmarked.** Participants will have to
-    navigate this part of the course using a GPS unit or a GPS running watch. The remaining course
-    is marked. 
-    GPS navigation is not necessary for participants on 50 miles, 50 km, 24 km, or 12 km.
+    navigate this part of the course using a GPS unit or a GPS running watch. The remaining half is
+    marked. GPS navigation is **not** necessary on 50 miles, 50 km, 24 km, or 12 km.
 
 {{< /hint >}}
 
@@ -42,10 +39,10 @@ unique trophy at the end.
 
 <!-- {{< /hint >}} -->
 
-The full extent of the course is described in detail on the dedicated [Course]({{< relref "/course" >}}) page.
+The full extent of the race course is described in detail on the dedicated [Course]({{< relref "/course" >}}) page.
 
 ## Date 
-Friday, 18 September 2026 and Saturday, 19 September 2026.
+18 September, 2026, and 19 September, 2026.
 
 ## Schedule
 
@@ -164,8 +161,8 @@ Friday, 18 September 2026 and Saturday, 19 September 2026.
 {{< hint info >}}
 
 **Bus transport** to the start area is included in the registration fee but it is **not** mandatory.
-When signing up for the race, it is also possible to sign up for the bus. Your registration can be
-changed until a week before the race.
+When signing up for the race, you can indicate whether you would like to sign up for the bus. Your
+registration can be changed until a week before the race.
 
 {{< /hint >}}
 
@@ -173,12 +170,12 @@ changed until a week before the race.
 
 If you sign up for the bus transport to the start area, you will pick up your race bib and timing
 chip when getting on the bus. If you do not sign up for the bus transport, you pick up your race bib
-and timing chip from the race organizers in the starting area.
+and timing chip from the race organizers in the start area.
 
 {{< hint info >}}
 
 If you sign up for the bus but decide not to board it, your race bib will still make it to the
-starting area and you may pick it up from the race organizers after the bus arrives.
+start area and you may pick it up from the race organizers after the bus arrives.
 
 {{< /hint >}}
 
@@ -189,12 +186,12 @@ The finish area is located in
 Agger
 : [Vesterhavshytten Agger, Vesterhavsvej 2, Agger, 7770 Vestervig](https://goo.gl/maps/yJEhDMuBBBRYEKEF8)
 
-Busses to the starting areas depart from Vesterhavshytten in Agger according to the schedule described in the program above.
+Busses to the start areas depart from Vesterhavshytten in Agger according to the schedule found in the program.
 
 Løkken, Grønhøj Strand (100 miles)
 : [Grønhøj Strandvej, 9480 Løkken](https://goo.gl/maps/CpbnY7nRW5WMVT9Q8)
 
-Bulbjerg (50 miles and 100 km)
+Bulbjerg (50 miles)
 : [Parkeringsplads Bulbjerg, 7741 Frøstrup](https://goo.gl/maps/muFPKexseEYLHJKb7)
 
 Hanstholm (50 km)
@@ -216,33 +213,33 @@ At the aid stations you will find
 - Energy drink
 - Wine gums
 - Potato chips
-- Mini granola bars from Nordthy
+- Small granola bars from Nordthy
 
-For participants on the 50 miles courses it is also possible to get **1 dropbag** transported to aid
-station 5 in Klitmøller.
+Participants on the 50 miles courses may get **1 dropbag** transported to aid station 5 in
+Klitmøller.
 
-For participants on the 100 miles courses it is also possible to get **2 dropbags** transported to aid
-station 5 in Klitmøller and aid station 3 in Bulbjerg.
+Participants on the 100 miles courses may get **2 dropbags** transported to aid
+station 5 in Klitmøller and aid station 3 in Bulbjerg, respectively.
 
 Dropbags have to be safely packaged and clearly marked with your bib number and name. Maximum
-capacity is 20 L. Dropbags are handed over to the race organizers in the starting area and are
+capacity is 20 L. Dropbags are handed over to the race organizers in the start area and will be
 brought to the finishing area as soon as possible after its use.
 
 
 ### Overview of aid stations
 
-- **Aid station 1**: Tranum (100M: ca. 28 km)
-- **Aid station 2**: Kollerup (100M: ca. 55 km)
-- **Aid station 3**: Bulbjerg (100M: ca. 81 km)
+- **Aid station 1**: Tranum (100M: approx. 28 km)
+- **Aid station 2**: Kollerup (100M: approx. 55 km)
+- **Aid station 3**: Bulbjerg (100M: approx. 81 km)
   + 100M: Dropbag 1
-- **Aid station 4**: Vigsø (50M: ca. 23 km, 100M: ca. 105km)
-- **Aid station 5**: Klitmøller (50K: ca. 11 km, 50M: ca. 42 km, 100M: ca. 122km)
+- **Aid station 4**: Vigsø (50M: approx. 23 km, 100M: approx. 105km)
+- **Aid station 5**: Klitmøller (50K: approx. 11 km, 50M: approx. 42 km, 100M: approx. 122km)
   + 100M: Dropbag 2
   + 50M: Dropbag
-- **Aid station 6**: Vorupør (50K: ca. 26 km, 50M: ca. 57 km, 100M: ca. 137km)
-- **Aid station 7**: Lyngby (24 km, ca. 13 km, 50K: ca. 38 km, 50M: ca. 70 km, 100M: v/ca 150 km)
+- **Aid station 6**: Vorupør (50K: approx. 26 km, 50M: approx. 57 km, 100M: approx. 137km)
+- **Aid station 7**: Lyngby (24 km, approx. 13 km, 50K: approx. 38 km, 50M: approx. 70 km, 100M: v/ca 150 km)
 - **FINISH**: Vesterhavshytten Agger
-  + Menu fra Vesterhavshytten
+  + Menu from Vesterhavshytten
 
 <!-- - **Aid station 0**: Bulbjerg (100k: approx. 20 km) -->
 <!-- - **Aid station 1**: Vigsø (50M: approx. 23 km, 100K: approx. 43 km) -->
@@ -276,10 +273,10 @@ following equipment at all times:
 - **50 miles** and **100 miles**: headlamp
 - **100 miles**: GPS unit or watch
 
-For participants on the **24 km** course it is mandatory to bring a bottle or drinking system with a
+On the **24 km** course it is mandatory to bring a bottle or drinking system with a
 capacity of minimum 0.5 L.  No single-use cups are offered at the aid station.  
 
-For participants doing the **12 km** course there are no mandatory equipment requirements. 
+There are no mandatory equipment requirements on the **12 km** course. 
 
 We strongly advice all participants to check the weather forecast and dress accordingly. The race
 area is remote in places and vehicle access can be limited. You should prepare for having to wait a
@@ -287,7 +284,7 @@ while for help to reach you should the need arise.
 
 {{< hint info >}}
 
-**A headlamp** is necessary for participants on the 50 miles and 100 miles courses. The sun rises at around 07:00 and sets at 19:30.
+It is strictly necessary to bring **a headlamp** on the 50 miles and 100 miles courses. The sun rises at around 07:00 and sets at 19:30.
 
 {{< /hint >}}
 
@@ -298,24 +295,24 @@ while for help to reach you should the need arise.
 <!--  a background map is sufficient, but we recommend bringing a backup unit with a background map, -->
 <!--  e.g., a cellphone. -->
 
-For participant on the 100 miles course it is strictly necessary to **use a GPS unit** for
- navigation on the first unmarked half of the course. Both dedicated GPS units or GPS watches are
- permitted. A unit without a background map is sufficient, but we recommend bringing a backup unit
- with a background map, e.g., a cellphone.
+On the 100 miles course it is strictly necessary to **bring and use a GPS unit** for navigation on
+ the first unmarked half of the course. Both dedicated GPS units or GPS watches are permitted. A
+ unit without a background map is sufficient, but we recommend bringing a backup unit with a
+ background map, e.g., a cellphone.
 
 As a backup unit we recommend the app [Topo GPS](https://www.topo-gps.com/) which is available for
 both Android and iOS. The app allows you to import a GPX file and offers offline topographic maps of
 Denmark for DKK 29.
 
-GPX files for all courses can be found  on the [Course]({{< relref"/course" >}}) page.
+GPX files are found on the [Course]({{< relref"/course" >}}) page.
 
 {{< /hint >}}
 
 ## Course closure and cutoffs
 
-All courses close at 23:59. Participants arriving at the finish after this time will be disqualified. 
+All courses close at 23:59. Participants arriving at the finish after course closure will be disqualified. 
 
-The following cutoffs are enforced for all participants.
+The following aid station cutoffs are enforced for all participants.
 
 <!-- - Aid station 0 (Bulbjerg): 09:00  -->
 <!-- - Aid station 1 (Vigsø): 12:00 -->
@@ -363,7 +360,7 @@ Cold Hawaii Ultra is organized by
 
 ## Registration
 
-The registration for Cold Hawaii Ultra 2026 opens 1st November 2025 at 18:00.
+The registration for Cold Hawaii Ultra 2026 opens 1 November, 2025 at 18:00.
 
-<!-- {{< button href="https://my.raceresult.com/164716/registration?lang=dk" class="solid-btn" >}}Gå til tilmelding{{< /button >}} -->
+{{< button href="https://my.raceresult.com/366415/registration" >}}Go to registration{{< /button >}}
 
