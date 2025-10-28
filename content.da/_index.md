@@ -50,7 +50,7 @@ Løkken ved Grønhøj Strand og vil foruden Vestkyststien benytte sig af Nordsø
 Signalmasten i Agger.
 
 {{< button relref="/information" >}}Læs mere{{< /button >}}
-<!-- {{< button href="https://my.raceresult.com/311431/registration" >}}Gå til tilmelding{{< /button >}} -->
+{{< button href="https://my.raceresult.com/366415/" >}}Gå til tilmelding{{< /button >}}
 
 <br>
 

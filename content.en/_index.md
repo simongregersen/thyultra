@@ -37,7 +37,7 @@ the old lifeboat road. The 100 miles course will also make use of the North Sea 
 All participants finish by Vesterhavshytten and Signalmasten in Agger.
 
 {{< button relref="/about" >}}Read more{{< /button >}}
-<!-- {{< button href="https://my.raceresult.com/311431/registration" >}}Go to registration{{< /button >}} -->
+{{< button href="https://my.raceresult.com/366415/registration" >}}Go to registration{{< /button >}}
 
 <br>
 
