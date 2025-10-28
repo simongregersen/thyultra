@@ -179,9 +179,9 @@ start area and you may pick it up from the race organizers after the bus arrives
 
 {{< /hint >}}
 
-## Start and finish areas
+## Start and finish
 
-The finish area is located in
+The finish is located in
 
 Agger
 : [Vesterhavshytten Agger, Vesterhavsvej 2, Agger, 7770 Vestervig](https://goo.gl/maps/yJEhDMuBBBRYEKEF8)
@@ -208,23 +208,22 @@ Lyngby (12 km)
 At the aid stations you will find
 
 - Bananas
-- Coke
+- Jolly Cola
 - Water (bring your own cup or bottle---no single-use cups are offered!)
 - Energy drink
 - Wine gums
 - Potato chips
 - Small granola bars from Nordthy
 
-Participants on the 50 miles courses may get **1 dropbag** transported to aid station 5 in
+Participants on the 50 miles courses can have **1 dropbag** delivered to aid station 5 in
 Klitmøller.
 
-Participants on the 100 miles courses may get **2 dropbags** transported to aid
-station 5 in Klitmøller and aid station 3 in Bulbjerg, respectively.
+Participants on the 100 miles courses can have **2 dropbags** delivered, one to aid station 3 in
+Bulbjerg and one to aid station 5 in Klitmøller.
 
 Dropbags have to be safely packaged and clearly marked with your bib number and name. Maximum
 capacity is 20 L. Dropbags are handed over to the race organizers in the start area and will be
-brought to the finishing area as soon as possible after its use.
-
+brought to the finish after its use.
 
 ### Overview of aid stations
 
