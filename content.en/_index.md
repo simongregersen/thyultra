@@ -7,9 +7,9 @@ bookToc: false
 ![banner](/images/banner3.jpg)
 
 **Cold Hawaii Ultra** is the dream of the ultimate Danish ultra and trail running experience through
- some of Denmark's wildest, roughest, and most astonishing nature. The race takes place
+ some of Denmark's wildest and most astonishing nature. The race takes place
 
-&nbsp;&nbsp;&nbsp;&nbsp; **18-19 September 2026**
+&nbsp;&nbsp;&nbsp;&nbsp; **18 and 19 September 2026**
 
 <!-- {{< hint info >}} -->
 
@@ -19,22 +19,22 @@ bookToc: false
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, where the
 expanses are greater and nature is wilder, you find [Thy National
-Park](https://nationalparkthy.dk/). From Hanstholm Wildlife Reserve in the north, with its roaring
-red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off to rest,
-Cold Hawaii Ultra takes you through it all.
+Park](https://nationalparkthy.dk/). From the Hanstholm Wildlife Reserve in the north, with its
+roaring red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off
+to rest, Cold Hawaii Ultra takes you through it all.
 
 Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 miles** on foot through
-grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and peaceful dune
-plantations. The course will take you onto small single tracks in-between the dunes, down to the
-beach, and through coniferous plantations and small coastal fishing villages where fishing cutters
-are still landed and beached every day.
+grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and the peaceful
+dune plantations. The course will take you onto small single tracks in-between the dunes, down to
+the beach, and through coniferous plantations and small coastal fishing villages where fishing
+cutters are still landed and beached every day.
 
-The race area spans from Løkken in the north to the fishing village Agger in the south. With
-deviations, all courses follow the [West Coast
+The entire race area spans from Løkken in the north to Agger in the south. With deviations
+throughout, all the courses follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
 the old lifeboat road. The 100 miles course will also make use of the North Sea Trail and Hærvejen.
 
-All participants finish by Vesterhavshytten and Signalmasten in Agger.
+All courses finish at Vesterhavshytten and Signalmasten in Agger.
 
 {{< button relref="/about" >}}Read more{{< /button >}}
 {{< button href="https://my.raceresult.com/366415/registration" >}}Go to registration{{< /button >}}
