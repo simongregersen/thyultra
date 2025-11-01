@@ -1,4 +1,4 @@
-n---
+---
 title: About the race
 bookToc: true
 ---
@@ -19,7 +19,7 @@ Cold Hawaii Ultra is a trail running race from
 
 along the old lifeboat road and the West Coast Trail on the northwest coast of Denmark.
 
-This event is a low-key trail running race without too much fuss. Our priority is taking you onto
+The event is a low-key trail running race without too much fuss. Our priority is taking you onto
 the best trails in the area and giving you the most spectacular views.
 
 
@@ -88,7 +88,6 @@ More detail on the courses can be found on the dedicated [Course]({{< relref "/c
 | -        |     23:59 | Finish line closes, Agger                       |
 
 ### 12 km
-
 | Date     |      Time | Event                                      |
 |:---------|----------:|:-------------------------------------------|
 | 19/09/26 |     12:45 | Bus departure, Agger to Lyngby             |

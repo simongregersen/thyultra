@@ -10,11 +10,11 @@ The course spans all of Thy National Park and beyond, from Løkken in the north 
 south. The course primarily follow the West Coast trail and the old lifeboat road but with
 deviations throughout. The running surface is a mix of sandy beaches, small paths, single tracks,
 wheel tracks, gravel roads, compact dirt roads, and a few paved roads through some of the villages
-and on the bike path between Hanstholm and Klitmøller. Participants on the two longest courses start
-in Bulbjerg and the remaining courses join further along on the way to Agger.
+and on the bike path between Hanstholm and Klitmøller. <!-- Participants on the two longest courses start -->
+<!-- in Bulbjerg and the remaining courses join further along on the way to Agger. -->
 
-The interactive map found below shows the race area. The red pins indicate the location of the start
-areas and the orange pins indicate the location of the aid stations.
+The interactive map found below shows the entire race area. The red pins indicate the location of
+the start areas and the orange pins indicate the location of the aid stations.
 
 <iframe width="100%" height="560px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/cold-hawaii-ultra_548473?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
