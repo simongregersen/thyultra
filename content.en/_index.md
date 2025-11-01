@@ -53,6 +53,6 @@ All courses finish at Vesterhavshytten and Signalmasten in Agger.
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="200px" style="margin: 20px"/></a>
 <a href="https://itra.run/Races/RaceDetails/89627" target="_blank"><img src="/itra_member.png" width="150px" /></a>
 <br>
-<a href="http://d-u-v.org" target="_blank"><img src="/duv.png" height="60px" /></a>
+<a href="https://d-u-v.org" target="_blank"><img src="/duv.png" height="60px" /></a>
 
 </center>

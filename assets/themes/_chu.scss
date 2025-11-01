@@ -1,3 +1,5 @@
 :root {
   @include theme-chu;
+
+  .markdown table { width: 100% }
 }

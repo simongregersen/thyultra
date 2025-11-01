@@ -1,4 +1,4 @@
----
+n---
 title: About the race
 bookToc: true
 ---
@@ -10,39 +10,32 @@ bookToc: true
 <!-- + Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}} -->
 
 Cold Hawaii Ultra is a trail running race from
+
 + Løkken/Grønhøj Strand to Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2024/89630" >}}
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2024/89628">}}
 + Hanstholm to Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2024/89627" >}}
 + Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2024/89629" >}}
 + Lyngby to Agger (12 km)
 
-following the old lifeboat road and the West Coast Trail on the northwest coast of Jutland, Denmark.
+along the old lifeboat road and the West Coast Trail on the northwest coast of Denmark.
 
-The race is a low-key trail running race without any fuss. We focus on the incredible landscape and
-finding the best trails in the area. Courses are marked with small orange flags and aid stations are
-available along the course. All finishers receive a unique trophy at the finish line.
+This event is a low-key trail running race without too much fuss. Our priority is taking you onto
+the best trails in the area and giving you the most spectacular views.
+
 
 {{< hint info >}}
 
   **Note that the first half of the 100 miles course is unmarked.** Participants will have to
     navigate this part of the course using a GPS unit or a GPS running watch. The remaining half is
-    marked. GPS navigation is **not** necessary on 50 miles, 50 km, 24 km, or 12 km.
+    marked using small orange flags. GPS navigation is **not** required to participate on the 50
+    miles, 50 km, 24 km, or 12 km courses.
 
 {{< /hint >}}
 
-<!-- {{< hint info >}} -->
+More detail on the courses can be found on the dedicated [Course]({{< relref "/course" >}}) page.
 
-<!--   **Note that the first 20 km of the 100 km course is unmarked.** Participants will have to navigate -->
-<!--     this part of the course using a GPS unit or a GPS running watch. The remaining course is -->
-<!--     marked. GPS navigation is not necessary to finish the courses on 50 miles, 50 km, 24 km, or 12 -->
-<!--     km. -->
-
-<!-- {{< /hint >}} -->
-
-The full extent of the race course is described in detail on the dedicated [Course]({{< relref "/course" >}}) page.
-
-## Date 
-18 September, 2026, and 19 September, 2026.
+## Date
+18 and 19 September, 2026.
 
 ## Schedule
 
@@ -95,6 +88,7 @@ The full extent of the race course is described in detail on the dedicated [Cour
 | -        |     23:59 | Finish line closes, Agger                       |
 
 ### 12 km
+
 | Date     |      Time | Event                                      |
 |:---------|----------:|:-------------------------------------------|
 | 19/09/26 |     12:45 | Bus departure, Agger to Lyngby             |
@@ -161,32 +155,32 @@ The full extent of the race course is described in detail on the dedicated [Cour
 {{< hint info >}}
 
 **Bus transport** to the start area is included in the registration fee but it is **not** mandatory.
-When signing up for the race, you can indicate whether you would like to sign up for the bus. Your
-registration can be changed until a week before the race.
+When signing up for the race, you indicate whether you would like to take the bus. Your registration
+can be changed until a week before the race.
 
 {{< /hint >}}
 
 ## Race bibs and timing chip
 
-If you sign up for the bus transport to the start area, you will pick up your race bib and timing
-chip when getting on the bus. If you do not sign up for the bus transport, you pick up your race bib
-and timing chip from the race organizers in the start area.
+If you sign up for transportation to the start, you will pick up your race bib and timing chip when
+boarding the bus. If you do not sign up for the transport, you pick up your race bib and timing chip
+from the race organizers at the start.
 
 {{< hint info >}}
 
-If you sign up for the bus but decide not to board it, your race bib will still make it to the
-start area and you may pick it up from the race organizers after the bus arrives.
+If you signed up for the bus but decide not to board it, your race bib will still make it to the
+start and you can pick it up from the race organizers after the bus arrives.
 
 {{< /hint >}}
 
 ## Start and finish
 
-The finish line is located in
+The finish is located in
 
 Agger
 : [Vesterhavshytten Agger, Vesterhavsvej 2, Agger, 7770 Vestervig](https://goo.gl/maps/yJEhDMuBBBRYEKEF8)
 
-Busses to the start areas depart from Vesterhavshytten in Agger according to the schedule found above.
+Transport to the starts depart from Vesterhavshytten in Agger according to the schedule found above.
 
 Løkken, Grønhøj Strand (100 miles)
 : [Grønhøj Strandvej, 9480 Løkken](https://goo.gl/maps/CpbnY7nRW5WMVT9Q8)
@@ -203,9 +197,9 @@ Nr. Vorupør (24 km)
 Lyngby (12 km)
 : [Lyngby Redningshus, Redningsvej, 7755 Bedsted Thy](https://goo.gl/maps/ZRee3HgqSnpsBfou7)
 
-## Aid stations 
+## Aid stations
 
-At the aid stations you will find
+At all aid stations you will find
 
 - Bananas
 - Jolly Cola
@@ -215,15 +209,13 @@ At the aid stations you will find
 - Potato chips
 - Small granola bars from Nordthy
 
-Participants on the 50 miles courses can have **1 dropbag** delivered to aid station 5 in
-Klitmøller.
-
-Participants on the 100 miles courses can have **2 dropbags** delivered, one to aid station 3 in
-Bulbjerg and one to aid station 5 in Klitmøller.
+In addition, participants on the 50 miles course can have **1 dropbag** delivered to aid station 5
+in Klitmøller. Participants on the 100 miles courses can have **2 dropbags** delivered, one to aid
+station 3 in Bulbjerg and one to aid station 5 in Klitmøller.
 
 Dropbags have to be safely packaged and clearly marked with your bib number and name. Maximum
-capacity is 20 L. Dropbags are handed over to the race organizers in the start area and will be
-brought to the finish after its use.
+capacity is 20 L. Dropbags are handed over to the organizers at the start and will be brought to the
+finish after its use.
 
 ### Overview of aid stations
 
@@ -250,11 +242,10 @@ brought to the finish after its use.
 <!-- - **Finish line**: Vesterhavshytten Agger -->
 <!--   + A burger menu from Vesterhavshytten -->
 
-The exact location of all the aid stations and be found on the map on the [Course]({{< relref
-"/course" >}}) page.
+The exact location of all aid stations and be found on the [Course]({{< relref "/course" >}}) page.
 
 Supporters are only allowed to assist at the official aid stations. Participants may have company 1
-kilometer before and after the aid stations. Pacers or supporters outside of the aid station zones
+kilometer before and after all aid stations. Pacers or supporters outside of the aid station zones
 are not allowed.
 
 ## Equipment and safety
@@ -273,17 +264,18 @@ following equipment at all times:
 - **100 miles**: GPS unit or watch
 
 On the **24 km** course it is mandatory to bring a bottle or drinking system with a
-capacity of minimum 0.5 L.  No single-use cups are offered at the aid station.  
+capacity of minimum 0.5 L.  No single-use cups are offered at the aid stations.
 
-There are no mandatory equipment requirements on the **12 km** course. 
+There are no mandatory equipment requirements on the **12 km** course.
 
-We strongly advice all participants to check the weather forecast and dress accordingly. The race
-area is remote in places and vehicle access can be limited. You should prepare for having to wait a
-while for help to reach you should the need arise.
+We strongly advice all participants to check the weather forecast and dress accordingly. The course
+is remote in places and vehicle access can be limited. You may have to wait a while for help to
+reach you, should the need arise.
 
 {{< hint info >}}
 
-It is strictly necessary to bring **a headlamp** on the 50 miles and 100 miles courses. The sun rises around 07:00 and sets at 19:30.
+It is strictly necessary to bring **a headlamp** on the 50 miles and 100 miles courses. The sun
+rises around 07:00 and sets at 19:30. Plan your race and equipment accordingly.
 
 {{< /hint >}}
 
@@ -309,7 +301,8 @@ GPX files are found on the [Course]({{< relref"/course" >}}) page.
 
 ## Course closure and cutoffs
 
-All courses close at 23:59. Participants crossing the finish line after course closure will be disqualified. 
+All courses close Saturday at 23:59:59. Participants crossing the finish line after course closure
+will be disqualified.
 
 The following aid station cutoffs are enforced for all participants.
 
@@ -362,4 +355,3 @@ Cold Hawaii Ultra is organized by
 The registration for Cold Hawaii Ultra 2026 opens 1 November, 2025 at 18:00.
 
 {{< button href="https://my.raceresult.com/366415/registration" >}}Go to registration{{< /button >}}
-
