@@ -40,6 +40,7 @@ More detail on the courses can be found on the dedicated [Course]({{< relref "/c
 ## Schedule
 
 ### 100 miles
+
 | Date     |      Time | Event                                                  |
 |----------|----------:|--------------------------------------------------------|
 | 18/09/26 |     15:30 | Bus departure, Agger to Grønhøj Strand                 |
