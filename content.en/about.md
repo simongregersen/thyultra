@@ -181,12 +181,12 @@ start area and you may pick it up from the race organizers after the bus arrives
 
 ## Start and finish
 
-The finish is located in
+The finish line is located in
 
 Agger
 : [Vesterhavshytten Agger, Vesterhavsvej 2, Agger, 7770 Vestervig](https://goo.gl/maps/yJEhDMuBBBRYEKEF8)
 
-Busses to the start areas depart from Vesterhavshytten in Agger according to the schedule found in the program.
+Busses to the start areas depart from Vesterhavshytten in Agger according to the schedule found above.
 
 Løkken, Grønhøj Strand (100 miles)
 : [Grønhøj Strandvej, 9480 Løkken](https://goo.gl/maps/CpbnY7nRW5WMVT9Q8)
@@ -283,7 +283,7 @@ while for help to reach you should the need arise.
 
 {{< hint info >}}
 
-It is strictly necessary to bring **a headlamp** on the 50 miles and 100 miles courses. The sun rises at around 07:00 and sets at 19:30.
+It is strictly necessary to bring **a headlamp** on the 50 miles and 100 miles courses. The sun rises around 07:00 and sets at 19:30.
 
 {{< /hint >}}
 
@@ -309,7 +309,7 @@ GPX files are found on the [Course]({{< relref"/course" >}}) page.
 
 ## Course closure and cutoffs
 
-All courses close at 23:59. Participants arriving at the finish after course closure will be disqualified. 
+All courses close at 23:59. Participants crossing the finish line after course closure will be disqualified. 
 
 The following aid station cutoffs are enforced for all participants.
 

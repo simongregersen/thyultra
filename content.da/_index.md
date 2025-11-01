@@ -9,7 +9,7 @@ bookToc: false
 **Cold Hawaii Ultra** er drømmen om den ultimative danske ultra- og trailløbsoplevelse gennem
 vildmarken og noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
 
-&nbsp;&nbsp;&nbsp;&nbsp; **18.-19. september 2026**
+&nbsp;&nbsp;&nbsp;&nbsp; **18. og 19. september 2026**
 
 <!-- {{< hint info >}} -->
 
@@ -23,11 +23,11 @@ ganske få andre steder i verden, og komme tæt på den kulturhistorie, der knyt
 vestkysten.
 
 
-Løb **12 km**, **24 km**, **50 km**, **50 miles (ca. 81 km)** eller **100 miles** gennem store
-nationale og internationale natur- og landskabsværdier karakteriseret ved kyst, klitter, uberørte
-heder, store rene søer og klitplantagernes stilhed. Ruten bringer jer ind på småstier i klitterne,
-ned på stranden, ind i plantagernes bjergfyr og gennem små fiskersamfund, hvor kutterne stadig
-trækkes op på stranden.
+Løb **12 km**, **24 km**, **50 km**, **50 miles (ca. 81 km)** eller **100 miles (ca. 162 km)**
+gennem store nationale og internationale natur- og landskabsværdier karakteriseret ved kyst,
+klitter, uberørte heder, store rene søer og klitplantagernes stilhed. Ruten bringer jer ind på
+småstier i klitterne, ned på stranden, ind i plantagernes bjergfyr og gennem små fiskersamfund, hvor
+kutterne stadig trækkes op på stranden.
 
 **Alle distancer afvikles som løb fra A til B uden sløjer.**
 

@@ -6,10 +6,10 @@ bookToc: false
 
 ![banner](/images/banner3.jpg)
 
-**Cold Hawaii Ultra** is the dream of the ultimate trail running experience through some of
- Denmark's wildest and most astonishing nature. The race takes place on
+**Cold Hawaii Ultra** is a unique trail running experience through some of Denmark's wildest and
+ most astonishing nature. The race takes place on
 
-&nbsp;&nbsp;&nbsp;&nbsp; **18 - 19 September, 2026**
+&nbsp;&nbsp;&nbsp;&nbsp; **18-19 September, 2026**
 
 <!-- {{< hint info >}} -->
 
@@ -23,11 +23,11 @@ Park](https://nationalparkthy.dk/). From the Hanstholm Wildlife Reserve in the n
 roaring red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off
 to rest, Cold Hawaii Ultra takes you through it all.
 
-Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 miles** on foot through
-grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and the peaceful
-dune plantations. The course will take you onto small single tracks in-between the dunes, down to
-the beach, and through coniferous plantations and small coastal fishing villages where fishing
-cutters are still landed and beached every day.
+Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 miles (162 km)** on foot
+through grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and the
+peaceful dune plantations. The course will take you onto small single tracks in-between the dunes,
+down to the beach, and through coniferous plantations and small coastal fishing villages where
+fishing cutters are still landed and beached every day.
 
 The entire race area spans from Løkken in the north to Agger in the south. With deviations
 throughout, all the courses follow the [West Coast
