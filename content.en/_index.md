@@ -6,7 +6,7 @@ bookToc: false
 
 ![banner](/images/banner3.jpg)
 
-**Cold Hawaii Ultra** is a ultra and trail running race through the west coast wilderness featuring some of Denmark’s wildest and most astonishing nature. The race takes place on
+**Cold Hawaii Ultra** is a trail running race that takes you through the Danish west coast wilderness, featuring some of the country's most astonishing nature. The race takes place on
 
 &nbsp;&nbsp;&nbsp;&nbsp; **18 - 19 September, 2026**
 
@@ -16,11 +16,11 @@ bookToc: false
 
 <!-- {{< /hint >}} -->
 
-Where the North Sea hits Thy with full force, where sandstorms raged for centuries, where the
+Where the North Sea hits Thy with full force, where sandstorms raged for centuries, and where the
 expanses are greater and nature is wilder, you find [Thy National
 Park](https://nationalparkthy.dk/). From the Hanstholm Wildlife Reserve in the north, with its
-roaring red deer, to Agger Tange in the south, where tens of thousands of migratory birds stop off
-to rest, Cold Hawaii Ultra takes you through it all.
+roaring red deer, to Agger Tange in the south, where thousands of migratory birds stop off
+to rest, Cold Hawaii Ultra takes you through it all!
 
 Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 miles (162 km)** on foot
 through grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and the
@@ -28,7 +28,7 @@ peaceful dune plantations. The course will take you onto small single tracks in-
 down to the beach, and through coniferous plantations and small coastal fishing villages where
 fishing cutters are still landed and beached every day.
 
-The entire race area spans from Løkken in the north to Agger in the south. With deviations
+The race area spans from Løkken in the north to Agger in the south. With deviations
 throughout, all the courses follow the [West Coast
 Trail](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) and 'Redningsvejen',
 the old lifeboat road. The 100 miles course will also make use of the North Sea Trail and Hærvejen.

@@ -17,10 +17,11 @@ Cold Hawaii Ultra is a trail running race from
 + Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2026/122009" >}}
 + Lyngby to Agger (12 km)
 
-along the old lifeboat road and the West Coast Trail on the northwest coast of Denmark.
+along the old lifeboat road and the West Coast Trail, along the northwest coast of Denmark.
 
-The event is a low-key trail running race without too much fuss. Our priority is taking you onto
-the best trails in the area and giving you the most spectacular views.
+The event is a low-key trail running race without any fuss. Our priority is
+taking you onto the best trails in the area and giving you the most spectacular
+views.
 
 
 {{< hint info >}}
