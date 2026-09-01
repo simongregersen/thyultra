@@ -47,8 +47,8 @@ All courses finish at Vesterhavshytten and Signalmasten in Agger.
 <a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" width="175px" /></a>
 <a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" width="175px" /></a>
 <a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
-<br><br>
-<a href="https://www.thybobiler.dk/" target="_blank" style="filter: invert(100%)"><img src="/logo_thybobiler.png" width="175px" /></a>
+<br>
+<a href="https://www.thybobiler.dk/" target="_blank" style="filter: invert(100%); margin-top: 30px"><img src="/logo_thybobiler.png" width="175px" /></a>
 <br>
 <a href="https://signalmasten-agger.dk/" target="_blank"><img src="/signalmasten.png" width="200px" style="margin: 20px"/></a>
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="200px" style="margin: 20px"/></a>
