@@ -42,17 +42,18 @@ All courses finish at Vesterhavshytten and Signalmasten in Agger.
 
 
 <center>
-<!-- <a href="https://www.viabiler.dk/afdelinger/silkeborg-ford-mazda-suzuki/" target="_blank"><img src="/viabiler.png" width="175px" /></a> -->
+
 <a href="https://www.scott-sports.com" target="_blank"><img src="/scott-logo.png" width="175px" /></a>
 <a href="https://www.elsk.com/" target="_blank"><img src="/logo_elsk.png" width="175px" /></a>
 <a href="https://nordthy.com/" target="_blank"><img src="/nordthy.png" width="175px" /></a>
 <a href="https://www.trailtours.dk/" target="_blank"><img src="/trailtours.png" width="175px" /></a>
 <br>
 <a href="https://www.thybobiler.dk/" target="_blank" style="filter: invert(100%)"><img src="/logo_thybobiler.png" width="175px" /></a>
+<br>
 <a href="https://signalmasten-agger.dk/" target="_blank"><img src="/signalmasten.png" width="200px" style="margin: 20px"/></a>
 <a href="https://vesterhavshytten-agger.dk/" target="_blank"><img src="/logo_vesterhavshytten.png" width="200px" style="margin: 20px"/></a>
-<br>
 <a href="https://itra.run/Races/RaceDetails/89627" target="_blank"><img src="/itra_member.png" width="150px" /></a>
+<br>
 <a href="https://d-u-v.org" target="_blank"><img src="/duv.png" height="60px" /></a>
 
 </center>
