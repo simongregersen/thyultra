@@ -257,16 +257,16 @@ målområdet efter brug hurtigst muligt.
 
 ### Depotoversigt
 
-- **Depot 1**: Tranum (100M: ca. 28 km)
-- **Depot 2**: Svinklovene (100M: ca. 52 km)
-- **Depot 3**: Bulbjerg (100M: ca. 81 km)
+- **Depot 1**: [Tranum](https://maps.app.goo.gl/p3AykwVggsRqXd558) (100M: ca. 28 km)
+- **Depot 2**: [Svinklovene](https://maps.app.goo.gl/tXPzVoJMRcSQLbhz7) (100M: ca. 52 km)
+- **Depot 3**: [Bulbjerg](https://maps.app.goo.gl/MzE6i83jZkhPuzFP9) (100M: ca. 81 km)
   + 100M: Dropbag 1
-- **Depot 4**: Vigsø (50M: ca. 23 km, 100M: ca. 105km)
-- **Depot 5**: Klitmøller (50K: ca. 11 km, 50M: ca. 42 km, 100M: ca. 122km)
+- **Depot 4**: [Vigsø](https://maps.app.goo.gl/cPUuugyfbkszmQSN6) (50M: ca. 23 km, 100M: ca. 105km)
+- **Depot 5**: [Klitmøller](https://maps.app.goo.gl/SSug1AK2Y79wbpbt8) (50K: ca. 11 km, 50M: ca. 42 km, 100M: ca. 122km)
   + 100M: Dropbag 2
   + 50M: Dropbag
-- **Depot 6**: Vorupør (50K: ca. 26 km, 50M: ca. 57 km, 100M: ca. 137km)
-- **Depot 7**: Lyngby (24 km, ca. 13 km, 50K: ca. 38 km, 50M: ca. 70 km, 100M: v/ca 150 km)
+- **Depot 6**: [Vorupør](https://maps.app.goo.gl/7qmsZHfH6VepAnes8) (50K: ca. 26 km, 50M: ca. 57 km, 100M: ca. 137km)
+- **Depot 7**: [Lyngby](https://maps.app.goo.gl/epiWTZ4EwPUSxtr39) (24 km, ca. 13 km, 50K: ca. 38 km, 50M: ca. 70 km, 100M: v/ca 150 km)
 - **MÅL**: Vesterhavshytten Agger
   + Menu fra Vesterhavshytten
 

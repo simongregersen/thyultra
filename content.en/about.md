@@ -220,16 +220,16 @@ finish after its use.
 
 ### Overview of aid stations
 
-- **Aid station 1**: Tranum (100M: approx. 28 km)
-- **Aid station 2**: Svinklovene (100M: approx. 52 km)
-- **Aid station 3**: Bulbjerg (100M: approx. 81 km)
+- **Aid station 1**: [Tranum](https://maps.app.goo.gl/p3AykwVggsRqXd558) (100M: approx. 28 km)
+- **Aid station 2**: [Svinklovene](https://maps.app.goo.gl/tXPzVoJMRcSQLbhz7) (100M: approx. 52 km)
+- **Aid station 3**: [Bulbjerg](https://maps.app.goo.gl/MzE6i83jZkhPuzFP9) (100M: approx. 81 km)
   + 100M: Dropbag 1
-- **Aid station 4**: Vigsø (50M: approx. 23 km, 100M: approx. 105km)
-- **Aid station 5**: Klitmøller (50K: approx. 11 km, 50M: approx. 42 km, 100M: approx. 122km)
+- **Aid station 4**: [Vigsø](https://maps.app.goo.gl/cPUuugyfbkszmQSN6) (50M: approx. 23 km, 100M: approx. 105km)
+- **Aid station 5**: [Klitmøller](https://maps.app.goo.gl/SSug1AK2Y79wbpbt8) (50K: approx. 11 km, 50M: approx. 42 km, 100M: approx. 122km)
   + 100M: Dropbag 2
   + 50M: Dropbag
-- **Aid station 6**: Vorupør (50K: approx. 26 km, 50M: approx. 57 km, 100M: approx. 137km)
-- **Aid station 7**: Lyngby (24 km, approx. 13 km, 50K: approx. 38 km, 50M: approx. 70 km, 100M: v/ca 150 km)
+- **Aid station 6**: [Vorupør](https://maps.app.goo.gl/7qmsZHfH6VepAnes8) (50K: approx. 26 km, 50M: approx. 57 km, 100M: approx. 137km)
+- **Aid station 7**: [Lyngby](https://maps.app.goo.gl/epiWTZ4EwPUSxtr39) (24 km, approx. 13 km, 50K: approx. 38 km, 50M: approx. 70 km, 100M: v/ca 150 km)
 - **FINISH**: Vesterhavshytten Agger
   + Menu from Vesterhavshytten
 
