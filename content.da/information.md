@@ -211,29 +211,6 @@ Nr. Vorupør (24 km)
 Lyngby (12 km)
 : [Lyngby Redningshus, Redningsvej, 7755 Bedsted Thy](https://goo.gl/maps/ZRee3HgqSnpsBfou7)
 
-## Gennemførsel og cut-offs
-
-Målet lukker for alle distancer i Agger lørdag d. 20. september kl. 23:59.
-
-<!-- Nedenstående cutoffs håndhæves for 100 km og 50 miles, da vi vurderer, at løbere, der ikke når de -->
-<!-- angivne cut-offs, ikke vil kunne nå til mål i Agger før målområdet lukker. -->
-<!-- - Bulbjerg: kl. 09.00 (100 km) -->
-<!-- - Vigsø: kl. 12.00 -->
-<!-- - Klitmøller: kl. 16.00 -->
-<!-- - Nr. Vorupør: kl. 18.30 -->
-<!-- - Lyngby: kl. 20.00 -->
-
-Nedenstående cutoffs håndhæves for 100 miles og 50 miles, da vi vurderer, at løbere, der ikke når de
-angivne cut-offs, ikke vil kunne nå til mål i Agger før målområdet lukker.
-
-- **Depot 1, Tranum**: fredag kl. 23.00 (100 miles)
-- **Depot 2, Svinklovene**: lørdag kl. 04.00 (100 miles)
-- **Depot 3, Bulbjerg**: lørdag kl. 08.30 (100 miles)
-- **Depot 4, Vigsø**: lørdag kl. 13.00
-- **Depot 5, Klitmøller**: lørdag kl. 16.00
-- **Depot 6, Nr. Vorupør**: lørdag kl. 20.00
-- **Depot 7, Lyngby**: lørdag kl. 22.00
-
 ## Depoter og mad
 
 Ved alle depoter forefindes:
@@ -285,6 +262,29 @@ Depoternes nøjagtige placering på ruten ses af kortet under siden [Rutebeskriv
 
 Private hjælpere og supportere må kun assistere ved de officielle depoter. Løberen må have selskab
 på strækningen én km før depot til én km efter depot.
+
+## Gennemførsel og cut-offs
+
+Målet lukker for alle distancer i Agger lørdag d. 20. september kl. 23:59.
+
+<!-- Nedenstående cutoffs håndhæves for 100 km og 50 miles, da vi vurderer, at løbere, der ikke når de -->
+<!-- angivne cut-offs, ikke vil kunne nå til mål i Agger før målområdet lukker. -->
+<!-- - Bulbjerg: kl. 09.00 (100 km) -->
+<!-- - Vigsø: kl. 12.00 -->
+<!-- - Klitmøller: kl. 16.00 -->
+<!-- - Nr. Vorupør: kl. 18.30 -->
+<!-- - Lyngby: kl. 20.00 -->
+
+Nedenstående cutoffs håndhæves for 100 miles og 50 miles, da vi vurderer, at løbere, der ikke når de
+angivne cut-offs, ikke vil kunne nå til mål i Agger før målområdet lukker.
+
+- **Depot 1, Tranum**: fredag kl. 23.00 (100 miles)
+- **Depot 2, Svinklovene**: lørdag kl. 04.00 (100 miles)
+- **Depot 3, Bulbjerg**: lørdag kl. 08.30 (100 miles)
+- **Depot 4, Vigsø**: lørdag kl. 13.00
+- **Depot 5, Klitmøller**: lørdag kl. 16.00
+- **Depot 6, Nr. Vorupør**: lørdag kl. 20.00
+- **Depot 7, Lyngby**: lørdag kl. 22.00
 
 ## Udstyr og sikkerhed
 
