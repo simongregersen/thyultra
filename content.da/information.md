@@ -116,7 +116,7 @@ Fredag d. 18. september og lørdag d. 19. september 2026.
 | -        |     17:50 | De sidste løbsinformationer gives                           |
 | -        | **18:00** | **Start på Cold Hawaii Ultra 100 miles** ved Grønhøj Strand |
 | -        |     23:00 | Cut-off Tranum (Depot 1)                                    |
-| 19/09/26 |     04:00 | Cut-off Kollerup (Depot 2)                                  |
+| 19/09/26 |     04:00 | Cut-off Svinklovene (Depot 2)                               |
 | -        |     08:30 | Cut-off Bulbjerg (Depot 3)                                  |
 | -        |     13:00 | Cut-off Vigsø (Depot 4)                                     |
 | -        |     16:00 | Cut-off Klitmøller (Depot 5)                                |
@@ -227,7 +227,7 @@ Nedenstående cutoffs håndhæves for 100 miles og 50 miles, da vi vurderer, at 
 angivne cut-offs, ikke vil kunne nå til mål i Agger før målområdet lukker.
 
 - **Depot 1, Tranum**: fredag kl. 23.00 (100 miles)
-- **Depot 2, Kollerup**: lørdag kl. 04.00 (100 miles)
+- **Depot 2, Svinklovene**: lørdag kl. 04.00 (100 miles)
 - **Depot 3, Bulbjerg**: lørdag kl. 08.30 (100 miles)
 - **Depot 4, Vigsø**: lørdag kl. 13.00
 - **Depot 5, Klitmøller**: lørdag kl. 16.00
@@ -258,7 +258,7 @@ målområdet efter brug hurtigst muligt.
 ### Depotoversigt
 
 - **Depot 1**: Tranum (100M: ca. 28 km)
-- **Depot 2**: Kollerup (100M: ca. 55 km)
+- **Depot 2**: Svinklovene (100M: ca. 52 km)
 - **Depot 3**: Bulbjerg (100M: ca. 81 km)
   + 100M: Dropbag 1
 - **Depot 4**: Vigsø (50M: ca. 23 km, 100M: ca. 105km)

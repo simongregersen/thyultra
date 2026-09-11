@@ -85,17 +85,17 @@ selvom benene nok er lidt trætte allerede nu!
 
 Vel ude af bakkerne kan der slappes lidt af på stien mod Slettestrand, hvor der
 dog lige er et skred fra de stejle skrænter, der skal passeres ligesom, der også
-er et par indhegninger.  Slettestrandvej passeres efter og herefter følges
+er et par indhegninger. Slettestrandvej passeres efter og herefter følges
 Hærvejen gennem Svinkløv på virkeligt lækre og tekniske stier. Pas på, når der
 løbes stejlt ned mod Sletteåvej. Stien er tilgroet og skjuler en bro over en
 lille bæk! Følg hærvejen parallelt med Sletteåvej og snart ankommer du til det
-berømte og genopbyggede Svinkløv Hotel efter ca 50 km.  Hærvejen følges på det
-smukke singletrail, der går op og følger kanten af skrænten hele vejen til
-Svinklovene, hvorfra der er fin udsigt mod Bulbjerg længere fremme på ruten.
-Der løbes nedad de fint anlagte trapper ad grusvej og stier langs Telefondalen.
-Efter ca. 55 km rammes **Depot 2**: Hærvejen rammer Grønnestrandvej og en lille
-stejl asfaltbakke fører op til depotet, hvorefter man igen forlader asfalten og
-rammer en af rutens smukkeste små singletrails gennem klitheden! Wauw!
+berømte og genopbyggede Svinkløv Hotel efter ca 50 km. Hærvejen følges på det
+smukke singletrail, der går op og følger kanten af skrænten hele vejen til Efter
+ca. 52 km rammes **Depot 2** Svinklovene, hvorfra der er fin udsigt mod Bulbjerg
+længere fremme på ruten. Der løbes nedad de fint anlagte trapper ad grusvej og
+stier langs Telefondalen. Hærvejen rammer Grønnestrandvej og en lille stejl
+asfaltbakke, hvorefter man igen forlader asfalten og rammer en af rutens
+smukkeste små singletrails gennem klitheden! Wauw!
 
 Efter den fede sti rammes Kollerup Plantage, hvor udsigtspunktet "Toppen" skal
 bestiges. Ellers går ruten i Kollerup primært på større grusveje, indtil

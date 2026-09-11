@@ -221,7 +221,7 @@ finish after its use.
 ### Overview of aid stations
 
 - **Aid station 1**: Tranum (100M: approx. 28 km)
-- **Aid station 2**: Kollerup (100M: approx. 55 km)
+- **Aid station 2**: Svinklovene (100M: approx. 52 km)
 - **Aid station 3**: Bulbjerg (100M: approx. 81 km)
   + 100M: Dropbag 1
 - **Aid station 4**: Vigsø (50M: approx. 23 km, 100M: approx. 105km)
@@ -314,7 +314,7 @@ The following aid station cutoffs are enforced for all participants.
 <!-- - Aid station 4 (Lyngby): 20:00 -->
 
 - **Aid station 1, Tranum**: Friday at 23.00 (100 miles)
-- **Aid station 2, Kollerup**: Saturday at 04.00 (100 miles)
+- **Aid station 2, Svinklovene**: Saturday at 04.00 (100 miles)
 - **Aid station 3, Bulbjerg**: Saturday at 08.30 (100 miles)
 - **Aid station 4, Vigsø**: Saturday at 13.00
 - **Aid station 5, Klitmøller**: Saturday at 16.00
