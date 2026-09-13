@@ -10,11 +10,11 @@ bookToc: false
 
 &nbsp;&nbsp;&nbsp;&nbsp; **18 - 19 September, 2026**
 
-<!-- {{< hint info >}} -->
+{{< hint info >}}
 
-<!-- A letter for all participants of Cold Hawaii Ultra 2025 can be accessed  <a href="/2025_deltagerbrev.pdf">at this link (in Danish)</a>. -->
+The final race brief for Cold Hawaii Ultra 2026  <a href="/2026_deltagerbrev.pdf">is now available (in Danish)</a>.
 
-<!-- {{< /hint >}} -->
+{{< /hint >}}
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, and where the
 expanses are greater and nature is wilder, you find [Thy National
