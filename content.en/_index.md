@@ -6,15 +6,15 @@ bookToc: false
 
 ![banner](/images/banner3.jpg)
 
-**Cold Hawaii Ultra** is a trail running race that takes you through the Danish west coast wilderness, featuring some of the country's most astonishing nature. The race takes place on
-
-&nbsp;&nbsp;&nbsp;&nbsp; **18 - 19 September, 2026**
-
 {{< hint info >}}
 
 The final race brief for Cold Hawaii Ultra 2026  <a href="/2026_deltagerbrev.pdf">is now available (in Danish)</a>.
 
 {{< /hint >}}
+
+**Cold Hawaii Ultra** is a trail running race that takes you through the Danish west coast wilderness, featuring some of the country's most astonishing nature. The race takes place on
+
+&nbsp;&nbsp;&nbsp;&nbsp; **18 - 19 September, 2026**
 
 Where the North Sea hits Thy with full force, where sandstorms raged for centuries, and where the
 expanses are greater and nature is wilder, you find [Thy National

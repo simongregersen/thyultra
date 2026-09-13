@@ -6,16 +6,16 @@ bookToc: false
 
 ![banner](/images/banner3.jpg)
 
-**Cold Hawaii Ultra** er drømmen om den ultimative danske ultra- og trailløbsoplevelse gennem
-vildmarken og noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
-
-&nbsp;&nbsp;&nbsp;&nbsp; **18. og 19. september 2026**
-
 {{< hint info >}}
 
 Deltagerbrev for Cold Hawaii Ultra 2026 er nu tilgængeligt <a href="/2026_deltagerbrev.pdf">via dette link</a>.
 
 {{< /hint >}}
+
+**Cold Hawaii Ultra** er drømmen om den ultimative danske ultra- og trailløbsoplevelse gennem
+vildmarken og noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
+
+&nbsp;&nbsp;&nbsp;&nbsp; **18. og 19. september 2026**
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/) og Jammerbugten. Her kan man opleve klitheden, som kun findes
