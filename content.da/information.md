@@ -336,6 +336,19 @@ GPX-fil.
 
 {{< /hint >}}
 
+## GPS-tracking for 100 miles
+
+Det vil være muligt at følge løbere på 100 miles via GPS-tracking.
+
+Følg live-trackingen [online](https://go.racemap.com/events) eller ved at
+downloade appen [Time2Time Racemap](https://racemap.com/app/time2time).
+
+## Parkering
+
+Kom i god tid, så du kan parkere lovligt i Agger. Det er ikke tilladt at benytte
+sig af parkeringspladserne ved Vesterhavshytten. Benyt området ved [De Sorte
+Huse i Agger](https://goo.gl/maps/SnnaZHqpsZxUwydx6).
+
 
 ## Priser
 
@@ -359,16 +372,16 @@ GPX-fil.
   + inden 16. august: kr. 275,-
   + efter 16. august: kr. 325,-
   
-## Overdragelse af startnummer og refundering
+<!-- ## Overdragelse af startnummer og refundering -->
 
-Startnumre kan til enhver tid overdrages eller sælges til købsprisen jf. gældende lovgivning. En
-tilmelding kan ændres eller overføres via det link, der tilsendes per e-mail fra Raceresult,
-når du har tilmeldt dig.
+<!-- Startnumre kan til enhver tid overdrages eller sælges til købsprisen jf. gældende lovgivning. En -->
+<!-- tilmelding kan ændres eller overføres via det link, der tilsendes per e-mail fra Raceresult, -->
+<!-- når du har tilmeldt dig. -->
 
-Hvis det ikke er muligt at overdrage eller sælge dit startnummer på anden vis, så tilbyder vi at
-refundere deltagergebyrer (minus betalingsgebyr) indtil **1. august 2026**. Efter 1. august er det
-ikke længere muligt at få refunderet hele eller dele af deltagergebyret. Kontakt løbsledelsen på
-[gregersen@thyultra.dk](mailto:gregersen@thyultra.dk).
+<!-- Hvis det ikke er muligt at overdrage eller sælge dit startnummer på anden vis, så tilbyder vi at -->
+<!-- refundere deltagergebyrer (minus betalingsgebyr) indtil **1. august 2026**. Efter 1. august er det -->
+<!-- ikke længere muligt at få refunderet hele eller dele af deltagergebyret. Kontakt løbsledelsen på -->
+<!-- [gregersen@thyultra.dk](mailto:gregersen@thyultra.dk). -->
 
 ## Arrangør
 
