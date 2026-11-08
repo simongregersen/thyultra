@@ -7,9 +7,10 @@ bookToc: true
 
 # Løbsinformation
 
+<!-- + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2026/122007" >}} -->
+
 Et helt unikt trailløb fra
 + Bulbjerg via Vester Thorup til Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}}
-<!-- + Løkken/Grønhøj Strand til Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2026/122007" >}} -->
 + Bulbjerg til Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2026/122008">}}
 + Hanstholm til Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2026/122006" >}}
 + Nr. Vorupør til Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2026/122009" >}}
@@ -27,7 +28,7 @@ der gennemfører Cold Hawaii Ultra, vil der være et lille trofæ.
 
 {{< hint info >}}
 
-  **Bemærk (100 )**: De først 20 km af ruten er ikke mærket op for løbere på 100
+  **Bemærk (100 km)**: De først 20 km af ruten er ikke mærket op for løbere på 100
   km og vil foregå med hjælp fra egen GPS-enhed, løbeur eller lignende. De
   sidste 80 km (Bulbjerg til Agger) vil være tydeligt opmærket med orange flag.
   GPS-enhed er **ikke** nødvendig på distancerne 50 miles, 50 km, 24 km og 12

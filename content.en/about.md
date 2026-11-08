@@ -9,8 +9,9 @@ bookToc: true
 
 Cold Hawaii Ultra is a trail running race from
 
-+ Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}}
 <!-- + Løkken/Grønhøj Strand to Agger (100 miles), {{< itra 5 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.miles/2026/122007" >}} -->
+
++ Bulbjerg via Vester Thorup to Agger (100 km), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.100.km/2025/105122" >}}
 + Bulbjerg to Agger (50 miles), {{< itra 3 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.miles/2026/122008">}}
 + Hanstholm to Agger (50 km), {{< itra 2 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.50.km/2026/122006" >}}
 + Nr. Vorupør to Agger (24 km) {{< itra 1 "https://itra.run/Races/RaceDetails/Cold.Hawaii.Ultra.25.km/2026/122009" >}}

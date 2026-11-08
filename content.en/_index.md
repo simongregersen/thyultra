@@ -22,7 +22,7 @@ Park](https://nationalparkthy.dk/). From the Hanstholm Wildlife Reserve in the n
 roaring red deer, to Agger Tange in the south, where thousands of migratory birds stop off
 to rest, Cold Hawaii Ultra takes you through it all!
 
-Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km ** on foot
+Race either **12 km**, **24 km**, **50 km**, **50 miles (81 km)**, or **100 km** on foot
 through grand scenery characterized by the vast coastal dunes, jaw-dropping heathlands, and the
 peaceful dune plantations. The course will take you onto small single tracks in-between the dunes,
 down to the beach, and through coniferous plantations and small coastal fishing villages where

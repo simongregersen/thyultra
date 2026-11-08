@@ -37,7 +37,7 @@ til Agger i syd langs den jyske nordvestkyst. Deltagerene vil primært bevæge s
 ad
 [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/)
 og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger. Løbere på
-100 km0distancen starter fra Bulbjerg sammen med løberne på 50 miles, men løber
+100 km-distancen starter fra Bulbjerg sammen med løberne på 50 miles, men løber
 ved hjælp af egen GPS-enhed først mod øst gennem Vester Thorup Klitplantage, før
 de støder til den markerede rute mod Agger. Alle distancer har mål ved
 Vesterhavshytten og Signalmasten i Agger.
