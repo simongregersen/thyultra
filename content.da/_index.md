@@ -6,16 +6,16 @@ bookToc: false
 
 ![banner](/images/banner3.jpg)
 
-{{< hint info >}}
+<!-- {{< hint info >}} -->
 
-Deltagerbrev for Cold Hawaii Ultra 2026 er nu tilgængeligt <a href="/2026_deltagerbrev.pdf">via dette link</a>.
+<!-- Deltagerbrev for Cold Hawaii Ultra 2026 er nu tilgængeligt <a href="/2026_deltagerbrev.pdf">via dette link</a>. -->
 
-{{< /hint >}}
+<!-- {{< /hint >}} -->
 
 **Cold Hawaii Ultra** er drømmen om den ultimative danske ultra- og trailløbsoplevelse gennem
 vildmarken og noget af Danmarks unikkeste, barskeste og ikke mindst smukkeste natur. Løbet afvikles
 
-&nbsp;&nbsp;&nbsp;&nbsp; **18. og 19. september 2026**
+&nbsp;&nbsp;&nbsp;&nbsp; **18. september 2027**
 
 Århundreders sandflugt har skabt landskabet i og omkring [Nationalpark
 Thy](https://nationalparkthy.dk/) og Jammerbugten. Her kan man opleve klitheden, som kun findes
@@ -23,34 +23,35 @@ ganske få andre steder i verden, og komme tæt på den kulturhistorie, der knyt
 vestkysten.
 
 
-Løb **12 km**, **24 km**, **50 km**, **50 miles (ca. 81 km)** eller **100 miles (ca. 162 km)**
-gennem store nationale og internationale natur- og landskabsværdier karakteriseret ved kyst,
-klitter, uberørte heder, store rene søer og klitplantagernes stilhed. Ruten bringer jer ind på
-småstier i klitterne, ned på stranden, ind i plantagernes bjergfyr og gennem små fiskersamfund, hvor
-kutterne stadig trækkes op på stranden.
+Løb **12 km**, **24 km**, **50 km**, **50 miles (ca. 81 km)** eller **100 km**
+gennem store nationale og internationale natur- og landskabsværdier
+karakteriseret ved kyst, klitter, uberørte heder, store rene søer og
+klitplantagernes stilhed. Ruten bringer jer ind på småstier i klitterne, ned på
+stranden, ind i plantagernes bjergfyr og gennem små fiskersamfund, hvor kutterne
+stadig trækkes op på stranden.
 
 **Alle distancer afvikles som løb fra A til B uden sløjer.**
 
-<!-- Den samlede rute strækker sig fra Bulbjerg og Vester Thorup Klitplantage i nord til Agger i syd langs den jyske -->
-<!-- nordvestkyst. Deltagerene vil primært bevæge sig ad -->
-<!-- [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) og den gamle -->
-<!-- Redningsvej, der går hele vejen fra Bulbjerg til Agger. Som et nyt tiltag i 2025 er det muligt at -->
-<!-- løbe 100 km: løbere på denne distance starter fra Bulbjerg sammen med løberne på 50 miles, men løber -->
-<!-- ved hjælp af egen GPS-enhed først mod øst gennem Vester Thorup Klitplantage, før de støder til den -->
-<!-- markerede rute mod Agger. -->
-<!-- Alle distancer har mål ved -->
-<!-- Vesterhavshytten og Signalmasten i Agger. -->
+Den samlede rute strækker sig fra Bulbjerg og Vester Thorup Klitplantage i nord
+til Agger i syd langs den jyske nordvestkyst. Deltagerene vil primært bevæge sig
+ad
+[Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/)
+og den gamle Redningsvej, der går hele vejen fra Bulbjerg til Agger. Løbere på
+100 km0distancen starter fra Bulbjerg sammen med løberne på 50 miles, men løber
+ved hjælp af egen GPS-enhed først mod øst gennem Vester Thorup Klitplantage, før
+de støder til den markerede rute mod Agger. Alle distancer har mål ved
+Vesterhavshytten og Signalmasten i Agger.
 
-Den samlede rute strækker sig fra Løkken i nord til Agger i syd langs den jyske nordvestkyst.
-Deltagerene på 12 km, 24 km, 50 km og 50 miles vil primært bevæge sig ad
-[Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) og den gamle
-Redningsvej, der går hele vejen fra Bulbjerg til Agger. Deltagere på 100 miles starter syd for
-Løkken ved Grønhøj Strand og vil foruden Vestkyststien benytte sig af Nordsøstien og
-[Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved Vesterhavshytten og
-Signalmasten i Agger.
+<!-- Den samlede rute strækker sig fra Løkken i nord til Agger i syd langs den jyske nordvestkyst. -->
+<!-- Deltagerene på 12 km, 24 km, 50 km og 50 miles vil primært bevæge sig ad -->
+<!-- [Vestkyststien](https://naturstyrelsen.dk/naturoplevelser/naturguider/vestkyststien/) og den gamle -->
+<!-- Redningsvej, der går hele vejen fra Bulbjerg til Agger. Deltagere på 100 miles starter syd for -->
+<!-- Løkken ved Grønhøj Strand og vil foruden Vestkyststien benytte sig af Nordsøstien og -->
+<!-- [Hærvejsvandreruten](https://www.haervej.dk/). Alle distancer har mål ved Vesterhavshytten og -->
+<!-- Signalmasten i Agger. -->
 
 {{< button relref="/information" >}}Læs mere{{< /button >}}
-{{< button href="https://my.raceresult.com/366415/" >}}Gå til tilmelding{{< /button >}}
+{{< button href="https://my.raceresult.com/434618/registration" >}}Gå til tilmelding{{< /button >}}
 
 <br>
 

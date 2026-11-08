@@ -6,8 +6,8 @@ headless: true
 - [Løbsinformation]({{< relref "/information" >}})
 - [Rutebeskrivelse]({{< relref "/ruten" >}})
 - [Regler]({{< relref "/regler" >}})
-- [Tilmelding 2026](https://my.raceresult.com/366415/)
-- [Startliste 2026](https://my.raceresult.com/366415/participants)
+- [Tilmelding 2027](https://my.raceresult.com/434618/registration)
+<!-- - [Startliste 2026](https://my.raceresult.com/366415/participants) -->
 - [Resultater]({{< relref "/resultater" >}})
 - [Billeder og video]({{< relref "/foto" >}})
 - [Kontakt](mailto:gregersen@thyultra.dk)

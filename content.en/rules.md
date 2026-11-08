@@ -9,9 +9,9 @@ bookToc: false
 
 ## Course
 
-- The race course must be followed at all times. The course is marked with small orange flags. The
-  first half of the 100 miles course is **not** be marked and participants must navigate using a GPS
-  unit.
+- The race course must be followed at all times. The course is marked with small
+  orange flags. The first 20 km of the 100 km course is **unmarked** and
+  participants must navigate using a GPS unit.
 - If you leave the course by mistake, you must return immediately.
 - It is your own responsibility to follow the course.
 - A penalty might be given if an advantageous detour or shortcut is taken. This is at the discretion of the race organizers.
